@@ -1,0 +1,23 @@
+@SampleID:RH_S001__insert_270.fq
+@Version:Metalign
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+10239	superkingdom	10239	Viruses	27.6081
+2	superkingdom	2	Bacteria	7.14751
+1224	phylum	2|1224	Bacteria|Proteobacteria	7.10184
+201174	phylum	2|201174	Bacteria|Actinobacteria	0.04567
+1236	class	2|1224|1236	Bacteria|Proteobacteria|Gammaproteobacteria	7.10184
+1760	class	2|201174|1760	Bacteria|Actinobacteria|Actinobacteria	0.04567
+135619	order	2|1224|1236|135619	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales	7.10184
+85007	order	2|201174|1760|85007	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales	0.04567
+224372	family	2|1224|1236|135619|224372	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae	7.10184
+1762	family	2|201174|1760|85007|1762	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae	0.04567
+59753	genus	2|1224|1236|135619|224372|59753	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae|Alcanivorax	7.10184
+1763	genus	2|201174|1760|85007|1762|1763	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium	0.04567
+239364	species	10239||||||239364	Viruses||||||uncultured human fecal virus	27.6081
+172371	species	2|1224|1236|135619|224372|59753|172371	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae|Alcanivorax|Alcanivorax venustensis	7.10184
+1773	species	2|201174|1760|85007|1762|1763|1773	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium|Mycobacterium tuberculosis	0.04567
+239364.1.1	strain	10239||||||239364|239364.1.1	Viruses||||||uncultured human fecal virus|	27.6081	239364.1.1	239364
+172371.0	strain	2|1224|1236|135619|224372|59753|172371|172371.0	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae|Alcanivorax|Alcanivorax venustensis|Alcanivorax venustensis unknown strain	7.10184	172371.0	172371
+1773.1307.1	strain	2|201174|1760|85007|1762|1763|1773|1773.1307.1	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium|Mycobacterium tuberculosis|	0.04567	1773.1307.1	1773

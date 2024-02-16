@@ -1,0 +1,16 @@
+@SampleID:Results/ReadMapping/SAM-files/shouji__n3_r15.sam
+@Version:Metalign
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+10239	superkingdom	10239	Viruses	83.48081
+2	superkingdom	2	Bacteria	16.51919
+1224	phylum	2|1224	Bacteria|Proteobacteria	16.51919
+1236	class	2|1224|1236	Bacteria|Proteobacteria|Gammaproteobacteria	16.51919
+135619	order	2|1224|1236|135619	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales	16.51919
+224372	family	2|1224|1236|135619|224372	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae	16.51919
+59753	genus	2|1224|1236|135619|224372|59753	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae|Alcanivorax	16.51919
+239364	species	10239||||||239364	Viruses||||||uncultured human fecal virus	83.48081
+172371	species	2|1224|1236|135619|224372|59753|172371	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae|Alcanivorax|Alcanivorax venustensis	16.51919
+239364.1.1	strain	10239||||||239364|239364.1.1	Viruses||||||uncultured human fecal virus|	83.48081	239364.1.1	239364
+172371.0	strain	2|1224|1236|135619|224372|59753|172371|172371.0	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae|Alcanivorax|Alcanivorax venustensis|Alcanivorax venustensis unknown strain	16.51919	172371.0	172371

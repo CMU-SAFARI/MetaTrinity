@@ -1,0 +1,1513 @@
+tool	rank	metric	sample	value
+Gold standard	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+Gold standard	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+Gold standard	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+Gold standard	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+Gold standard	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+Gold standard	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+Gold standard	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+Gold standard	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+Gold standard	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+Gold standard	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+Gold standard	phylum	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+Gold standard	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+Gold standard	class	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+Gold standard	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+Gold standard	order	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+Gold standard	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+Gold standard	family	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+Gold standard	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+Gold standard	genus	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+Gold standard	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+Gold standard	species	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+Gold standard	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+Gold standard	strain	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+Gold standard	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+Gold standard	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+Gold standard	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+Gold standard	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+Gold standard	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+Gold standard	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+Gold standard	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+Gold standard	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+Gold standard	phylum	True positives	RL_S001__insert_270.fq	1.0
+Gold standard	phylum	False negatives	RL_S001__insert_270.fq	0.0
+Gold standard	phylum	False positives	RL_S001__insert_270.fq	0.0
+Gold standard	phylum	Completeness	RL_S001__insert_270.fq	1.0
+Gold standard	phylum	Purity	RL_S001__insert_270.fq	1.0
+Gold standard	phylum	F1 score	RL_S001__insert_270.fq	1.0
+Gold standard	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+Gold standard	class	True positives	RL_S001__insert_270.fq	1.0
+Gold standard	class	False negatives	RL_S001__insert_270.fq	0.0
+Gold standard	class	False positives	RL_S001__insert_270.fq	0.0
+Gold standard	class	Completeness	RL_S001__insert_270.fq	1.0
+Gold standard	class	Purity	RL_S001__insert_270.fq	1.0
+Gold standard	class	F1 score	RL_S001__insert_270.fq	1.0
+Gold standard	class	Jaccard index	RL_S001__insert_270.fq	1.0
+Gold standard	order	True positives	RL_S001__insert_270.fq	1.0
+Gold standard	order	False negatives	RL_S001__insert_270.fq	0.0
+Gold standard	order	False positives	RL_S001__insert_270.fq	0.0
+Gold standard	order	Completeness	RL_S001__insert_270.fq	1.0
+Gold standard	order	Purity	RL_S001__insert_270.fq	1.0
+Gold standard	order	F1 score	RL_S001__insert_270.fq	1.0
+Gold standard	order	Jaccard index	RL_S001__insert_270.fq	1.0
+Gold standard	family	True positives	RL_S001__insert_270.fq	1.0
+Gold standard	family	False negatives	RL_S001__insert_270.fq	0.0
+Gold standard	family	False positives	RL_S001__insert_270.fq	0.0
+Gold standard	family	Completeness	RL_S001__insert_270.fq	1.0
+Gold standard	family	Purity	RL_S001__insert_270.fq	1.0
+Gold standard	family	F1 score	RL_S001__insert_270.fq	1.0
+Gold standard	family	Jaccard index	RL_S001__insert_270.fq	1.0
+Gold standard	genus	True positives	RL_S001__insert_270.fq	1.0
+Gold standard	genus	False negatives	RL_S001__insert_270.fq	0.0
+Gold standard	genus	False positives	RL_S001__insert_270.fq	0.0
+Gold standard	genus	Completeness	RL_S001__insert_270.fq	1.0
+Gold standard	genus	Purity	RL_S001__insert_270.fq	1.0
+Gold standard	genus	F1 score	RL_S001__insert_270.fq	1.0
+Gold standard	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+Gold standard	species	True positives	RL_S001__insert_270.fq	1.0
+Gold standard	species	False negatives	RL_S001__insert_270.fq	0.0
+Gold standard	species	False positives	RL_S001__insert_270.fq	0.0
+Gold standard	species	Completeness	RL_S001__insert_270.fq	1.0
+Gold standard	species	Purity	RL_S001__insert_270.fq	1.0
+Gold standard	species	F1 score	RL_S001__insert_270.fq	1.0
+Gold standard	species	Jaccard index	RL_S001__insert_270.fq	1.0
+Gold standard	strain	True positives	RL_S001__insert_270.fq	1.0
+Gold standard	strain	False negatives	RL_S001__insert_270.fq	0.0
+Gold standard	strain	False positives	RL_S001__insert_270.fq	0.0
+Gold standard	strain	Completeness	RL_S001__insert_270.fq	1.0
+Gold standard	strain	Purity	RL_S001__insert_270.fq	1.0
+Gold standard	strain	F1 score	RL_S001__insert_270.fq	1.0
+Gold standard	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+Gold standard	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.0
+Gold standard	phylum	L1 norm error	RL_S001__insert_270.fq	0.0
+Gold standard	class	L1 norm error	RL_S001__insert_270.fq	0.0
+Gold standard	order	L1 norm error	RL_S001__insert_270.fq	0.0
+Gold standard	family	L1 norm error	RL_S001__insert_270.fq	0.0
+Gold standard	genus	L1 norm error	RL_S001__insert_270.fq	0.0
+Gold standard	species	L1 norm error	RL_S001__insert_270.fq	0.0
+Gold standard	strain	L1 norm error	RL_S001__insert_270.fq	0.0
+Gold standard	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.0
+Gold standard	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+Gold standard	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+Gold standard	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+Gold standard	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+Gold standard	phylum	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+Gold standard	class	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+Gold standard	order	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+Gold standard	family	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+Gold standard	genus	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+Gold standard	species	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+Gold standard	strain	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+Gold standard	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+Gold standard	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+Gold standard	class	Taxon counts	RL_S001__insert_270.fq	1.0
+Gold standard	order	Taxon counts	RL_S001__insert_270.fq	1.0
+Gold standard	family	Taxon counts	RL_S001__insert_270.fq	1.0
+Gold standard	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+Gold standard	species	Taxon counts	RL_S001__insert_270.fq	1.0
+Gold standard	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+adjacency-filter	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.08195021879786005
+adjacency-filter	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.08195021879786005
+adjacency-filter	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.08195021879786005
+adjacency-filter	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.08195021879786005
+adjacency-filter	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.08195021879786005
+adjacency-filter	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.08195021879786005
+adjacency-filter	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.08195021879786005
+adjacency-filter	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.08195021879786005
+adjacency-filter	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.3514009728174597
+adjacency-filter	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+adjacency-filter	phylum	Shannon diversity	RL_S001__insert_270.fq	0.3514009728174597
+adjacency-filter	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+adjacency-filter	class	Shannon diversity	RL_S001__insert_270.fq	0.3514009728174597
+adjacency-filter	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+adjacency-filter	order	Shannon diversity	RL_S001__insert_270.fq	0.3514009728174597
+adjacency-filter	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+adjacency-filter	family	Shannon diversity	RL_S001__insert_270.fq	0.3514009728174597
+adjacency-filter	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+adjacency-filter	genus	Shannon diversity	RL_S001__insert_270.fq	0.3514009728174597
+adjacency-filter	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+adjacency-filter	species	Shannon diversity	RL_S001__insert_270.fq	0.3514009728174597
+adjacency-filter	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+adjacency-filter	strain	Shannon diversity	RL_S001__insert_270.fq	0.3514009728174597
+adjacency-filter	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+adjacency-filter	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+adjacency-filter	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+adjacency-filter	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+adjacency-filter	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+adjacency-filter	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+adjacency-filter	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+adjacency-filter	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+adjacency-filter	phylum	True positives	RL_S001__insert_270.fq	1.0
+adjacency-filter	phylum	False negatives	RL_S001__insert_270.fq	0.0
+adjacency-filter	phylum	False positives	RL_S001__insert_270.fq	0.0
+adjacency-filter	phylum	Completeness	RL_S001__insert_270.fq	1.0
+adjacency-filter	phylum	Purity	RL_S001__insert_270.fq	1.0
+adjacency-filter	phylum	F1 score	RL_S001__insert_270.fq	1.0
+adjacency-filter	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+adjacency-filter	class	True positives	RL_S001__insert_270.fq	1.0
+adjacency-filter	class	False negatives	RL_S001__insert_270.fq	0.0
+adjacency-filter	class	False positives	RL_S001__insert_270.fq	0.0
+adjacency-filter	class	Completeness	RL_S001__insert_270.fq	1.0
+adjacency-filter	class	Purity	RL_S001__insert_270.fq	1.0
+adjacency-filter	class	F1 score	RL_S001__insert_270.fq	1.0
+adjacency-filter	class	Jaccard index	RL_S001__insert_270.fq	1.0
+adjacency-filter	order	True positives	RL_S001__insert_270.fq	1.0
+adjacency-filter	order	False negatives	RL_S001__insert_270.fq	0.0
+adjacency-filter	order	False positives	RL_S001__insert_270.fq	0.0
+adjacency-filter	order	Completeness	RL_S001__insert_270.fq	1.0
+adjacency-filter	order	Purity	RL_S001__insert_270.fq	1.0
+adjacency-filter	order	F1 score	RL_S001__insert_270.fq	1.0
+adjacency-filter	order	Jaccard index	RL_S001__insert_270.fq	1.0
+adjacency-filter	family	True positives	RL_S001__insert_270.fq	1.0
+adjacency-filter	family	False negatives	RL_S001__insert_270.fq	0.0
+adjacency-filter	family	False positives	RL_S001__insert_270.fq	0.0
+adjacency-filter	family	Completeness	RL_S001__insert_270.fq	1.0
+adjacency-filter	family	Purity	RL_S001__insert_270.fq	1.0
+adjacency-filter	family	F1 score	RL_S001__insert_270.fq	1.0
+adjacency-filter	family	Jaccard index	RL_S001__insert_270.fq	1.0
+adjacency-filter	genus	True positives	RL_S001__insert_270.fq	1.0
+adjacency-filter	genus	False negatives	RL_S001__insert_270.fq	0.0
+adjacency-filter	genus	False positives	RL_S001__insert_270.fq	0.0
+adjacency-filter	genus	Completeness	RL_S001__insert_270.fq	1.0
+adjacency-filter	genus	Purity	RL_S001__insert_270.fq	1.0
+adjacency-filter	genus	F1 score	RL_S001__insert_270.fq	1.0
+adjacency-filter	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+adjacency-filter	species	True positives	RL_S001__insert_270.fq	1.0
+adjacency-filter	species	False negatives	RL_S001__insert_270.fq	0.0
+adjacency-filter	species	False positives	RL_S001__insert_270.fq	0.0
+adjacency-filter	species	Completeness	RL_S001__insert_270.fq	1.0
+adjacency-filter	species	Purity	RL_S001__insert_270.fq	1.0
+adjacency-filter	species	F1 score	RL_S001__insert_270.fq	1.0
+adjacency-filter	species	Jaccard index	RL_S001__insert_270.fq	1.0
+adjacency-filter	strain	True positives	RL_S001__insert_270.fq	1.0
+adjacency-filter	strain	False negatives	RL_S001__insert_270.fq	0.0
+adjacency-filter	strain	False positives	RL_S001__insert_270.fq	0.0
+adjacency-filter	strain	Completeness	RL_S001__insert_270.fq	1.0
+adjacency-filter	strain	Purity	RL_S001__insert_270.fq	1.0
+adjacency-filter	strain	F1 score	RL_S001__insert_270.fq	1.0
+adjacency-filter	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+adjacency-filter	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.08629389999999994
+adjacency-filter	phylum	L1 norm error	RL_S001__insert_270.fq	0.08629389999999994
+adjacency-filter	class	L1 norm error	RL_S001__insert_270.fq	0.08629389999999994
+adjacency-filter	order	L1 norm error	RL_S001__insert_270.fq	0.08629389999999994
+adjacency-filter	family	L1 norm error	RL_S001__insert_270.fq	0.08629389999999994
+adjacency-filter	genus	L1 norm error	RL_S001__insert_270.fq	0.08629389999999994
+adjacency-filter	species	L1 norm error	RL_S001__insert_270.fq	0.08629389999999994
+adjacency-filter	strain	L1 norm error	RL_S001__insert_270.fq	0.08629389999999994
+adjacency-filter	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.009381379699999998
+adjacency-filter	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+adjacency-filter	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+adjacency-filter	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+adjacency-filter	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.48335500000000003
+adjacency-filter	phylum	Sum of abundances	RL_S001__insert_270.fq	0.48335500000000003
+adjacency-filter	class	Sum of abundances	RL_S001__insert_270.fq	0.48335500000000003
+adjacency-filter	order	Sum of abundances	RL_S001__insert_270.fq	0.48335500000000003
+adjacency-filter	family	Sum of abundances	RL_S001__insert_270.fq	0.48335500000000003
+adjacency-filter	genus	Sum of abundances	RL_S001__insert_270.fq	0.48335500000000003
+adjacency-filter	species	Sum of abundances	RL_S001__insert_270.fq	0.48335500000000003
+adjacency-filter	strain	Sum of abundances	RL_S001__insert_270.fq	0.48335500000000003
+adjacency-filter	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+adjacency-filter	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+adjacency-filter	class	Taxon counts	RL_S001__insert_270.fq	1.0
+adjacency-filter	order	Taxon counts	RL_S001__insert_270.fq	1.0
+adjacency-filter	family	Taxon counts	RL_S001__insert_270.fq	1.0
+adjacency-filter	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+adjacency-filter	species	Taxon counts	RL_S001__insert_270.fq	1.0
+adjacency-filter	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib	phylum	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib	class	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib	order	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib	family	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib	genus	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib	species	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib	strain	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+edlib	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+edlib	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+edlib	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+edlib	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+edlib	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+edlib	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib	phylum	True positives	RL_S001__insert_270.fq	1.0
+edlib	phylum	False negatives	RL_S001__insert_270.fq	0.0
+edlib	phylum	False positives	RL_S001__insert_270.fq	0.0
+edlib	phylum	Completeness	RL_S001__insert_270.fq	1.0
+edlib	phylum	Purity	RL_S001__insert_270.fq	1.0
+edlib	phylum	F1 score	RL_S001__insert_270.fq	1.0
+edlib	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib	class	True positives	RL_S001__insert_270.fq	1.0
+edlib	class	False negatives	RL_S001__insert_270.fq	0.0
+edlib	class	False positives	RL_S001__insert_270.fq	0.0
+edlib	class	Completeness	RL_S001__insert_270.fq	1.0
+edlib	class	Purity	RL_S001__insert_270.fq	1.0
+edlib	class	F1 score	RL_S001__insert_270.fq	1.0
+edlib	class	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib	order	True positives	RL_S001__insert_270.fq	1.0
+edlib	order	False negatives	RL_S001__insert_270.fq	0.0
+edlib	order	False positives	RL_S001__insert_270.fq	0.0
+edlib	order	Completeness	RL_S001__insert_270.fq	1.0
+edlib	order	Purity	RL_S001__insert_270.fq	1.0
+edlib	order	F1 score	RL_S001__insert_270.fq	1.0
+edlib	order	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib	family	True positives	RL_S001__insert_270.fq	1.0
+edlib	family	False negatives	RL_S001__insert_270.fq	0.0
+edlib	family	False positives	RL_S001__insert_270.fq	0.0
+edlib	family	Completeness	RL_S001__insert_270.fq	1.0
+edlib	family	Purity	RL_S001__insert_270.fq	1.0
+edlib	family	F1 score	RL_S001__insert_270.fq	1.0
+edlib	family	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib	genus	True positives	RL_S001__insert_270.fq	1.0
+edlib	genus	False negatives	RL_S001__insert_270.fq	0.0
+edlib	genus	False positives	RL_S001__insert_270.fq	0.0
+edlib	genus	Completeness	RL_S001__insert_270.fq	1.0
+edlib	genus	Purity	RL_S001__insert_270.fq	1.0
+edlib	genus	F1 score	RL_S001__insert_270.fq	1.0
+edlib	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib	species	True positives	RL_S001__insert_270.fq	1.0
+edlib	species	False negatives	RL_S001__insert_270.fq	0.0
+edlib	species	False positives	RL_S001__insert_270.fq	0.0
+edlib	species	Completeness	RL_S001__insert_270.fq	1.0
+edlib	species	Purity	RL_S001__insert_270.fq	1.0
+edlib	species	F1 score	RL_S001__insert_270.fq	1.0
+edlib	species	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib	strain	True positives	RL_S001__insert_270.fq	1.0
+edlib	strain	False negatives	RL_S001__insert_270.fq	0.0
+edlib	strain	False positives	RL_S001__insert_270.fq	0.0
+edlib	strain	Completeness	RL_S001__insert_270.fq	1.0
+edlib	strain	Purity	RL_S001__insert_270.fq	1.0
+edlib	strain	F1 score	RL_S001__insert_270.fq	1.0
+edlib	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib	phylum	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib	class	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib	order	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib	family	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib	genus	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib	species	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib	strain	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.0
+edlib	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+edlib	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+edlib	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+edlib	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib	phylum	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib	class	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib	order	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib	family	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib	genus	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib	species	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib	strain	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib	class	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib	order	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib	family	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib	species	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original	phylum	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original	class	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original	order	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original	family	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original	genus	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original	species	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original	strain	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+grim_original	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+grim_original	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+grim_original	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+grim_original	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+grim_original	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+grim_original	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original	phylum	True positives	RL_S001__insert_270.fq	1.0
+grim_original	phylum	False negatives	RL_S001__insert_270.fq	0.0
+grim_original	phylum	False positives	RL_S001__insert_270.fq	0.0
+grim_original	phylum	Completeness	RL_S001__insert_270.fq	1.0
+grim_original	phylum	Purity	RL_S001__insert_270.fq	1.0
+grim_original	phylum	F1 score	RL_S001__insert_270.fq	1.0
+grim_original	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original	class	True positives	RL_S001__insert_270.fq	1.0
+grim_original	class	False negatives	RL_S001__insert_270.fq	0.0
+grim_original	class	False positives	RL_S001__insert_270.fq	0.0
+grim_original	class	Completeness	RL_S001__insert_270.fq	1.0
+grim_original	class	Purity	RL_S001__insert_270.fq	1.0
+grim_original	class	F1 score	RL_S001__insert_270.fq	1.0
+grim_original	class	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original	order	True positives	RL_S001__insert_270.fq	1.0
+grim_original	order	False negatives	RL_S001__insert_270.fq	0.0
+grim_original	order	False positives	RL_S001__insert_270.fq	0.0
+grim_original	order	Completeness	RL_S001__insert_270.fq	1.0
+grim_original	order	Purity	RL_S001__insert_270.fq	1.0
+grim_original	order	F1 score	RL_S001__insert_270.fq	1.0
+grim_original	order	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original	family	True positives	RL_S001__insert_270.fq	1.0
+grim_original	family	False negatives	RL_S001__insert_270.fq	0.0
+grim_original	family	False positives	RL_S001__insert_270.fq	0.0
+grim_original	family	Completeness	RL_S001__insert_270.fq	1.0
+grim_original	family	Purity	RL_S001__insert_270.fq	1.0
+grim_original	family	F1 score	RL_S001__insert_270.fq	1.0
+grim_original	family	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original	genus	True positives	RL_S001__insert_270.fq	1.0
+grim_original	genus	False negatives	RL_S001__insert_270.fq	0.0
+grim_original	genus	False positives	RL_S001__insert_270.fq	0.0
+grim_original	genus	Completeness	RL_S001__insert_270.fq	1.0
+grim_original	genus	Purity	RL_S001__insert_270.fq	1.0
+grim_original	genus	F1 score	RL_S001__insert_270.fq	1.0
+grim_original	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original	species	True positives	RL_S001__insert_270.fq	1.0
+grim_original	species	False negatives	RL_S001__insert_270.fq	0.0
+grim_original	species	False positives	RL_S001__insert_270.fq	0.0
+grim_original	species	Completeness	RL_S001__insert_270.fq	1.0
+grim_original	species	Purity	RL_S001__insert_270.fq	1.0
+grim_original	species	F1 score	RL_S001__insert_270.fq	1.0
+grim_original	species	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original	strain	True positives	RL_S001__insert_270.fq	1.0
+grim_original	strain	False negatives	RL_S001__insert_270.fq	0.0
+grim_original	strain	False positives	RL_S001__insert_270.fq	0.0
+grim_original	strain	Completeness	RL_S001__insert_270.fq	1.0
+grim_original	strain	Purity	RL_S001__insert_270.fq	1.0
+grim_original	strain	F1 score	RL_S001__insert_270.fq	1.0
+grim_original	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original	phylum	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original	class	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original	order	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original	family	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original	genus	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original	species	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original	strain	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.009425691642857148
+grim_original	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+grim_original	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+grim_original	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+grim_original	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original	phylum	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original	class	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original	order	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original	family	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original	genus	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original	species	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original	strain	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original	class	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original	order	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original	family	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original	species	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original_tweak	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original_tweak	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original_tweak	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original_tweak	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original_tweak	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original_tweak	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original_tweak	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original_tweak	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+grim_original_tweak	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original_tweak	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original_tweak	phylum	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original_tweak	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original_tweak	class	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original_tweak	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original_tweak	order	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original_tweak	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original_tweak	family	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original_tweak	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original_tweak	genus	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original_tweak	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original_tweak	species	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original_tweak	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original_tweak	strain	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+grim_original_tweak	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+grim_original_tweak	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+grim_original_tweak	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+grim_original_tweak	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+grim_original_tweak	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+grim_original_tweak	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original_tweak	phylum	True positives	RL_S001__insert_270.fq	1.0
+grim_original_tweak	phylum	False negatives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	phylum	False positives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	phylum	Completeness	RL_S001__insert_270.fq	1.0
+grim_original_tweak	phylum	Purity	RL_S001__insert_270.fq	1.0
+grim_original_tweak	phylum	F1 score	RL_S001__insert_270.fq	1.0
+grim_original_tweak	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original_tweak	class	True positives	RL_S001__insert_270.fq	1.0
+grim_original_tweak	class	False negatives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	class	False positives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	class	Completeness	RL_S001__insert_270.fq	1.0
+grim_original_tweak	class	Purity	RL_S001__insert_270.fq	1.0
+grim_original_tweak	class	F1 score	RL_S001__insert_270.fq	1.0
+grim_original_tweak	class	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original_tweak	order	True positives	RL_S001__insert_270.fq	1.0
+grim_original_tweak	order	False negatives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	order	False positives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	order	Completeness	RL_S001__insert_270.fq	1.0
+grim_original_tweak	order	Purity	RL_S001__insert_270.fq	1.0
+grim_original_tweak	order	F1 score	RL_S001__insert_270.fq	1.0
+grim_original_tweak	order	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original_tweak	family	True positives	RL_S001__insert_270.fq	1.0
+grim_original_tweak	family	False negatives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	family	False positives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	family	Completeness	RL_S001__insert_270.fq	1.0
+grim_original_tweak	family	Purity	RL_S001__insert_270.fq	1.0
+grim_original_tweak	family	F1 score	RL_S001__insert_270.fq	1.0
+grim_original_tweak	family	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original_tweak	genus	True positives	RL_S001__insert_270.fq	1.0
+grim_original_tweak	genus	False negatives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	genus	False positives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	genus	Completeness	RL_S001__insert_270.fq	1.0
+grim_original_tweak	genus	Purity	RL_S001__insert_270.fq	1.0
+grim_original_tweak	genus	F1 score	RL_S001__insert_270.fq	1.0
+grim_original_tweak	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original_tweak	species	True positives	RL_S001__insert_270.fq	1.0
+grim_original_tweak	species	False negatives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	species	False positives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	species	Completeness	RL_S001__insert_270.fq	1.0
+grim_original_tweak	species	Purity	RL_S001__insert_270.fq	1.0
+grim_original_tweak	species	F1 score	RL_S001__insert_270.fq	1.0
+grim_original_tweak	species	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original_tweak	strain	True positives	RL_S001__insert_270.fq	1.0
+grim_original_tweak	strain	False negatives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	strain	False positives	RL_S001__insert_270.fq	0.0
+grim_original_tweak	strain	Completeness	RL_S001__insert_270.fq	1.0
+grim_original_tweak	strain	Purity	RL_S001__insert_270.fq	1.0
+grim_original_tweak	strain	F1 score	RL_S001__insert_270.fq	1.0
+grim_original_tweak	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+grim_original_tweak	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original_tweak	phylum	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original_tweak	class	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original_tweak	order	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original_tweak	family	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original_tweak	genus	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original_tweak	species	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original_tweak	strain	L1 norm error	RL_S001__insert_270.fq	0.0867015
+grim_original_tweak	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.009425691642857148
+grim_original_tweak	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+grim_original_tweak	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+grim_original_tweak	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+grim_original_tweak	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original_tweak	phylum	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original_tweak	class	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original_tweak	order	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original_tweak	family	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original_tweak	genus	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original_tweak	species	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original_tweak	strain	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+grim_original_tweak	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original_tweak	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original_tweak	class	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original_tweak	order	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original_tweak	family	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original_tweak	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original_tweak	species	Taxon counts	RL_S001__insert_270.fq	1.0
+grim_original_tweak	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+hd	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.003064666496862295
+hd	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.003064666496862295
+hd	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.003064666496862295
+hd	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.003064666496862295
+hd	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.003064666496862295
+hd	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.003064666496862295
+hd	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.003064666496862295
+hd	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.003064666496862295
+hd	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.3220728337922232
+hd	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+hd	phylum	Shannon diversity	RL_S001__insert_270.fq	0.3220728337922232
+hd	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+hd	class	Shannon diversity	RL_S001__insert_270.fq	0.3220728337922232
+hd	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+hd	order	Shannon diversity	RL_S001__insert_270.fq	0.3220728337922232
+hd	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+hd	family	Shannon diversity	RL_S001__insert_270.fq	0.3220728337922232
+hd	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+hd	genus	Shannon diversity	RL_S001__insert_270.fq	0.3220728337922232
+hd	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+hd	species	Shannon diversity	RL_S001__insert_270.fq	0.3220728337922232
+hd	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+hd	strain	Shannon diversity	RL_S001__insert_270.fq	0.3220728337922232
+hd	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+hd	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+hd	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+hd	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+hd	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+hd	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+hd	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+hd	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+hd	phylum	True positives	RL_S001__insert_270.fq	1.0
+hd	phylum	False negatives	RL_S001__insert_270.fq	0.0
+hd	phylum	False positives	RL_S001__insert_270.fq	0.0
+hd	phylum	Completeness	RL_S001__insert_270.fq	1.0
+hd	phylum	Purity	RL_S001__insert_270.fq	1.0
+hd	phylum	F1 score	RL_S001__insert_270.fq	1.0
+hd	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+hd	class	True positives	RL_S001__insert_270.fq	1.0
+hd	class	False negatives	RL_S001__insert_270.fq	0.0
+hd	class	False positives	RL_S001__insert_270.fq	0.0
+hd	class	Completeness	RL_S001__insert_270.fq	1.0
+hd	class	Purity	RL_S001__insert_270.fq	1.0
+hd	class	F1 score	RL_S001__insert_270.fq	1.0
+hd	class	Jaccard index	RL_S001__insert_270.fq	1.0
+hd	order	True positives	RL_S001__insert_270.fq	1.0
+hd	order	False negatives	RL_S001__insert_270.fq	0.0
+hd	order	False positives	RL_S001__insert_270.fq	0.0
+hd	order	Completeness	RL_S001__insert_270.fq	1.0
+hd	order	Purity	RL_S001__insert_270.fq	1.0
+hd	order	F1 score	RL_S001__insert_270.fq	1.0
+hd	order	Jaccard index	RL_S001__insert_270.fq	1.0
+hd	family	True positives	RL_S001__insert_270.fq	1.0
+hd	family	False negatives	RL_S001__insert_270.fq	0.0
+hd	family	False positives	RL_S001__insert_270.fq	0.0
+hd	family	Completeness	RL_S001__insert_270.fq	1.0
+hd	family	Purity	RL_S001__insert_270.fq	1.0
+hd	family	F1 score	RL_S001__insert_270.fq	1.0
+hd	family	Jaccard index	RL_S001__insert_270.fq	1.0
+hd	genus	True positives	RL_S001__insert_270.fq	1.0
+hd	genus	False negatives	RL_S001__insert_270.fq	0.0
+hd	genus	False positives	RL_S001__insert_270.fq	0.0
+hd	genus	Completeness	RL_S001__insert_270.fq	1.0
+hd	genus	Purity	RL_S001__insert_270.fq	1.0
+hd	genus	F1 score	RL_S001__insert_270.fq	1.0
+hd	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+hd	species	True positives	RL_S001__insert_270.fq	1.0
+hd	species	False negatives	RL_S001__insert_270.fq	0.0
+hd	species	False positives	RL_S001__insert_270.fq	0.0
+hd	species	Completeness	RL_S001__insert_270.fq	1.0
+hd	species	Purity	RL_S001__insert_270.fq	1.0
+hd	species	F1 score	RL_S001__insert_270.fq	1.0
+hd	species	Jaccard index	RL_S001__insert_270.fq	1.0
+hd	strain	True positives	RL_S001__insert_270.fq	1.0
+hd	strain	False negatives	RL_S001__insert_270.fq	0.0
+hd	strain	False positives	RL_S001__insert_270.fq	0.0
+hd	strain	Completeness	RL_S001__insert_270.fq	1.0
+hd	strain	Purity	RL_S001__insert_270.fq	1.0
+hd	strain	F1 score	RL_S001__insert_270.fq	1.0
+hd	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+hd	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.003480899999999991
+hd	phylum	L1 norm error	RL_S001__insert_270.fq	0.003480899999999991
+hd	class	L1 norm error	RL_S001__insert_270.fq	0.003480899999999991
+hd	order	L1 norm error	RL_S001__insert_270.fq	0.003480899999999991
+hd	family	L1 norm error	RL_S001__insert_270.fq	0.003480899999999991
+hd	genus	L1 norm error	RL_S001__insert_270.fq	0.003480899999999991
+hd	species	L1 norm error	RL_S001__insert_270.fq	0.003480899999999991
+hd	strain	L1 norm error	RL_S001__insert_270.fq	0.003480899999999991
+hd	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.0003784235571428581
+hd	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+hd	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+hd	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+hd	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.566168
+hd	phylum	Sum of abundances	RL_S001__insert_270.fq	0.566168
+hd	class	Sum of abundances	RL_S001__insert_270.fq	0.566168
+hd	order	Sum of abundances	RL_S001__insert_270.fq	0.566168
+hd	family	Sum of abundances	RL_S001__insert_270.fq	0.566168
+hd	genus	Sum of abundances	RL_S001__insert_270.fq	0.566168
+hd	species	Sum of abundances	RL_S001__insert_270.fq	0.566168
+hd	strain	Sum of abundances	RL_S001__insert_270.fq	0.566168
+hd	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+hd	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+hd	class	Taxon counts	RL_S001__insert_270.fq	1.0
+hd	order	Taxon counts	RL_S001__insert_270.fq	1.0
+hd	family	Taxon counts	RL_S001__insert_270.fq	1.0
+hd	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+hd	species	Taxon counts	RL_S001__insert_270.fq	1.0
+hd	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+magnet	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.13290977494300632
+magnet	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.13290977494300632
+magnet	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.13290977494300632
+magnet	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.13290977494300632
+magnet	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.13290977494300632
+magnet	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.13290977494300632
+magnet	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.13290977494300632
+magnet	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.13290977494300632
+magnet	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.361931033250102
+magnet	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+magnet	phylum	Shannon diversity	RL_S001__insert_270.fq	0.361931033250102
+magnet	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+magnet	class	Shannon diversity	RL_S001__insert_270.fq	0.361931033250102
+magnet	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+magnet	order	Shannon diversity	RL_S001__insert_270.fq	0.361931033250102
+magnet	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+magnet	family	Shannon diversity	RL_S001__insert_270.fq	0.361931033250102
+magnet	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+magnet	genus	Shannon diversity	RL_S001__insert_270.fq	0.361931033250102
+magnet	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+magnet	species	Shannon diversity	RL_S001__insert_270.fq	0.361931033250102
+magnet	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+magnet	strain	Shannon diversity	RL_S001__insert_270.fq	0.361931033250102
+magnet	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+magnet	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+magnet	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+magnet	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+magnet	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+magnet	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+magnet	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+magnet	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+magnet	phylum	True positives	RL_S001__insert_270.fq	1.0
+magnet	phylum	False negatives	RL_S001__insert_270.fq	0.0
+magnet	phylum	False positives	RL_S001__insert_270.fq	0.0
+magnet	phylum	Completeness	RL_S001__insert_270.fq	1.0
+magnet	phylum	Purity	RL_S001__insert_270.fq	1.0
+magnet	phylum	F1 score	RL_S001__insert_270.fq	1.0
+magnet	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+magnet	class	True positives	RL_S001__insert_270.fq	1.0
+magnet	class	False negatives	RL_S001__insert_270.fq	0.0
+magnet	class	False positives	RL_S001__insert_270.fq	0.0
+magnet	class	Completeness	RL_S001__insert_270.fq	1.0
+magnet	class	Purity	RL_S001__insert_270.fq	1.0
+magnet	class	F1 score	RL_S001__insert_270.fq	1.0
+magnet	class	Jaccard index	RL_S001__insert_270.fq	1.0
+magnet	order	True positives	RL_S001__insert_270.fq	1.0
+magnet	order	False negatives	RL_S001__insert_270.fq	0.0
+magnet	order	False positives	RL_S001__insert_270.fq	0.0
+magnet	order	Completeness	RL_S001__insert_270.fq	1.0
+magnet	order	Purity	RL_S001__insert_270.fq	1.0
+magnet	order	F1 score	RL_S001__insert_270.fq	1.0
+magnet	order	Jaccard index	RL_S001__insert_270.fq	1.0
+magnet	family	True positives	RL_S001__insert_270.fq	1.0
+magnet	family	False negatives	RL_S001__insert_270.fq	0.0
+magnet	family	False positives	RL_S001__insert_270.fq	0.0
+magnet	family	Completeness	RL_S001__insert_270.fq	1.0
+magnet	family	Purity	RL_S001__insert_270.fq	1.0
+magnet	family	F1 score	RL_S001__insert_270.fq	1.0
+magnet	family	Jaccard index	RL_S001__insert_270.fq	1.0
+magnet	genus	True positives	RL_S001__insert_270.fq	1.0
+magnet	genus	False negatives	RL_S001__insert_270.fq	0.0
+magnet	genus	False positives	RL_S001__insert_270.fq	0.0
+magnet	genus	Completeness	RL_S001__insert_270.fq	1.0
+magnet	genus	Purity	RL_S001__insert_270.fq	1.0
+magnet	genus	F1 score	RL_S001__insert_270.fq	1.0
+magnet	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+magnet	species	True positives	RL_S001__insert_270.fq	1.0
+magnet	species	False negatives	RL_S001__insert_270.fq	0.0
+magnet	species	False positives	RL_S001__insert_270.fq	0.0
+magnet	species	Completeness	RL_S001__insert_270.fq	1.0
+magnet	species	Purity	RL_S001__insert_270.fq	1.0
+magnet	species	F1 score	RL_S001__insert_270.fq	1.0
+magnet	species	Jaccard index	RL_S001__insert_270.fq	1.0
+magnet	strain	True positives	RL_S001__insert_270.fq	1.0
+magnet	strain	False negatives	RL_S001__insert_270.fq	0.0
+magnet	strain	False positives	RL_S001__insert_270.fq	0.0
+magnet	strain	Completeness	RL_S001__insert_270.fq	1.0
+magnet	strain	Purity	RL_S001__insert_270.fq	1.0
+magnet	strain	F1 score	RL_S001__insert_270.fq	1.0
+magnet	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+magnet	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.13365919999999995
+magnet	phylum	L1 norm error	RL_S001__insert_270.fq	0.13365919999999995
+magnet	class	L1 norm error	RL_S001__insert_270.fq	0.13365919999999995
+magnet	order	L1 norm error	RL_S001__insert_270.fq	0.13365919999999995
+magnet	family	L1 norm error	RL_S001__insert_270.fq	0.13365919999999995
+magnet	genus	L1 norm error	RL_S001__insert_270.fq	0.13365919999999995
+magnet	species	L1 norm error	RL_S001__insert_270.fq	0.13365919999999995
+magnet	strain	L1 norm error	RL_S001__insert_270.fq	0.13365919999999995
+magnet	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.014530664457142855
+magnet	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+magnet	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+magnet	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+magnet	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.43598970000000004
+magnet	phylum	Sum of abundances	RL_S001__insert_270.fq	0.43598970000000004
+magnet	class	Sum of abundances	RL_S001__insert_270.fq	0.43598970000000004
+magnet	order	Sum of abundances	RL_S001__insert_270.fq	0.43598970000000004
+magnet	family	Sum of abundances	RL_S001__insert_270.fq	0.43598970000000004
+magnet	genus	Sum of abundances	RL_S001__insert_270.fq	0.43598970000000004
+magnet	species	Sum of abundances	RL_S001__insert_270.fq	0.43598970000000004
+magnet	strain	Sum of abundances	RL_S001__insert_270.fq	0.43598970000000004
+magnet	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+magnet	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+magnet	class	Taxon counts	RL_S001__insert_270.fq	1.0
+magnet	order	Taxon counts	RL_S001__insert_270.fq	1.0
+magnet	family	Taxon counts	RL_S001__insert_270.fq	1.0
+magnet	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+magnet	species	Taxon counts	RL_S001__insert_270.fq	1.0
+magnet	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+qgram	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+qgram	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+qgram	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+qgram	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+qgram	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+qgram	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+qgram	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.0823691856032555
+qgram	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+qgram	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram	phylum	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+qgram	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram	class	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+qgram	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram	order	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+qgram	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram	family	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+qgram	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram	genus	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+qgram	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram	species	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+qgram	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram	strain	Shannon diversity	RL_S001__insert_270.fq	0.3515120741182425
+qgram	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+qgram	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+qgram	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+qgram	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+qgram	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+qgram	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+qgram	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram	phylum	True positives	RL_S001__insert_270.fq	1.0
+qgram	phylum	False negatives	RL_S001__insert_270.fq	0.0
+qgram	phylum	False positives	RL_S001__insert_270.fq	0.0
+qgram	phylum	Completeness	RL_S001__insert_270.fq	1.0
+qgram	phylum	Purity	RL_S001__insert_270.fq	1.0
+qgram	phylum	F1 score	RL_S001__insert_270.fq	1.0
+qgram	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram	class	True positives	RL_S001__insert_270.fq	1.0
+qgram	class	False negatives	RL_S001__insert_270.fq	0.0
+qgram	class	False positives	RL_S001__insert_270.fq	0.0
+qgram	class	Completeness	RL_S001__insert_270.fq	1.0
+qgram	class	Purity	RL_S001__insert_270.fq	1.0
+qgram	class	F1 score	RL_S001__insert_270.fq	1.0
+qgram	class	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram	order	True positives	RL_S001__insert_270.fq	1.0
+qgram	order	False negatives	RL_S001__insert_270.fq	0.0
+qgram	order	False positives	RL_S001__insert_270.fq	0.0
+qgram	order	Completeness	RL_S001__insert_270.fq	1.0
+qgram	order	Purity	RL_S001__insert_270.fq	1.0
+qgram	order	F1 score	RL_S001__insert_270.fq	1.0
+qgram	order	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram	family	True positives	RL_S001__insert_270.fq	1.0
+qgram	family	False negatives	RL_S001__insert_270.fq	0.0
+qgram	family	False positives	RL_S001__insert_270.fq	0.0
+qgram	family	Completeness	RL_S001__insert_270.fq	1.0
+qgram	family	Purity	RL_S001__insert_270.fq	1.0
+qgram	family	F1 score	RL_S001__insert_270.fq	1.0
+qgram	family	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram	genus	True positives	RL_S001__insert_270.fq	1.0
+qgram	genus	False negatives	RL_S001__insert_270.fq	0.0
+qgram	genus	False positives	RL_S001__insert_270.fq	0.0
+qgram	genus	Completeness	RL_S001__insert_270.fq	1.0
+qgram	genus	Purity	RL_S001__insert_270.fq	1.0
+qgram	genus	F1 score	RL_S001__insert_270.fq	1.0
+qgram	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram	species	True positives	RL_S001__insert_270.fq	1.0
+qgram	species	False negatives	RL_S001__insert_270.fq	0.0
+qgram	species	False positives	RL_S001__insert_270.fq	0.0
+qgram	species	Completeness	RL_S001__insert_270.fq	1.0
+qgram	species	Purity	RL_S001__insert_270.fq	1.0
+qgram	species	F1 score	RL_S001__insert_270.fq	1.0
+qgram	species	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram	strain	True positives	RL_S001__insert_270.fq	1.0
+qgram	strain	False negatives	RL_S001__insert_270.fq	0.0
+qgram	strain	False positives	RL_S001__insert_270.fq	0.0
+qgram	strain	Completeness	RL_S001__insert_270.fq	1.0
+qgram	strain	Purity	RL_S001__insert_270.fq	1.0
+qgram	strain	F1 score	RL_S001__insert_270.fq	1.0
+qgram	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.0867015
+qgram	phylum	L1 norm error	RL_S001__insert_270.fq	0.0867015
+qgram	class	L1 norm error	RL_S001__insert_270.fq	0.0867015
+qgram	order	L1 norm error	RL_S001__insert_270.fq	0.0867015
+qgram	family	L1 norm error	RL_S001__insert_270.fq	0.0867015
+qgram	genus	L1 norm error	RL_S001__insert_270.fq	0.0867015
+qgram	species	L1 norm error	RL_S001__insert_270.fq	0.0867015
+qgram	strain	L1 norm error	RL_S001__insert_270.fq	0.0867015
+qgram	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.009425691642857148
+qgram	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+qgram	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+qgram	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+qgram	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+qgram	phylum	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+qgram	class	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+qgram	order	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+qgram	family	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+qgram	genus	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+qgram	species	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+qgram	strain	Sum of abundances	RL_S001__insert_270.fq	0.48294739999999997
+qgram	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram	class	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram	order	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram	family	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram	species	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram_hash	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.13456360643941026
+qgram_hash	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.13456360643941026
+qgram_hash	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.13456360643941026
+qgram_hash	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.13456360643941026
+qgram_hash	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.13456360643941026
+qgram_hash	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.13456360643941026
+qgram_hash	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.13456360643941026
+qgram_hash	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.13456360643941026
+qgram_hash	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.36217756880355995
+qgram_hash	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram_hash	phylum	Shannon diversity	RL_S001__insert_270.fq	0.36217756880355995
+qgram_hash	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram_hash	class	Shannon diversity	RL_S001__insert_270.fq	0.36217756880355995
+qgram_hash	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram_hash	order	Shannon diversity	RL_S001__insert_270.fq	0.36217756880355995
+qgram_hash	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram_hash	family	Shannon diversity	RL_S001__insert_270.fq	0.36217756880355995
+qgram_hash	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram_hash	genus	Shannon diversity	RL_S001__insert_270.fq	0.36217756880355995
+qgram_hash	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram_hash	species	Shannon diversity	RL_S001__insert_270.fq	0.36217756880355995
+qgram_hash	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram_hash	strain	Shannon diversity	RL_S001__insert_270.fq	0.36217756880355995
+qgram_hash	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+qgram_hash	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+qgram_hash	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+qgram_hash	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+qgram_hash	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+qgram_hash	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+qgram_hash	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+qgram_hash	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram_hash	phylum	True positives	RL_S001__insert_270.fq	1.0
+qgram_hash	phylum	False negatives	RL_S001__insert_270.fq	0.0
+qgram_hash	phylum	False positives	RL_S001__insert_270.fq	0.0
+qgram_hash	phylum	Completeness	RL_S001__insert_270.fq	1.0
+qgram_hash	phylum	Purity	RL_S001__insert_270.fq	1.0
+qgram_hash	phylum	F1 score	RL_S001__insert_270.fq	1.0
+qgram_hash	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram_hash	class	True positives	RL_S001__insert_270.fq	1.0
+qgram_hash	class	False negatives	RL_S001__insert_270.fq	0.0
+qgram_hash	class	False positives	RL_S001__insert_270.fq	0.0
+qgram_hash	class	Completeness	RL_S001__insert_270.fq	1.0
+qgram_hash	class	Purity	RL_S001__insert_270.fq	1.0
+qgram_hash	class	F1 score	RL_S001__insert_270.fq	1.0
+qgram_hash	class	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram_hash	order	True positives	RL_S001__insert_270.fq	1.0
+qgram_hash	order	False negatives	RL_S001__insert_270.fq	0.0
+qgram_hash	order	False positives	RL_S001__insert_270.fq	0.0
+qgram_hash	order	Completeness	RL_S001__insert_270.fq	1.0
+qgram_hash	order	Purity	RL_S001__insert_270.fq	1.0
+qgram_hash	order	F1 score	RL_S001__insert_270.fq	1.0
+qgram_hash	order	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram_hash	family	True positives	RL_S001__insert_270.fq	1.0
+qgram_hash	family	False negatives	RL_S001__insert_270.fq	0.0
+qgram_hash	family	False positives	RL_S001__insert_270.fq	0.0
+qgram_hash	family	Completeness	RL_S001__insert_270.fq	1.0
+qgram_hash	family	Purity	RL_S001__insert_270.fq	1.0
+qgram_hash	family	F1 score	RL_S001__insert_270.fq	1.0
+qgram_hash	family	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram_hash	genus	True positives	RL_S001__insert_270.fq	1.0
+qgram_hash	genus	False negatives	RL_S001__insert_270.fq	0.0
+qgram_hash	genus	False positives	RL_S001__insert_270.fq	0.0
+qgram_hash	genus	Completeness	RL_S001__insert_270.fq	1.0
+qgram_hash	genus	Purity	RL_S001__insert_270.fq	1.0
+qgram_hash	genus	F1 score	RL_S001__insert_270.fq	1.0
+qgram_hash	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram_hash	species	True positives	RL_S001__insert_270.fq	1.0
+qgram_hash	species	False negatives	RL_S001__insert_270.fq	0.0
+qgram_hash	species	False positives	RL_S001__insert_270.fq	0.0
+qgram_hash	species	Completeness	RL_S001__insert_270.fq	1.0
+qgram_hash	species	Purity	RL_S001__insert_270.fq	1.0
+qgram_hash	species	F1 score	RL_S001__insert_270.fq	1.0
+qgram_hash	species	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram_hash	strain	True positives	RL_S001__insert_270.fq	1.0
+qgram_hash	strain	False negatives	RL_S001__insert_270.fq	0.0
+qgram_hash	strain	False positives	RL_S001__insert_270.fq	0.0
+qgram_hash	strain	Completeness	RL_S001__insert_270.fq	1.0
+qgram_hash	strain	Purity	RL_S001__insert_270.fq	1.0
+qgram_hash	strain	F1 score	RL_S001__insert_270.fq	1.0
+qgram_hash	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+qgram_hash	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.1351251
+qgram_hash	phylum	L1 norm error	RL_S001__insert_270.fq	0.1351251
+qgram_hash	class	L1 norm error	RL_S001__insert_270.fq	0.1351251
+qgram_hash	order	L1 norm error	RL_S001__insert_270.fq	0.1351251
+qgram_hash	family	L1 norm error	RL_S001__insert_270.fq	0.1351251
+qgram_hash	genus	L1 norm error	RL_S001__insert_270.fq	0.1351251
+qgram_hash	species	L1 norm error	RL_S001__insert_270.fq	0.1351251
+qgram_hash	strain	L1 norm error	RL_S001__insert_270.fq	0.1351251
+qgram_hash	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.014690028728571437
+qgram_hash	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+qgram_hash	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+qgram_hash	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+qgram_hash	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.43452379999999996
+qgram_hash	phylum	Sum of abundances	RL_S001__insert_270.fq	0.43452379999999996
+qgram_hash	class	Sum of abundances	RL_S001__insert_270.fq	0.43452379999999996
+qgram_hash	order	Sum of abundances	RL_S001__insert_270.fq	0.43452379999999996
+qgram_hash	family	Sum of abundances	RL_S001__insert_270.fq	0.43452379999999996
+qgram_hash	genus	Sum of abundances	RL_S001__insert_270.fq	0.43452379999999996
+qgram_hash	species	Sum of abundances	RL_S001__insert_270.fq	0.43452379999999996
+qgram_hash	strain	Sum of abundances	RL_S001__insert_270.fq	0.43452379999999996
+qgram_hash	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram_hash	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram_hash	class	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram_hash	order	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram_hash	family	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram_hash	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram_hash	species	Taxon counts	RL_S001__insert_270.fq	1.0
+qgram_hash	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+shd	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.09916964437408425
+shd	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.09916964437408425
+shd	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.09916964437408425
+shd	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.09916964437408425
+shd	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.09916964437408425
+shd	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.09916964437408425
+shd	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.09916964437408425
+shd	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.09916964437408425
+shd	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.35561961725062635
+shd	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+shd	phylum	Shannon diversity	RL_S001__insert_270.fq	0.35561961725062635
+shd	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+shd	class	Shannon diversity	RL_S001__insert_270.fq	0.35561961725062635
+shd	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+shd	order	Shannon diversity	RL_S001__insert_270.fq	0.35561961725062635
+shd	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+shd	family	Shannon diversity	RL_S001__insert_270.fq	0.35561961725062635
+shd	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+shd	genus	Shannon diversity	RL_S001__insert_270.fq	0.35561961725062635
+shd	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+shd	species	Shannon diversity	RL_S001__insert_270.fq	0.35561961725062635
+shd	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+shd	strain	Shannon diversity	RL_S001__insert_270.fq	0.35561961725062635
+shd	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+shd	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+shd	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+shd	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+shd	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+shd	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+shd	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+shd	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+shd	phylum	True positives	RL_S001__insert_270.fq	1.0
+shd	phylum	False negatives	RL_S001__insert_270.fq	0.0
+shd	phylum	False positives	RL_S001__insert_270.fq	0.0
+shd	phylum	Completeness	RL_S001__insert_270.fq	1.0
+shd	phylum	Purity	RL_S001__insert_270.fq	1.0
+shd	phylum	F1 score	RL_S001__insert_270.fq	1.0
+shd	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+shd	class	True positives	RL_S001__insert_270.fq	1.0
+shd	class	False negatives	RL_S001__insert_270.fq	0.0
+shd	class	False positives	RL_S001__insert_270.fq	0.0
+shd	class	Completeness	RL_S001__insert_270.fq	1.0
+shd	class	Purity	RL_S001__insert_270.fq	1.0
+shd	class	F1 score	RL_S001__insert_270.fq	1.0
+shd	class	Jaccard index	RL_S001__insert_270.fq	1.0
+shd	order	True positives	RL_S001__insert_270.fq	1.0
+shd	order	False negatives	RL_S001__insert_270.fq	0.0
+shd	order	False positives	RL_S001__insert_270.fq	0.0
+shd	order	Completeness	RL_S001__insert_270.fq	1.0
+shd	order	Purity	RL_S001__insert_270.fq	1.0
+shd	order	F1 score	RL_S001__insert_270.fq	1.0
+shd	order	Jaccard index	RL_S001__insert_270.fq	1.0
+shd	family	True positives	RL_S001__insert_270.fq	1.0
+shd	family	False negatives	RL_S001__insert_270.fq	0.0
+shd	family	False positives	RL_S001__insert_270.fq	0.0
+shd	family	Completeness	RL_S001__insert_270.fq	1.0
+shd	family	Purity	RL_S001__insert_270.fq	1.0
+shd	family	F1 score	RL_S001__insert_270.fq	1.0
+shd	family	Jaccard index	RL_S001__insert_270.fq	1.0
+shd	genus	True positives	RL_S001__insert_270.fq	1.0
+shd	genus	False negatives	RL_S001__insert_270.fq	0.0
+shd	genus	False positives	RL_S001__insert_270.fq	0.0
+shd	genus	Completeness	RL_S001__insert_270.fq	1.0
+shd	genus	Purity	RL_S001__insert_270.fq	1.0
+shd	genus	F1 score	RL_S001__insert_270.fq	1.0
+shd	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+shd	species	True positives	RL_S001__insert_270.fq	1.0
+shd	species	False negatives	RL_S001__insert_270.fq	0.0
+shd	species	False positives	RL_S001__insert_270.fq	0.0
+shd	species	Completeness	RL_S001__insert_270.fq	1.0
+shd	species	Purity	RL_S001__insert_270.fq	1.0
+shd	species	F1 score	RL_S001__insert_270.fq	1.0
+shd	species	Jaccard index	RL_S001__insert_270.fq	1.0
+shd	strain	True positives	RL_S001__insert_270.fq	1.0
+shd	strain	False negatives	RL_S001__insert_270.fq	0.0
+shd	strain	False positives	RL_S001__insert_270.fq	0.0
+shd	strain	Completeness	RL_S001__insert_270.fq	1.0
+shd	strain	Purity	RL_S001__insert_270.fq	1.0
+shd	strain	F1 score	RL_S001__insert_270.fq	1.0
+shd	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+shd	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.1027901
+shd	phylum	L1 norm error	RL_S001__insert_270.fq	0.1027901
+shd	class	L1 norm error	RL_S001__insert_270.fq	0.1027901
+shd	order	L1 norm error	RL_S001__insert_270.fq	0.1027901
+shd	family	L1 norm error	RL_S001__insert_270.fq	0.1027901
+shd	genus	L1 norm error	RL_S001__insert_270.fq	0.1027901
+shd	species	L1 norm error	RL_S001__insert_270.fq	0.1027901
+shd	strain	L1 norm error	RL_S001__insert_270.fq	0.1027901
+shd	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.011174752300000005
+shd	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+shd	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+shd	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+shd	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.46685879999999996
+shd	phylum	Sum of abundances	RL_S001__insert_270.fq	0.46685879999999996
+shd	class	Sum of abundances	RL_S001__insert_270.fq	0.46685879999999996
+shd	order	Sum of abundances	RL_S001__insert_270.fq	0.46685879999999996
+shd	family	Sum of abundances	RL_S001__insert_270.fq	0.46685879999999996
+shd	genus	Sum of abundances	RL_S001__insert_270.fq	0.46685879999999996
+shd	species	Sum of abundances	RL_S001__insert_270.fq	0.46685879999999996
+shd	strain	Sum of abundances	RL_S001__insert_270.fq	0.46685879999999996
+shd	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+shd	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+shd	class	Taxon counts	RL_S001__insert_270.fq	1.0
+shd	order	Taxon counts	RL_S001__insert_270.fq	1.0
+shd	family	Taxon counts	RL_S001__insert_270.fq	1.0
+shd	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+shd	species	Taxon counts	RL_S001__insert_270.fq	1.0
+shd	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+shouji	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.08698978620711963
+shouji	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.08698978620711963
+shouji	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.08698978620711963
+shouji	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.08698978620711963
+shouji	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.08698978620711963
+shouji	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.08698978620711963
+shouji	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.08698978620711963
+shouji	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.08698978620711963
+shouji	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.35270900164403957
+shouji	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+shouji	phylum	Shannon diversity	RL_S001__insert_270.fq	0.35270900164403957
+shouji	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+shouji	class	Shannon diversity	RL_S001__insert_270.fq	0.35270900164403957
+shouji	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+shouji	order	Shannon diversity	RL_S001__insert_270.fq	0.35270900164403957
+shouji	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+shouji	family	Shannon diversity	RL_S001__insert_270.fq	0.35270900164403957
+shouji	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+shouji	genus	Shannon diversity	RL_S001__insert_270.fq	0.35270900164403957
+shouji	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+shouji	species	Shannon diversity	RL_S001__insert_270.fq	0.35270900164403957
+shouji	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+shouji	strain	Shannon diversity	RL_S001__insert_270.fq	0.35270900164403957
+shouji	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+shouji	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+shouji	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+shouji	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+shouji	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+shouji	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+shouji	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+shouji	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+shouji	phylum	True positives	RL_S001__insert_270.fq	1.0
+shouji	phylum	False negatives	RL_S001__insert_270.fq	0.0
+shouji	phylum	False positives	RL_S001__insert_270.fq	0.0
+shouji	phylum	Completeness	RL_S001__insert_270.fq	1.0
+shouji	phylum	Purity	RL_S001__insert_270.fq	1.0
+shouji	phylum	F1 score	RL_S001__insert_270.fq	1.0
+shouji	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+shouji	class	True positives	RL_S001__insert_270.fq	1.0
+shouji	class	False negatives	RL_S001__insert_270.fq	0.0
+shouji	class	False positives	RL_S001__insert_270.fq	0.0
+shouji	class	Completeness	RL_S001__insert_270.fq	1.0
+shouji	class	Purity	RL_S001__insert_270.fq	1.0
+shouji	class	F1 score	RL_S001__insert_270.fq	1.0
+shouji	class	Jaccard index	RL_S001__insert_270.fq	1.0
+shouji	order	True positives	RL_S001__insert_270.fq	1.0
+shouji	order	False negatives	RL_S001__insert_270.fq	0.0
+shouji	order	False positives	RL_S001__insert_270.fq	0.0
+shouji	order	Completeness	RL_S001__insert_270.fq	1.0
+shouji	order	Purity	RL_S001__insert_270.fq	1.0
+shouji	order	F1 score	RL_S001__insert_270.fq	1.0
+shouji	order	Jaccard index	RL_S001__insert_270.fq	1.0
+shouji	family	True positives	RL_S001__insert_270.fq	1.0
+shouji	family	False negatives	RL_S001__insert_270.fq	0.0
+shouji	family	False positives	RL_S001__insert_270.fq	0.0
+shouji	family	Completeness	RL_S001__insert_270.fq	1.0
+shouji	family	Purity	RL_S001__insert_270.fq	1.0
+shouji	family	F1 score	RL_S001__insert_270.fq	1.0
+shouji	family	Jaccard index	RL_S001__insert_270.fq	1.0
+shouji	genus	True positives	RL_S001__insert_270.fq	1.0
+shouji	genus	False negatives	RL_S001__insert_270.fq	0.0
+shouji	genus	False positives	RL_S001__insert_270.fq	0.0
+shouji	genus	Completeness	RL_S001__insert_270.fq	1.0
+shouji	genus	Purity	RL_S001__insert_270.fq	1.0
+shouji	genus	F1 score	RL_S001__insert_270.fq	1.0
+shouji	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+shouji	species	True positives	RL_S001__insert_270.fq	1.0
+shouji	species	False negatives	RL_S001__insert_270.fq	0.0
+shouji	species	False positives	RL_S001__insert_270.fq	0.0
+shouji	species	Completeness	RL_S001__insert_270.fq	1.0
+shouji	species	Purity	RL_S001__insert_270.fq	1.0
+shouji	species	F1 score	RL_S001__insert_270.fq	1.0
+shouji	species	Jaccard index	RL_S001__insert_270.fq	1.0
+shouji	strain	True positives	RL_S001__insert_270.fq	1.0
+shouji	strain	False negatives	RL_S001__insert_270.fq	0.0
+shouji	strain	False positives	RL_S001__insert_270.fq	0.0
+shouji	strain	Completeness	RL_S001__insert_270.fq	1.0
+shouji	strain	Purity	RL_S001__insert_270.fq	1.0
+shouji	strain	F1 score	RL_S001__insert_270.fq	1.0
+shouji	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+shouji	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.0911759
+shouji	phylum	L1 norm error	RL_S001__insert_270.fq	0.0911759
+shouji	class	L1 norm error	RL_S001__insert_270.fq	0.0911759
+shouji	order	L1 norm error	RL_S001__insert_270.fq	0.0911759
+shouji	family	L1 norm error	RL_S001__insert_270.fq	0.0911759
+shouji	genus	L1 norm error	RL_S001__insert_270.fq	0.0911759
+shouji	species	L1 norm error	RL_S001__insert_270.fq	0.0911759
+shouji	strain	L1 norm error	RL_S001__insert_270.fq	0.0911759
+shouji	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.009912122842857146
+shouji	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+shouji	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+shouji	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+shouji	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.478473
+shouji	phylum	Sum of abundances	RL_S001__insert_270.fq	0.478473
+shouji	class	Sum of abundances	RL_S001__insert_270.fq	0.478473
+shouji	order	Sum of abundances	RL_S001__insert_270.fq	0.478473
+shouji	family	Sum of abundances	RL_S001__insert_270.fq	0.478473
+shouji	genus	Sum of abundances	RL_S001__insert_270.fq	0.478473
+shouji	species	Sum of abundances	RL_S001__insert_270.fq	0.478473
+shouji	strain	Sum of abundances	RL_S001__insert_270.fq	0.478473
+shouji	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+shouji	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+shouji	class	Taxon counts	RL_S001__insert_270.fq	1.0
+shouji	order	Taxon counts	RL_S001__insert_270.fq	1.0
+shouji	family	Taxon counts	RL_S001__insert_270.fq	1.0
+shouji	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+shouji	species	Taxon counts	RL_S001__insert_270.fq	1.0
+shouji	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+sneakysnake	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.1310323288440406
+sneakysnake	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.1310323288440406
+sneakysnake	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.1310323288440406
+sneakysnake	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.1310323288440406
+sneakysnake	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.1310323288440406
+sneakysnake	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.1310323288440406
+sneakysnake	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.1310323288440406
+sneakysnake	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.1310323288440406
+sneakysnake	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.3616442887722691
+sneakysnake	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+sneakysnake	phylum	Shannon diversity	RL_S001__insert_270.fq	0.3616442887722691
+sneakysnake	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+sneakysnake	class	Shannon diversity	RL_S001__insert_270.fq	0.3616442887722691
+sneakysnake	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+sneakysnake	order	Shannon diversity	RL_S001__insert_270.fq	0.3616442887722691
+sneakysnake	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+sneakysnake	family	Shannon diversity	RL_S001__insert_270.fq	0.3616442887722691
+sneakysnake	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+sneakysnake	genus	Shannon diversity	RL_S001__insert_270.fq	0.3616442887722691
+sneakysnake	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+sneakysnake	species	Shannon diversity	RL_S001__insert_270.fq	0.3616442887722691
+sneakysnake	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+sneakysnake	strain	Shannon diversity	RL_S001__insert_270.fq	0.3616442887722691
+sneakysnake	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+sneakysnake	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+sneakysnake	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+sneakysnake	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+sneakysnake	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+sneakysnake	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+sneakysnake	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+sneakysnake	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+sneakysnake	phylum	True positives	RL_S001__insert_270.fq	1.0
+sneakysnake	phylum	False negatives	RL_S001__insert_270.fq	0.0
+sneakysnake	phylum	False positives	RL_S001__insert_270.fq	0.0
+sneakysnake	phylum	Completeness	RL_S001__insert_270.fq	1.0
+sneakysnake	phylum	Purity	RL_S001__insert_270.fq	1.0
+sneakysnake	phylum	F1 score	RL_S001__insert_270.fq	1.0
+sneakysnake	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+sneakysnake	class	True positives	RL_S001__insert_270.fq	1.0
+sneakysnake	class	False negatives	RL_S001__insert_270.fq	0.0
+sneakysnake	class	False positives	RL_S001__insert_270.fq	0.0
+sneakysnake	class	Completeness	RL_S001__insert_270.fq	1.0
+sneakysnake	class	Purity	RL_S001__insert_270.fq	1.0
+sneakysnake	class	F1 score	RL_S001__insert_270.fq	1.0
+sneakysnake	class	Jaccard index	RL_S001__insert_270.fq	1.0
+sneakysnake	order	True positives	RL_S001__insert_270.fq	1.0
+sneakysnake	order	False negatives	RL_S001__insert_270.fq	0.0
+sneakysnake	order	False positives	RL_S001__insert_270.fq	0.0
+sneakysnake	order	Completeness	RL_S001__insert_270.fq	1.0
+sneakysnake	order	Purity	RL_S001__insert_270.fq	1.0
+sneakysnake	order	F1 score	RL_S001__insert_270.fq	1.0
+sneakysnake	order	Jaccard index	RL_S001__insert_270.fq	1.0
+sneakysnake	family	True positives	RL_S001__insert_270.fq	1.0
+sneakysnake	family	False negatives	RL_S001__insert_270.fq	0.0
+sneakysnake	family	False positives	RL_S001__insert_270.fq	0.0
+sneakysnake	family	Completeness	RL_S001__insert_270.fq	1.0
+sneakysnake	family	Purity	RL_S001__insert_270.fq	1.0
+sneakysnake	family	F1 score	RL_S001__insert_270.fq	1.0
+sneakysnake	family	Jaccard index	RL_S001__insert_270.fq	1.0
+sneakysnake	genus	True positives	RL_S001__insert_270.fq	1.0
+sneakysnake	genus	False negatives	RL_S001__insert_270.fq	0.0
+sneakysnake	genus	False positives	RL_S001__insert_270.fq	0.0
+sneakysnake	genus	Completeness	RL_S001__insert_270.fq	1.0
+sneakysnake	genus	Purity	RL_S001__insert_270.fq	1.0
+sneakysnake	genus	F1 score	RL_S001__insert_270.fq	1.0
+sneakysnake	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+sneakysnake	species	True positives	RL_S001__insert_270.fq	1.0
+sneakysnake	species	False negatives	RL_S001__insert_270.fq	0.0
+sneakysnake	species	False positives	RL_S001__insert_270.fq	0.0
+sneakysnake	species	Completeness	RL_S001__insert_270.fq	1.0
+sneakysnake	species	Purity	RL_S001__insert_270.fq	1.0
+sneakysnake	species	F1 score	RL_S001__insert_270.fq	1.0
+sneakysnake	species	Jaccard index	RL_S001__insert_270.fq	1.0
+sneakysnake	strain	True positives	RL_S001__insert_270.fq	1.0
+sneakysnake	strain	False negatives	RL_S001__insert_270.fq	0.0
+sneakysnake	strain	False positives	RL_S001__insert_270.fq	0.0
+sneakysnake	strain	Completeness	RL_S001__insert_270.fq	1.0
+sneakysnake	strain	Purity	RL_S001__insert_270.fq	1.0
+sneakysnake	strain	F1 score	RL_S001__insert_270.fq	1.0
+sneakysnake	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+sneakysnake	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.13198989999999994
+sneakysnake	phylum	L1 norm error	RL_S001__insert_270.fq	0.13198989999999994
+sneakysnake	class	L1 norm error	RL_S001__insert_270.fq	0.13198989999999994
+sneakysnake	order	L1 norm error	RL_S001__insert_270.fq	0.13198989999999994
+sneakysnake	family	L1 norm error	RL_S001__insert_270.fq	0.13198989999999994
+sneakysnake	genus	L1 norm error	RL_S001__insert_270.fq	0.13198989999999994
+sneakysnake	species	L1 norm error	RL_S001__insert_270.fq	0.13198989999999994
+sneakysnake	strain	L1 norm error	RL_S001__insert_270.fq	0.13198989999999994
+sneakysnake	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.014349187699999998
+sneakysnake	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+sneakysnake	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+sneakysnake	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+sneakysnake	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.437659
+sneakysnake	phylum	Sum of abundances	RL_S001__insert_270.fq	0.437659
+sneakysnake	class	Sum of abundances	RL_S001__insert_270.fq	0.437659
+sneakysnake	order	Sum of abundances	RL_S001__insert_270.fq	0.437659
+sneakysnake	family	Sum of abundances	RL_S001__insert_270.fq	0.437659
+sneakysnake	genus	Sum of abundances	RL_S001__insert_270.fq	0.437659
+sneakysnake	species	Sum of abundances	RL_S001__insert_270.fq	0.437659
+sneakysnake	strain	Sum of abundances	RL_S001__insert_270.fq	0.437659
+sneakysnake	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+sneakysnake	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+sneakysnake	class	Taxon counts	RL_S001__insert_270.fq	1.0
+sneakysnake	order	Taxon counts	RL_S001__insert_270.fq	1.0
+sneakysnake	family	Taxon counts	RL_S001__insert_270.fq	1.0
+sneakysnake	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+sneakysnake	species	Taxon counts	RL_S001__insert_270.fq	1.0
+sneakysnake	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+ksw2_cigar	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+ksw2_cigar	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+ksw2_cigar	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+ksw2_cigar	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+ksw2_cigar	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+ksw2_cigar	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+ksw2_cigar	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+ksw2_cigar	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+ksw2_cigar	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+ksw2_cigar	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+ksw2_cigar	phylum	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+ksw2_cigar	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+ksw2_cigar	class	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+ksw2_cigar	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+ksw2_cigar	order	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+ksw2_cigar	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+ksw2_cigar	family	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+ksw2_cigar	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+ksw2_cigar	genus	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+ksw2_cigar	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+ksw2_cigar	species	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+ksw2_cigar	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+ksw2_cigar	strain	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+ksw2_cigar	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+ksw2_cigar	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+ksw2_cigar	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+ksw2_cigar	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+ksw2_cigar	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+ksw2_cigar	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+ksw2_cigar	phylum	True positives	RL_S001__insert_270.fq	1.0
+ksw2_cigar	phylum	False negatives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	phylum	False positives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	phylum	Completeness	RL_S001__insert_270.fq	1.0
+ksw2_cigar	phylum	Purity	RL_S001__insert_270.fq	1.0
+ksw2_cigar	phylum	F1 score	RL_S001__insert_270.fq	1.0
+ksw2_cigar	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+ksw2_cigar	class	True positives	RL_S001__insert_270.fq	1.0
+ksw2_cigar	class	False negatives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	class	False positives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	class	Completeness	RL_S001__insert_270.fq	1.0
+ksw2_cigar	class	Purity	RL_S001__insert_270.fq	1.0
+ksw2_cigar	class	F1 score	RL_S001__insert_270.fq	1.0
+ksw2_cigar	class	Jaccard index	RL_S001__insert_270.fq	1.0
+ksw2_cigar	order	True positives	RL_S001__insert_270.fq	1.0
+ksw2_cigar	order	False negatives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	order	False positives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	order	Completeness	RL_S001__insert_270.fq	1.0
+ksw2_cigar	order	Purity	RL_S001__insert_270.fq	1.0
+ksw2_cigar	order	F1 score	RL_S001__insert_270.fq	1.0
+ksw2_cigar	order	Jaccard index	RL_S001__insert_270.fq	1.0
+ksw2_cigar	family	True positives	RL_S001__insert_270.fq	1.0
+ksw2_cigar	family	False negatives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	family	False positives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	family	Completeness	RL_S001__insert_270.fq	1.0
+ksw2_cigar	family	Purity	RL_S001__insert_270.fq	1.0
+ksw2_cigar	family	F1 score	RL_S001__insert_270.fq	1.0
+ksw2_cigar	family	Jaccard index	RL_S001__insert_270.fq	1.0
+ksw2_cigar	genus	True positives	RL_S001__insert_270.fq	1.0
+ksw2_cigar	genus	False negatives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	genus	False positives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	genus	Completeness	RL_S001__insert_270.fq	1.0
+ksw2_cigar	genus	Purity	RL_S001__insert_270.fq	1.0
+ksw2_cigar	genus	F1 score	RL_S001__insert_270.fq	1.0
+ksw2_cigar	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+ksw2_cigar	species	True positives	RL_S001__insert_270.fq	1.0
+ksw2_cigar	species	False negatives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	species	False positives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	species	Completeness	RL_S001__insert_270.fq	1.0
+ksw2_cigar	species	Purity	RL_S001__insert_270.fq	1.0
+ksw2_cigar	species	F1 score	RL_S001__insert_270.fq	1.0
+ksw2_cigar	species	Jaccard index	RL_S001__insert_270.fq	1.0
+ksw2_cigar	strain	True positives	RL_S001__insert_270.fq	1.0
+ksw2_cigar	strain	False negatives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	strain	False positives	RL_S001__insert_270.fq	0.0
+ksw2_cigar	strain	Completeness	RL_S001__insert_270.fq	1.0
+ksw2_cigar	strain	Purity	RL_S001__insert_270.fq	1.0
+ksw2_cigar	strain	F1 score	RL_S001__insert_270.fq	1.0
+ksw2_cigar	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+ksw2_cigar	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	phylum	L1 norm error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	class	L1 norm error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	order	L1 norm error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	family	L1 norm error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	genus	L1 norm error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	species	L1 norm error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	strain	L1 norm error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+ksw2_cigar	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+ksw2_cigar	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+ksw2_cigar	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+ksw2_cigar	phylum	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+ksw2_cigar	class	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+ksw2_cigar	order	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+ksw2_cigar	family	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+ksw2_cigar	genus	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+ksw2_cigar	species	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+ksw2_cigar	strain	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+ksw2_cigar	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+ksw2_cigar	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+ksw2_cigar	class	Taxon counts	RL_S001__insert_270.fq	1.0
+ksw2_cigar	order	Taxon counts	RL_S001__insert_270.fq	1.0
+ksw2_cigar	family	Taxon counts	RL_S001__insert_270.fq	1.0
+ksw2_cigar	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+ksw2_cigar	species	Taxon counts	RL_S001__insert_270.fq	1.0
+ksw2_cigar	strain	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib_cigar	superkingdom	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib_cigar	phylum	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib_cigar	class	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib_cigar	order	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib_cigar	family	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib_cigar	genus	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib_cigar	species	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib_cigar	strain	Bray-Curtis distance	RL_S001__insert_270.fq	0.0
+edlib_cigar	superkingdom	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib_cigar	superkingdom	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib_cigar	phylum	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib_cigar	phylum	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib_cigar	class	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib_cigar	class	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib_cigar	order	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib_cigar	order	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib_cigar	family	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib_cigar	family	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib_cigar	genus	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib_cigar	genus	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib_cigar	species	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib_cigar	species	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib_cigar	strain	Shannon diversity	RL_S001__insert_270.fq	0.32056141524050563
+edlib_cigar	strain	Shannon equitability	RL_S001__insert_270.fq	0.0
+edlib_cigar	superkingdom	True positives	RL_S001__insert_270.fq	1.0
+edlib_cigar	superkingdom	False negatives	RL_S001__insert_270.fq	0.0
+edlib_cigar	superkingdom	False positives	RL_S001__insert_270.fq	0.0
+edlib_cigar	superkingdom	Completeness	RL_S001__insert_270.fq	1.0
+edlib_cigar	superkingdom	Purity	RL_S001__insert_270.fq	1.0
+edlib_cigar	superkingdom	F1 score	RL_S001__insert_270.fq	1.0
+edlib_cigar	superkingdom	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib_cigar	phylum	True positives	RL_S001__insert_270.fq	1.0
+edlib_cigar	phylum	False negatives	RL_S001__insert_270.fq	0.0
+edlib_cigar	phylum	False positives	RL_S001__insert_270.fq	0.0
+edlib_cigar	phylum	Completeness	RL_S001__insert_270.fq	1.0
+edlib_cigar	phylum	Purity	RL_S001__insert_270.fq	1.0
+edlib_cigar	phylum	F1 score	RL_S001__insert_270.fq	1.0
+edlib_cigar	phylum	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib_cigar	class	True positives	RL_S001__insert_270.fq	1.0
+edlib_cigar	class	False negatives	RL_S001__insert_270.fq	0.0
+edlib_cigar	class	False positives	RL_S001__insert_270.fq	0.0
+edlib_cigar	class	Completeness	RL_S001__insert_270.fq	1.0
+edlib_cigar	class	Purity	RL_S001__insert_270.fq	1.0
+edlib_cigar	class	F1 score	RL_S001__insert_270.fq	1.0
+edlib_cigar	class	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib_cigar	order	True positives	RL_S001__insert_270.fq	1.0
+edlib_cigar	order	False negatives	RL_S001__insert_270.fq	0.0
+edlib_cigar	order	False positives	RL_S001__insert_270.fq	0.0
+edlib_cigar	order	Completeness	RL_S001__insert_270.fq	1.0
+edlib_cigar	order	Purity	RL_S001__insert_270.fq	1.0
+edlib_cigar	order	F1 score	RL_S001__insert_270.fq	1.0
+edlib_cigar	order	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib_cigar	family	True positives	RL_S001__insert_270.fq	1.0
+edlib_cigar	family	False negatives	RL_S001__insert_270.fq	0.0
+edlib_cigar	family	False positives	RL_S001__insert_270.fq	0.0
+edlib_cigar	family	Completeness	RL_S001__insert_270.fq	1.0
+edlib_cigar	family	Purity	RL_S001__insert_270.fq	1.0
+edlib_cigar	family	F1 score	RL_S001__insert_270.fq	1.0
+edlib_cigar	family	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib_cigar	genus	True positives	RL_S001__insert_270.fq	1.0
+edlib_cigar	genus	False negatives	RL_S001__insert_270.fq	0.0
+edlib_cigar	genus	False positives	RL_S001__insert_270.fq	0.0
+edlib_cigar	genus	Completeness	RL_S001__insert_270.fq	1.0
+edlib_cigar	genus	Purity	RL_S001__insert_270.fq	1.0
+edlib_cigar	genus	F1 score	RL_S001__insert_270.fq	1.0
+edlib_cigar	genus	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib_cigar	species	True positives	RL_S001__insert_270.fq	1.0
+edlib_cigar	species	False negatives	RL_S001__insert_270.fq	0.0
+edlib_cigar	species	False positives	RL_S001__insert_270.fq	0.0
+edlib_cigar	species	Completeness	RL_S001__insert_270.fq	1.0
+edlib_cigar	species	Purity	RL_S001__insert_270.fq	1.0
+edlib_cigar	species	F1 score	RL_S001__insert_270.fq	1.0
+edlib_cigar	species	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib_cigar	strain	True positives	RL_S001__insert_270.fq	1.0
+edlib_cigar	strain	False negatives	RL_S001__insert_270.fq	0.0
+edlib_cigar	strain	False positives	RL_S001__insert_270.fq	0.0
+edlib_cigar	strain	Completeness	RL_S001__insert_270.fq	1.0
+edlib_cigar	strain	Purity	RL_S001__insert_270.fq	1.0
+edlib_cigar	strain	F1 score	RL_S001__insert_270.fq	1.0
+edlib_cigar	strain	Jaccard index	RL_S001__insert_270.fq	1.0
+edlib_cigar	superkingdom	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib_cigar	phylum	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib_cigar	class	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib_cigar	order	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib_cigar	family	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib_cigar	genus	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib_cigar	species	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib_cigar	strain	L1 norm error	RL_S001__insert_270.fq	0.0
+edlib_cigar	na	Weighted UniFrac error	RL_S001__insert_270.fq	0.0
+edlib_cigar	na	Unweighted UniFrac error	RL_S001__insert_270.fq	0.0
+edlib_cigar	na	Weighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+edlib_cigar	na	Unweighted UniFrac (CAMI)	RL_S001__insert_270.fq	0.0
+edlib_cigar	superkingdom	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib_cigar	phylum	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib_cigar	class	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib_cigar	order	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib_cigar	family	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib_cigar	genus	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib_cigar	species	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib_cigar	strain	Sum of abundances	RL_S001__insert_270.fq	0.5696489
+edlib_cigar	superkingdom	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib_cigar	phylum	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib_cigar	class	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib_cigar	order	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib_cigar	family	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib_cigar	genus	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib_cigar	species	Taxon counts	RL_S001__insert_270.fq	1.0
+edlib_cigar	strain	Taxon counts	RL_S001__insert_270.fq	1.0

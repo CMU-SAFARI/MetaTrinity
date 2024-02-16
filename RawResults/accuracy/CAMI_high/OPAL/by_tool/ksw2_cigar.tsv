@@ -1,0 +1,9 @@
+rank	sample	Weighted UniFrac error	Unweighted UniFrac error	L1 norm error	Completeness	Purity	F1 score	True positives	False positives	False negatives	Taxon counts	Jaccard index	Shannon diversity	Shannon equitability	Bray-Curtis distance
+superkingdom	RH_S001__insert_270.fq	0.0	0.0	0.0	1.0	1.0	1.0	2.0	0.0	0.0	2.0	1.0	0.5516371001370481	0.7958441087380879	0.0
+phylum	RH_S001__insert_270.fq	0.0	0.0	0.0	1.0	1.0	1.0	2.0	0.0	0.0	2.0	1.0	0.1941610756185833	0.2801152209285972	0.0
+class	RH_S001__insert_270.fq	0.0	0.0	0.0	1.0	1.0	1.0	2.0	0.0	0.0	2.0	1.0	0.1941610756185833	0.2801152209285972	0.0
+order	RH_S001__insert_270.fq	0.0	0.0	0.0	1.0	1.0	1.0	2.0	0.0	0.0	2.0	1.0	0.1941610756185833	0.2801152209285972	0.0
+family	RH_S001__insert_270.fq	0.0	0.0	0.0	1.0	1.0	1.0	2.0	0.0	0.0	2.0	1.0	0.1941610756185833	0.2801152209285972	0.0
+genus	RH_S001__insert_270.fq	0.0	0.0	0.0	1.0	1.0	1.0	2.0	0.0	0.0	2.0	1.0	0.1941610756185833	0.2801152209285972	0.0
+species	RH_S001__insert_270.fq	0.0	0.0	0.0	1.0	1.0	1.0	3.0	0.0	0.0	3.0	1.0	0.5574691651164642	0.507430301723919	0.0
+strain	RH_S001__insert_270.fq	0.0	0.0	0.0	1.0	1.0	1.0	3.0	0.0	0.0	3.0	1.0	0.5574691651164642	0.507430301723919	0.0

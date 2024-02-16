@@ -1,0 +1,23 @@
+	Command being timed: "/home/arvidg/Metalign/minimap2-heuristic/minimap2-sorting/minimap2 -ax sr -t 1 -2 -n 3 -r 15 --filter=ksw2 --sam-hit-only --secondary=yes /home/arvidg/Metalign/tmp_reads/RH_S001__insert_270/cmashed_db.fna /home/arvidg/CAMI_Dataset/RH_S001__insert_270.fq"
+	User time (seconds): 392.58
+	System time (seconds): 9.80
+	Percent of CPU this job got: 93%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:12.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 175548
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 710147
+	Voluntary context switches: 153162
+	Involuntary context switches: 569
+	Swaps: 0
+	File system inputs: 7392848
+	File system outputs: 912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

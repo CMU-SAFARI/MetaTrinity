@@ -1,0 +1,1621 @@
+tool	rank	metric	sample	value
+Gold standard	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+Gold standard	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+Gold standard	class	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+Gold standard	order	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+Gold standard	family	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+Gold standard	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+Gold standard	species	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+Gold standard	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+Gold standard	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.288143970496774
+Gold standard	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.4157038772977516
+Gold standard	phylum	Shannon diversity	ERR1700889_1.fastq	0.942222757686928
+Gold standard	phylum	Shannon equitability	ERR1700889_1.fastq	0.8576481142671553
+Gold standard	class	Shannon diversity	ERR1700889_1.fastq	0.942222757686928
+Gold standard	class	Shannon equitability	ERR1700889_1.fastq	0.8576481142671553
+Gold standard	order	Shannon diversity	ERR1700889_1.fastq	1.0271681980507141
+Gold standard	order	Shannon equitability	ERR1700889_1.fastq	0.7409452327433089
+Gold standard	family	Shannon diversity	ERR1700889_1.fastq	1.0271681980507141
+Gold standard	family	Shannon equitability	ERR1700889_1.fastq	0.7409452327433089
+Gold standard	genus	Shannon diversity	ERR1700889_1.fastq	0.942222757686928
+Gold standard	genus	Shannon equitability	ERR1700889_1.fastq	0.8576481142671553
+Gold standard	species	Shannon diversity	ERR1700889_1.fastq	1.1985507222020098
+Gold standard	species	Shannon equitability	ERR1700889_1.fastq	0.7447014345457612
+Gold standard	strain	Shannon diversity	ERR1700889_1.fastq	1.1985507222020098
+Gold standard	strain	Shannon equitability	ERR1700889_1.fastq	0.7447014345457612
+Gold standard	superkingdom	True positives	ERR1700889_1.fastq	2.0
+Gold standard	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+Gold standard	superkingdom	False positives	ERR1700889_1.fastq	0.0
+Gold standard	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+Gold standard	superkingdom	Purity	ERR1700889_1.fastq	1.0
+Gold standard	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+Gold standard	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+Gold standard	phylum	True positives	ERR1700889_1.fastq	3.0
+Gold standard	phylum	False negatives	ERR1700889_1.fastq	0.0
+Gold standard	phylum	False positives	ERR1700889_1.fastq	0.0
+Gold standard	phylum	Completeness	ERR1700889_1.fastq	1.0
+Gold standard	phylum	Purity	ERR1700889_1.fastq	1.0
+Gold standard	phylum	F1 score	ERR1700889_1.fastq	1.0
+Gold standard	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+Gold standard	class	True positives	ERR1700889_1.fastq	3.0
+Gold standard	class	False negatives	ERR1700889_1.fastq	0.0
+Gold standard	class	False positives	ERR1700889_1.fastq	0.0
+Gold standard	class	Completeness	ERR1700889_1.fastq	1.0
+Gold standard	class	Purity	ERR1700889_1.fastq	1.0
+Gold standard	class	F1 score	ERR1700889_1.fastq	1.0
+Gold standard	class	Jaccard index	ERR1700889_1.fastq	1.0
+Gold standard	order	True positives	ERR1700889_1.fastq	4.0
+Gold standard	order	False negatives	ERR1700889_1.fastq	0.0
+Gold standard	order	False positives	ERR1700889_1.fastq	0.0
+Gold standard	order	Completeness	ERR1700889_1.fastq	1.0
+Gold standard	order	Purity	ERR1700889_1.fastq	1.0
+Gold standard	order	F1 score	ERR1700889_1.fastq	1.0
+Gold standard	order	Jaccard index	ERR1700889_1.fastq	1.0
+Gold standard	family	True positives	ERR1700889_1.fastq	4.0
+Gold standard	family	False negatives	ERR1700889_1.fastq	0.0
+Gold standard	family	False positives	ERR1700889_1.fastq	0.0
+Gold standard	family	Completeness	ERR1700889_1.fastq	1.0
+Gold standard	family	Purity	ERR1700889_1.fastq	1.0
+Gold standard	family	F1 score	ERR1700889_1.fastq	1.0
+Gold standard	family	Jaccard index	ERR1700889_1.fastq	1.0
+Gold standard	genus	True positives	ERR1700889_1.fastq	3.0
+Gold standard	genus	False negatives	ERR1700889_1.fastq	0.0
+Gold standard	genus	False positives	ERR1700889_1.fastq	0.0
+Gold standard	genus	Completeness	ERR1700889_1.fastq	1.0
+Gold standard	genus	Purity	ERR1700889_1.fastq	1.0
+Gold standard	genus	F1 score	ERR1700889_1.fastq	1.0
+Gold standard	genus	Jaccard index	ERR1700889_1.fastq	1.0
+Gold standard	species	True positives	ERR1700889_1.fastq	5.0
+Gold standard	species	False negatives	ERR1700889_1.fastq	0.0
+Gold standard	species	False positives	ERR1700889_1.fastq	0.0
+Gold standard	species	Completeness	ERR1700889_1.fastq	1.0
+Gold standard	species	Purity	ERR1700889_1.fastq	1.0
+Gold standard	species	F1 score	ERR1700889_1.fastq	1.0
+Gold standard	species	Jaccard index	ERR1700889_1.fastq	1.0
+Gold standard	strain	True positives	ERR1700889_1.fastq	5.0
+Gold standard	strain	False negatives	ERR1700889_1.fastq	0.0
+Gold standard	strain	False positives	ERR1700889_1.fastq	0.0
+Gold standard	strain	Completeness	ERR1700889_1.fastq	1.0
+Gold standard	strain	Purity	ERR1700889_1.fastq	1.0
+Gold standard	strain	F1 score	ERR1700889_1.fastq	1.0
+Gold standard	strain	Jaccard index	ERR1700889_1.fastq	1.0
+Gold standard	superkingdom	L1 norm error	ERR1700889_1.fastq	0.0
+Gold standard	phylum	L1 norm error	ERR1700889_1.fastq	0.0
+Gold standard	class	L1 norm error	ERR1700889_1.fastq	0.0
+Gold standard	order	L1 norm error	ERR1700889_1.fastq	0.0
+Gold standard	family	L1 norm error	ERR1700889_1.fastq	0.0
+Gold standard	genus	L1 norm error	ERR1700889_1.fastq	0.0
+Gold standard	species	L1 norm error	ERR1700889_1.fastq	0.0
+Gold standard	strain	L1 norm error	ERR1700889_1.fastq	0.0
+Gold standard	na	Weighted UniFrac error	ERR1700889_1.fastq	0.0
+Gold standard	na	Unweighted UniFrac error	ERR1700889_1.fastq	0.0
+Gold standard	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	0.0
+Gold standard	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	0.0
+Gold standard	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9997360000000001
+Gold standard	phylum	Sum of abundances	ERR1700889_1.fastq	0.9159571
+Gold standard	class	Sum of abundances	ERR1700889_1.fastq	0.9159571
+Gold standard	order	Sum of abundances	ERR1700889_1.fastq	0.9383052
+Gold standard	family	Sum of abundances	ERR1700889_1.fastq	0.9383052
+Gold standard	genus	Sum of abundances	ERR1700889_1.fastq	0.9159571
+Gold standard	species	Sum of abundances	ERR1700889_1.fastq	0.9997360999999999
+Gold standard	strain	Sum of abundances	ERR1700889_1.fastq	0.9997360999999999
+Gold standard	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+Gold standard	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+Gold standard	class	Taxon counts	ERR1700889_1.fastq	3.0
+Gold standard	order	Taxon counts	ERR1700889_1.fastq	4.0
+Gold standard	family	Taxon counts	ERR1700889_1.fastq	4.0
+Gold standard	genus	Taxon counts	ERR1700889_1.fastq	3.0
+Gold standard	species	Taxon counts	ERR1700889_1.fastq	5.0
+Gold standard	strain	Taxon counts	ERR1700889_1.fastq	5.0
+adjacency-filter	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.01551628843430664
+adjacency-filter	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.23829243630521535
+adjacency-filter	class	Bray-Curtis distance	ERR1700889_1.fastq	0.23829243630521535
+adjacency-filter	order	Bray-Curtis distance	ERR1700889_1.fastq	0.23429075539841515
+adjacency-filter	family	Bray-Curtis distance	ERR1700889_1.fastq	0.23429075539841523
+adjacency-filter	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.23829243630521535
+adjacency-filter	species	Bray-Curtis distance	ERR1700889_1.fastq	0.2279433918100577
+adjacency-filter	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.22794339181005774
+adjacency-filter	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.249361736750151
+adjacency-filter	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.359752940996902
+adjacency-filter	phylum	Shannon diversity	ERR1700889_1.fastq	1.0883509911509954
+adjacency-filter	phylum	Shannon equitability	ERR1700889_1.fastq	0.990659764483834
+adjacency-filter	class	Shannon diversity	ERR1700889_1.fastq	1.0883509911509954
+adjacency-filter	class	Shannon equitability	ERR1700889_1.fastq	0.990659764483834
+adjacency-filter	order	Shannon diversity	ERR1700889_1.fastq	1.1661640100803539
+adjacency-filter	order	Shannon equitability	ERR1700889_1.fastq	0.8412095171030568
+adjacency-filter	family	Shannon diversity	ERR1700889_1.fastq	1.1661640100803539
+adjacency-filter	family	Shannon equitability	ERR1700889_1.fastq	0.8412095171030568
+adjacency-filter	genus	Shannon diversity	ERR1700889_1.fastq	1.0883509911509954
+adjacency-filter	genus	Shannon equitability	ERR1700889_1.fastq	0.990659764483834
+adjacency-filter	species	Shannon diversity	ERR1700889_1.fastq	1.3127145365240402
+adjacency-filter	species	Shannon equitability	ERR1700889_1.fastq	0.8156354006466158
+adjacency-filter	strain	Shannon diversity	ERR1700889_1.fastq	1.3127145365240402
+adjacency-filter	strain	Shannon equitability	ERR1700889_1.fastq	0.8156354006466158
+adjacency-filter	superkingdom	True positives	ERR1700889_1.fastq	2.0
+adjacency-filter	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+adjacency-filter	superkingdom	False positives	ERR1700889_1.fastq	0.0
+adjacency-filter	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+adjacency-filter	superkingdom	Purity	ERR1700889_1.fastq	1.0
+adjacency-filter	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+adjacency-filter	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+adjacency-filter	phylum	True positives	ERR1700889_1.fastq	3.0
+adjacency-filter	phylum	False negatives	ERR1700889_1.fastq	0.0
+adjacency-filter	phylum	False positives	ERR1700889_1.fastq	0.0
+adjacency-filter	phylum	Completeness	ERR1700889_1.fastq	1.0
+adjacency-filter	phylum	Purity	ERR1700889_1.fastq	1.0
+adjacency-filter	phylum	F1 score	ERR1700889_1.fastq	1.0
+adjacency-filter	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+adjacency-filter	class	True positives	ERR1700889_1.fastq	3.0
+adjacency-filter	class	False negatives	ERR1700889_1.fastq	0.0
+adjacency-filter	class	False positives	ERR1700889_1.fastq	0.0
+adjacency-filter	class	Completeness	ERR1700889_1.fastq	1.0
+adjacency-filter	class	Purity	ERR1700889_1.fastq	1.0
+adjacency-filter	class	F1 score	ERR1700889_1.fastq	1.0
+adjacency-filter	class	Jaccard index	ERR1700889_1.fastq	1.0
+adjacency-filter	order	True positives	ERR1700889_1.fastq	4.0
+adjacency-filter	order	False negatives	ERR1700889_1.fastq	0.0
+adjacency-filter	order	False positives	ERR1700889_1.fastq	0.0
+adjacency-filter	order	Completeness	ERR1700889_1.fastq	1.0
+adjacency-filter	order	Purity	ERR1700889_1.fastq	1.0
+adjacency-filter	order	F1 score	ERR1700889_1.fastq	1.0
+adjacency-filter	order	Jaccard index	ERR1700889_1.fastq	1.0
+adjacency-filter	family	True positives	ERR1700889_1.fastq	4.0
+adjacency-filter	family	False negatives	ERR1700889_1.fastq	0.0
+adjacency-filter	family	False positives	ERR1700889_1.fastq	0.0
+adjacency-filter	family	Completeness	ERR1700889_1.fastq	1.0
+adjacency-filter	family	Purity	ERR1700889_1.fastq	1.0
+adjacency-filter	family	F1 score	ERR1700889_1.fastq	1.0
+adjacency-filter	family	Jaccard index	ERR1700889_1.fastq	1.0
+adjacency-filter	genus	True positives	ERR1700889_1.fastq	3.0
+adjacency-filter	genus	False negatives	ERR1700889_1.fastq	0.0
+adjacency-filter	genus	False positives	ERR1700889_1.fastq	0.0
+adjacency-filter	genus	Completeness	ERR1700889_1.fastq	1.0
+adjacency-filter	genus	Purity	ERR1700889_1.fastq	1.0
+adjacency-filter	genus	F1 score	ERR1700889_1.fastq	1.0
+adjacency-filter	genus	Jaccard index	ERR1700889_1.fastq	1.0
+adjacency-filter	species	True positives	ERR1700889_1.fastq	5.0
+adjacency-filter	species	False negatives	ERR1700889_1.fastq	0.0
+adjacency-filter	species	False positives	ERR1700889_1.fastq	0.0
+adjacency-filter	species	Completeness	ERR1700889_1.fastq	1.0
+adjacency-filter	species	Purity	ERR1700889_1.fastq	1.0
+adjacency-filter	species	F1 score	ERR1700889_1.fastq	1.0
+adjacency-filter	species	Jaccard index	ERR1700889_1.fastq	1.0
+adjacency-filter	strain	True positives	ERR1700889_1.fastq	5.0
+adjacency-filter	strain	False negatives	ERR1700889_1.fastq	0.0
+adjacency-filter	strain	False positives	ERR1700889_1.fastq	0.0
+adjacency-filter	strain	Completeness	ERR1700889_1.fastq	1.0
+adjacency-filter	strain	Purity	ERR1700889_1.fastq	1.0
+adjacency-filter	strain	F1 score	ERR1700889_1.fastq	1.0
+adjacency-filter	strain	Jaccard index	ERR1700889_1.fastq	1.0
+adjacency-filter	superkingdom	L1 norm error	ERR1700889_1.fastq	0.031023700000000015
+adjacency-filter	phylum	L1 norm error	ERR1700889_1.fastq	0.4402224
+adjacency-filter	class	L1 norm error	ERR1700889_1.fastq	0.4402224
+adjacency-filter	order	L1 norm error	ERR1700889_1.fastq	0.4427171
+adjacency-filter	family	L1 norm error	ERR1700889_1.fastq	0.4427171000000001
+adjacency-filter	genus	L1 norm error	ERR1700889_1.fastq	0.4402224
+adjacency-filter	species	L1 norm error	ERR1700889_1.fastq	0.45575640000000006
+adjacency-filter	strain	L1 norm error	ERR1700889_1.fastq	0.45575640000000006
+adjacency-filter	na	Weighted UniFrac error	ERR1700889_1.fastq	0.03170185608571429
+adjacency-filter	na	Unweighted UniFrac error	ERR1700889_1.fastq	8.979606994189229e-09
+adjacency-filter	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	3.2220948489283825
+adjacency-filter	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.0002640701207434e-07
+adjacency-filter	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9996919
+adjacency-filter	phylum	Sum of abundances	ERR1700889_1.fastq	0.9314469
+adjacency-filter	class	Sum of abundances	ERR1700889_1.fastq	0.9314469
+adjacency-filter	order	Sum of abundances	ERR1700889_1.fastq	0.9513002999999999
+adjacency-filter	family	Sum of abundances	ERR1700889_1.fastq	0.9513002999999999
+adjacency-filter	genus	Sum of abundances	ERR1700889_1.fastq	0.9314469
+adjacency-filter	species	Sum of abundances	ERR1700889_1.fastq	0.9996918999999999
+adjacency-filter	strain	Sum of abundances	ERR1700889_1.fastq	0.9996918999999999
+adjacency-filter	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+adjacency-filter	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+adjacency-filter	class	Taxon counts	ERR1700889_1.fastq	3.0
+adjacency-filter	order	Taxon counts	ERR1700889_1.fastq	4.0
+adjacency-filter	family	Taxon counts	ERR1700889_1.fastq	4.0
+adjacency-filter	genus	Taxon counts	ERR1700889_1.fastq	3.0
+adjacency-filter	species	Taxon counts	ERR1700889_1.fastq	5.0
+adjacency-filter	strain	Taxon counts	ERR1700889_1.fastq	5.0
+base-counting	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.0018033712644639716
+base-counting	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.17582306496567593
+base-counting	class	Bray-Curtis distance	ERR1700889_1.fastq	0.17582306496567593
+base-counting	order	Bray-Curtis distance	ERR1700889_1.fastq	0.17200159307237445
+base-counting	family	Bray-Curtis distance	ERR1700889_1.fastq	0.17200159307237445
+base-counting	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.17582306496567596
+base-counting	species	Bray-Curtis distance	ERR1700889_1.fastq	0.1618213501880693
+base-counting	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.1618213501880693
+base-counting	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.29242123808088305
+base-counting	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.42187467002990087
+base-counting	phylum	Shannon diversity	ERR1700889_1.fastq	1.075379879135787
+base-counting	phylum	Shannon equitability	ERR1700889_1.fastq	0.9788529495146204
+base-counting	class	Shannon diversity	ERR1700889_1.fastq	1.075379879135787
+base-counting	class	Shannon equitability	ERR1700889_1.fastq	0.9788529495146204
+base-counting	order	Shannon diversity	ERR1700889_1.fastq	1.162658156173908
+base-counting	order	Shannon equitability	ERR1700889_1.fastq	0.8386805780806015
+base-counting	family	Shannon diversity	ERR1700889_1.fastq	1.162658156173908
+base-counting	family	Shannon equitability	ERR1700889_1.fastq	0.8386805780806015
+base-counting	genus	Shannon diversity	ERR1700889_1.fastq	1.075379879135787
+base-counting	genus	Shannon equitability	ERR1700889_1.fastq	0.9788529495146204
+base-counting	species	Shannon diversity	ERR1700889_1.fastq	1.335714911886712
+base-counting	species	Shannon equitability	ERR1700889_1.fastq	0.8299263373674279
+base-counting	strain	Shannon diversity	ERR1700889_1.fastq	1.335714911886712
+base-counting	strain	Shannon equitability	ERR1700889_1.fastq	0.8299263373674279
+base-counting	superkingdom	True positives	ERR1700889_1.fastq	2.0
+base-counting	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+base-counting	superkingdom	False positives	ERR1700889_1.fastq	0.0
+base-counting	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+base-counting	superkingdom	Purity	ERR1700889_1.fastq	1.0
+base-counting	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+base-counting	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+base-counting	phylum	True positives	ERR1700889_1.fastq	3.0
+base-counting	phylum	False negatives	ERR1700889_1.fastq	0.0
+base-counting	phylum	False positives	ERR1700889_1.fastq	0.0
+base-counting	phylum	Completeness	ERR1700889_1.fastq	1.0
+base-counting	phylum	Purity	ERR1700889_1.fastq	1.0
+base-counting	phylum	F1 score	ERR1700889_1.fastq	1.0
+base-counting	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+base-counting	class	True positives	ERR1700889_1.fastq	3.0
+base-counting	class	False negatives	ERR1700889_1.fastq	0.0
+base-counting	class	False positives	ERR1700889_1.fastq	0.0
+base-counting	class	Completeness	ERR1700889_1.fastq	1.0
+base-counting	class	Purity	ERR1700889_1.fastq	1.0
+base-counting	class	F1 score	ERR1700889_1.fastq	1.0
+base-counting	class	Jaccard index	ERR1700889_1.fastq	1.0
+base-counting	order	True positives	ERR1700889_1.fastq	4.0
+base-counting	order	False negatives	ERR1700889_1.fastq	0.0
+base-counting	order	False positives	ERR1700889_1.fastq	0.0
+base-counting	order	Completeness	ERR1700889_1.fastq	1.0
+base-counting	order	Purity	ERR1700889_1.fastq	1.0
+base-counting	order	F1 score	ERR1700889_1.fastq	1.0
+base-counting	order	Jaccard index	ERR1700889_1.fastq	1.0
+base-counting	family	True positives	ERR1700889_1.fastq	4.0
+base-counting	family	False negatives	ERR1700889_1.fastq	0.0
+base-counting	family	False positives	ERR1700889_1.fastq	0.0
+base-counting	family	Completeness	ERR1700889_1.fastq	1.0
+base-counting	family	Purity	ERR1700889_1.fastq	1.0
+base-counting	family	F1 score	ERR1700889_1.fastq	1.0
+base-counting	family	Jaccard index	ERR1700889_1.fastq	1.0
+base-counting	genus	True positives	ERR1700889_1.fastq	3.0
+base-counting	genus	False negatives	ERR1700889_1.fastq	0.0
+base-counting	genus	False positives	ERR1700889_1.fastq	0.0
+base-counting	genus	Completeness	ERR1700889_1.fastq	1.0
+base-counting	genus	Purity	ERR1700889_1.fastq	1.0
+base-counting	genus	F1 score	ERR1700889_1.fastq	1.0
+base-counting	genus	Jaccard index	ERR1700889_1.fastq	1.0
+base-counting	species	True positives	ERR1700889_1.fastq	5.0
+base-counting	species	False negatives	ERR1700889_1.fastq	0.0
+base-counting	species	False positives	ERR1700889_1.fastq	0.0
+base-counting	species	Completeness	ERR1700889_1.fastq	1.0
+base-counting	species	Purity	ERR1700889_1.fastq	1.0
+base-counting	species	F1 score	ERR1700889_1.fastq	1.0
+base-counting	species	Jaccard index	ERR1700889_1.fastq	1.0
+base-counting	strain	True positives	ERR1700889_1.fastq	5.0
+base-counting	strain	False negatives	ERR1700889_1.fastq	0.0
+base-counting	strain	False positives	ERR1700889_1.fastq	0.0
+base-counting	strain	Completeness	ERR1700889_1.fastq	1.0
+base-counting	strain	Purity	ERR1700889_1.fastq	1.0
+base-counting	strain	F1 score	ERR1700889_1.fastq	1.0
+base-counting	strain	Jaccard index	ERR1700889_1.fastq	1.0
+base-counting	superkingdom	L1 norm error	ERR1700889_1.fastq	0.003605699999999956
+base-counting	phylum	L1 norm error	ERR1700889_1.fastq	0.32177140000000004
+base-counting	class	L1 norm error	ERR1700889_1.fastq	0.32177140000000004
+base-counting	order	L1 norm error	ERR1700889_1.fastq	0.32260980000000006
+base-counting	family	L1 norm error	ERR1700889_1.fastq	0.32260980000000006
+base-counting	genus	L1 norm error	ERR1700889_1.fastq	0.32177140000000004
+base-counting	species	L1 norm error	ERR1700889_1.fastq	0.3235492
+base-counting	strain	L1 norm error	ERR1700889_1.fastq	0.3235492
+base-counting	na	Weighted UniFrac error	ERR1700889_1.fastq	0.022288658971428562
+base-counting	na	Unweighted UniFrac error	ERR1700889_1.fastq	8.980507026334093e-09
+base-counting	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	2.268892313163154
+base-counting	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.00036432727198e-07
+base-counting	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9996859
+base-counting	phylum	Sum of abundances	ERR1700889_1.fastq	0.9141293
+base-counting	class	Sum of abundances	ERR1700889_1.fastq	0.9141293
+base-counting	order	Sum of abundances	ERR1700889_1.fastq	0.9373158
+base-counting	family	Sum of abundances	ERR1700889_1.fastq	0.9373158
+base-counting	genus	Sum of abundances	ERR1700889_1.fastq	0.9141293
+base-counting	species	Sum of abundances	ERR1700889_1.fastq	0.9996861000000001
+base-counting	strain	Sum of abundances	ERR1700889_1.fastq	0.9996861000000001
+base-counting	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+base-counting	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+base-counting	class	Taxon counts	ERR1700889_1.fastq	3.0
+base-counting	order	Taxon counts	ERR1700889_1.fastq	4.0
+base-counting	family	Taxon counts	ERR1700889_1.fastq	4.0
+base-counting	genus	Taxon counts	ERR1700889_1.fastq	3.0
+base-counting	species	Taxon counts	ERR1700889_1.fastq	5.0
+base-counting	strain	Taxon counts	ERR1700889_1.fastq	5.0
+edlib	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.00013903516199243704
+edlib	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.009914202328077272
+edlib	class	Bray-Curtis distance	ERR1700889_1.fastq	0.009914202328077272
+edlib	order	Bray-Curtis distance	ERR1700889_1.fastq	0.00992893820746125
+edlib	family	Bray-Curtis distance	ERR1700889_1.fastq	0.00992893820746125
+edlib	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.00991420232807727
+edlib	species	Bray-Curtis distance	ERR1700889_1.fastq	0.00948324783921617
+edlib	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.00948324783921617
+edlib	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.2884825834598117
+edlib	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.4161923925403069
+edlib	phylum	Shannon diversity	ERR1700889_1.fastq	0.9466592308392119
+edlib	phylum	Shannon equitability	ERR1700889_1.fastq	0.8616863661582409
+edlib	class	Shannon diversity	ERR1700889_1.fastq	0.9466592308392119
+edlib	class	Shannon equitability	ERR1700889_1.fastq	0.8616863661582409
+edlib	order	Shannon diversity	ERR1700889_1.fastq	1.0329315302462199
+edlib	order	Shannon equitability	ERR1700889_1.fastq	0.7451025981320348
+edlib	family	Shannon diversity	ERR1700889_1.fastq	1.0329315302462199
+edlib	family	Shannon equitability	ERR1700889_1.fastq	0.7451025981320348
+edlib	genus	Shannon diversity	ERR1700889_1.fastq	0.9466592308392119
+edlib	genus	Shannon equitability	ERR1700889_1.fastq	0.8616863661582409
+edlib	species	Shannon diversity	ERR1700889_1.fastq	1.2037305968443912
+edlib	species	Shannon equitability	ERR1700889_1.fastq	0.7479198716177123
+edlib	strain	Shannon diversity	ERR1700889_1.fastq	1.2037305968443912
+edlib	strain	Shannon equitability	ERR1700889_1.fastq	0.7479198716177123
+edlib	superkingdom	True positives	ERR1700889_1.fastq	2.0
+edlib	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+edlib	superkingdom	False positives	ERR1700889_1.fastq	0.0
+edlib	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+edlib	superkingdom	Purity	ERR1700889_1.fastq	1.0
+edlib	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+edlib	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+edlib	phylum	True positives	ERR1700889_1.fastq	3.0
+edlib	phylum	False negatives	ERR1700889_1.fastq	0.0
+edlib	phylum	False positives	ERR1700889_1.fastq	0.0
+edlib	phylum	Completeness	ERR1700889_1.fastq	1.0
+edlib	phylum	Purity	ERR1700889_1.fastq	1.0
+edlib	phylum	F1 score	ERR1700889_1.fastq	1.0
+edlib	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+edlib	class	True positives	ERR1700889_1.fastq	3.0
+edlib	class	False negatives	ERR1700889_1.fastq	0.0
+edlib	class	False positives	ERR1700889_1.fastq	0.0
+edlib	class	Completeness	ERR1700889_1.fastq	1.0
+edlib	class	Purity	ERR1700889_1.fastq	1.0
+edlib	class	F1 score	ERR1700889_1.fastq	1.0
+edlib	class	Jaccard index	ERR1700889_1.fastq	1.0
+edlib	order	True positives	ERR1700889_1.fastq	4.0
+edlib	order	False negatives	ERR1700889_1.fastq	0.0
+edlib	order	False positives	ERR1700889_1.fastq	0.0
+edlib	order	Completeness	ERR1700889_1.fastq	1.0
+edlib	order	Purity	ERR1700889_1.fastq	1.0
+edlib	order	F1 score	ERR1700889_1.fastq	1.0
+edlib	order	Jaccard index	ERR1700889_1.fastq	1.0
+edlib	family	True positives	ERR1700889_1.fastq	4.0
+edlib	family	False negatives	ERR1700889_1.fastq	0.0
+edlib	family	False positives	ERR1700889_1.fastq	0.0
+edlib	family	Completeness	ERR1700889_1.fastq	1.0
+edlib	family	Purity	ERR1700889_1.fastq	1.0
+edlib	family	F1 score	ERR1700889_1.fastq	1.0
+edlib	family	Jaccard index	ERR1700889_1.fastq	1.0
+edlib	genus	True positives	ERR1700889_1.fastq	3.0
+edlib	genus	False negatives	ERR1700889_1.fastq	0.0
+edlib	genus	False positives	ERR1700889_1.fastq	0.0
+edlib	genus	Completeness	ERR1700889_1.fastq	1.0
+edlib	genus	Purity	ERR1700889_1.fastq	1.0
+edlib	genus	F1 score	ERR1700889_1.fastq	1.0
+edlib	genus	Jaccard index	ERR1700889_1.fastq	1.0
+edlib	species	True positives	ERR1700889_1.fastq	5.0
+edlib	species	False negatives	ERR1700889_1.fastq	0.0
+edlib	species	False positives	ERR1700889_1.fastq	0.0
+edlib	species	Completeness	ERR1700889_1.fastq	1.0
+edlib	species	Purity	ERR1700889_1.fastq	1.0
+edlib	species	F1 score	ERR1700889_1.fastq	1.0
+edlib	species	Jaccard index	ERR1700889_1.fastq	1.0
+edlib	strain	True positives	ERR1700889_1.fastq	5.0
+edlib	strain	False negatives	ERR1700889_1.fastq	0.0
+edlib	strain	False positives	ERR1700889_1.fastq	0.0
+edlib	strain	Completeness	ERR1700889_1.fastq	1.0
+edlib	strain	Purity	ERR1700889_1.fastq	1.0
+edlib	strain	F1 score	ERR1700889_1.fastq	1.0
+edlib	strain	Jaccard index	ERR1700889_1.fastq	1.0
+edlib	superkingdom	L1 norm error	ERR1700889_1.fastq	0.0002779999999999383
+edlib	phylum	L1 norm error	ERR1700889_1.fastq	0.01816070000000005
+edlib	class	L1 norm error	ERR1700889_1.fastq	0.01816070000000005
+edlib	order	L1 norm error	ERR1700889_1.fastq	0.018636200000000054
+edlib	family	L1 norm error	ERR1700889_1.fastq	0.018636200000000054
+edlib	genus	L1 norm error	ERR1700889_1.fastq	0.01816070000000005
+edlib	species	L1 norm error	ERR1700889_1.fastq	0.01896170000000005
+edlib	strain	L1 norm error	ERR1700889_1.fastq	0.01896170000000005
+edlib	na	Weighted UniFrac error	ERR1700889_1.fastq	0.0012761606714285687
+edlib	na	Unweighted UniFrac error	ERR1700889_1.fastq	8.979606992594166e-09
+edlib	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	0.133066764818682
+edlib	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.0002640699430648e-07
+edlib	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9997582
+edlib	phylum	Sum of abundances	ERR1700889_1.fastq	0.9158292
+edlib	class	Sum of abundances	ERR1700889_1.fastq	0.9158292
+edlib	order	Sum of abundances	ERR1700889_1.fastq	0.9386528
+edlib	family	Sum of abundances	ERR1700889_1.fastq	0.9386528
+edlib	genus	Sum of abundances	ERR1700889_1.fastq	0.9158292
+edlib	species	Sum of abundances	ERR1700889_1.fastq	0.9997582
+edlib	strain	Sum of abundances	ERR1700889_1.fastq	0.9997582
+edlib	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+edlib	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+edlib	class	Taxon counts	ERR1700889_1.fastq	3.0
+edlib	order	Taxon counts	ERR1700889_1.fastq	4.0
+edlib	family	Taxon counts	ERR1700889_1.fastq	4.0
+edlib	genus	Taxon counts	ERR1700889_1.fastq	3.0
+edlib	species	Taxon counts	ERR1700889_1.fastq	5.0
+edlib	strain	Taxon counts	ERR1700889_1.fastq	5.0
+grim_original	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.030667897961261844
+grim_original	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.41401020550551376
+grim_original	class	Bray-Curtis distance	ERR1700889_1.fastq	0.41401020550551376
+grim_original	order	Bray-Curtis distance	ERR1700889_1.fastq	0.41036138156598734
+grim_original	family	Bray-Curtis distance	ERR1700889_1.fastq	0.4103613815659873
+grim_original	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.41401020550551376
+grim_original	species	Bray-Curtis distance	ERR1700889_1.fastq	0.40101788859762016
+grim_original	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.4010178885976201
+grim_original	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.20782182067187394
+grim_original	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.299823510071828
+grim_original	phylum	Shannon diversity	ERR1700889_1.fastq	1.0223922239473229
+grim_original	phylum	Shannon equitability	ERR1700889_1.fastq	0.9306215072351034
+grim_original	class	Shannon diversity	ERR1700889_1.fastq	1.0223922239473229
+grim_original	class	Shannon equitability	ERR1700889_1.fastq	0.9306215072351034
+grim_original	order	Shannon diversity	ERR1700889_1.fastq	1.0826822648953658
+grim_original	order	Shannon equitability	ERR1700889_1.fastq	0.7809901672114876
+grim_original	family	Shannon diversity	ERR1700889_1.fastq	1.0826822648953658
+grim_original	family	Shannon equitability	ERR1700889_1.fastq	0.7809901672114876
+grim_original	genus	Shannon diversity	ERR1700889_1.fastq	1.0223922239473229
+grim_original	genus	Shannon equitability	ERR1700889_1.fastq	0.9306215072351034
+grim_original	species	Shannon diversity	ERR1700889_1.fastq	1.2090457403553234
+grim_original	species	Shannon equitability	ERR1700889_1.fastq	0.7512223559632524
+grim_original	strain	Shannon diversity	ERR1700889_1.fastq	1.2090457403553234
+grim_original	strain	Shannon equitability	ERR1700889_1.fastq	0.7512223559632524
+grim_original	superkingdom	True positives	ERR1700889_1.fastq	2.0
+grim_original	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+grim_original	superkingdom	False positives	ERR1700889_1.fastq	0.0
+grim_original	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+grim_original	superkingdom	Purity	ERR1700889_1.fastq	1.0
+grim_original	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+grim_original	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original	phylum	True positives	ERR1700889_1.fastq	3.0
+grim_original	phylum	False negatives	ERR1700889_1.fastq	0.0
+grim_original	phylum	False positives	ERR1700889_1.fastq	0.0
+grim_original	phylum	Completeness	ERR1700889_1.fastq	1.0
+grim_original	phylum	Purity	ERR1700889_1.fastq	1.0
+grim_original	phylum	F1 score	ERR1700889_1.fastq	1.0
+grim_original	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original	class	True positives	ERR1700889_1.fastq	3.0
+grim_original	class	False negatives	ERR1700889_1.fastq	0.0
+grim_original	class	False positives	ERR1700889_1.fastq	0.0
+grim_original	class	Completeness	ERR1700889_1.fastq	1.0
+grim_original	class	Purity	ERR1700889_1.fastq	1.0
+grim_original	class	F1 score	ERR1700889_1.fastq	1.0
+grim_original	class	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original	order	True positives	ERR1700889_1.fastq	4.0
+grim_original	order	False negatives	ERR1700889_1.fastq	0.0
+grim_original	order	False positives	ERR1700889_1.fastq	0.0
+grim_original	order	Completeness	ERR1700889_1.fastq	1.0
+grim_original	order	Purity	ERR1700889_1.fastq	1.0
+grim_original	order	F1 score	ERR1700889_1.fastq	1.0
+grim_original	order	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original	family	True positives	ERR1700889_1.fastq	4.0
+grim_original	family	False negatives	ERR1700889_1.fastq	0.0
+grim_original	family	False positives	ERR1700889_1.fastq	0.0
+grim_original	family	Completeness	ERR1700889_1.fastq	1.0
+grim_original	family	Purity	ERR1700889_1.fastq	1.0
+grim_original	family	F1 score	ERR1700889_1.fastq	1.0
+grim_original	family	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original	genus	True positives	ERR1700889_1.fastq	3.0
+grim_original	genus	False negatives	ERR1700889_1.fastq	0.0
+grim_original	genus	False positives	ERR1700889_1.fastq	0.0
+grim_original	genus	Completeness	ERR1700889_1.fastq	1.0
+grim_original	genus	Purity	ERR1700889_1.fastq	1.0
+grim_original	genus	F1 score	ERR1700889_1.fastq	1.0
+grim_original	genus	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original	species	True positives	ERR1700889_1.fastq	5.0
+grim_original	species	False negatives	ERR1700889_1.fastq	0.0
+grim_original	species	False positives	ERR1700889_1.fastq	0.0
+grim_original	species	Completeness	ERR1700889_1.fastq	1.0
+grim_original	species	Purity	ERR1700889_1.fastq	1.0
+grim_original	species	F1 score	ERR1700889_1.fastq	1.0
+grim_original	species	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original	strain	True positives	ERR1700889_1.fastq	5.0
+grim_original	strain	False negatives	ERR1700889_1.fastq	0.0
+grim_original	strain	False positives	ERR1700889_1.fastq	0.0
+grim_original	strain	Completeness	ERR1700889_1.fastq	1.0
+grim_original	strain	Purity	ERR1700889_1.fastq	1.0
+grim_original	strain	F1 score	ERR1700889_1.fastq	1.0
+grim_original	strain	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original	superkingdom	L1 norm error	ERR1700889_1.fastq	0.06131780000000002
+grim_original	phylum	L1 norm error	ERR1700889_1.fastq	0.7711121
+grim_original	class	L1 norm error	ERR1700889_1.fastq	0.7711121
+grim_original	order	L1 norm error	ERR1700889_1.fastq	0.7792983000000001
+grim_original	family	L1 norm error	ERR1700889_1.fastq	0.7792983
+grim_original	genus	L1 norm error	ERR1700889_1.fastq	0.7711121
+grim_original	species	L1 norm error	ERR1700889_1.fastq	0.8018005000000001
+grim_original	strain	L1 norm error	ERR1700889_1.fastq	0.8018005000000001
+grim_original	na	Weighted UniFrac error	ERR1700889_1.fastq	0.05591528504285715
+grim_original	na	Unweighted UniFrac error	ERR1700889_1.fastq	8.979606990600046e-09
+grim_original	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	5.675464835389433
+grim_original	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.0002640697209341e-07
+grim_original	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9996772
+grim_original	phylum	Sum of abundances	ERR1700889_1.fastq	0.9465866
+grim_original	class	Sum of abundances	ERR1700889_1.fastq	0.9465866
+grim_original	order	Sum of abundances	ERR1700889_1.fastq	0.9607485
+grim_original	family	Sum of abundances	ERR1700889_1.fastq	0.9607485
+grim_original	genus	Sum of abundances	ERR1700889_1.fastq	0.9465866
+grim_original	species	Sum of abundances	ERR1700889_1.fastq	0.9996772
+grim_original	strain	Sum of abundances	ERR1700889_1.fastq	0.9996772
+grim_original	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+grim_original	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+grim_original	class	Taxon counts	ERR1700889_1.fastq	3.0
+grim_original	order	Taxon counts	ERR1700889_1.fastq	4.0
+grim_original	family	Taxon counts	ERR1700889_1.fastq	4.0
+grim_original	genus	Taxon counts	ERR1700889_1.fastq	3.0
+grim_original	species	Taxon counts	ERR1700889_1.fastq	5.0
+grim_original	strain	Taxon counts	ERR1700889_1.fastq	5.0
+grim_original_tweak	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.030667897961261844
+grim_original_tweak	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.41401020550551376
+grim_original_tweak	class	Bray-Curtis distance	ERR1700889_1.fastq	0.41401020550551376
+grim_original_tweak	order	Bray-Curtis distance	ERR1700889_1.fastq	0.41036138156598734
+grim_original_tweak	family	Bray-Curtis distance	ERR1700889_1.fastq	0.4103613815659873
+grim_original_tweak	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.41401020550551376
+grim_original_tweak	species	Bray-Curtis distance	ERR1700889_1.fastq	0.40101788859762016
+grim_original_tweak	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.4010178885976201
+grim_original_tweak	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.20782182067187394
+grim_original_tweak	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.299823510071828
+grim_original_tweak	phylum	Shannon diversity	ERR1700889_1.fastq	1.0223922239473229
+grim_original_tweak	phylum	Shannon equitability	ERR1700889_1.fastq	0.9306215072351034
+grim_original_tweak	class	Shannon diversity	ERR1700889_1.fastq	1.0223922239473229
+grim_original_tweak	class	Shannon equitability	ERR1700889_1.fastq	0.9306215072351034
+grim_original_tweak	order	Shannon diversity	ERR1700889_1.fastq	1.0826822648953658
+grim_original_tweak	order	Shannon equitability	ERR1700889_1.fastq	0.7809901672114876
+grim_original_tweak	family	Shannon diversity	ERR1700889_1.fastq	1.0826822648953658
+grim_original_tweak	family	Shannon equitability	ERR1700889_1.fastq	0.7809901672114876
+grim_original_tweak	genus	Shannon diversity	ERR1700889_1.fastq	1.0223922239473229
+grim_original_tweak	genus	Shannon equitability	ERR1700889_1.fastq	0.9306215072351034
+grim_original_tweak	species	Shannon diversity	ERR1700889_1.fastq	1.2090457403553234
+grim_original_tweak	species	Shannon equitability	ERR1700889_1.fastq	0.7512223559632524
+grim_original_tweak	strain	Shannon diversity	ERR1700889_1.fastq	1.2090457403553234
+grim_original_tweak	strain	Shannon equitability	ERR1700889_1.fastq	0.7512223559632524
+grim_original_tweak	superkingdom	True positives	ERR1700889_1.fastq	2.0
+grim_original_tweak	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+grim_original_tweak	superkingdom	False positives	ERR1700889_1.fastq	0.0
+grim_original_tweak	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+grim_original_tweak	superkingdom	Purity	ERR1700889_1.fastq	1.0
+grim_original_tweak	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+grim_original_tweak	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original_tweak	phylum	True positives	ERR1700889_1.fastq	3.0
+grim_original_tweak	phylum	False negatives	ERR1700889_1.fastq	0.0
+grim_original_tweak	phylum	False positives	ERR1700889_1.fastq	0.0
+grim_original_tweak	phylum	Completeness	ERR1700889_1.fastq	1.0
+grim_original_tweak	phylum	Purity	ERR1700889_1.fastq	1.0
+grim_original_tweak	phylum	F1 score	ERR1700889_1.fastq	1.0
+grim_original_tweak	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original_tweak	class	True positives	ERR1700889_1.fastq	3.0
+grim_original_tweak	class	False negatives	ERR1700889_1.fastq	0.0
+grim_original_tweak	class	False positives	ERR1700889_1.fastq	0.0
+grim_original_tweak	class	Completeness	ERR1700889_1.fastq	1.0
+grim_original_tweak	class	Purity	ERR1700889_1.fastq	1.0
+grim_original_tweak	class	F1 score	ERR1700889_1.fastq	1.0
+grim_original_tweak	class	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original_tweak	order	True positives	ERR1700889_1.fastq	4.0
+grim_original_tweak	order	False negatives	ERR1700889_1.fastq	0.0
+grim_original_tweak	order	False positives	ERR1700889_1.fastq	0.0
+grim_original_tweak	order	Completeness	ERR1700889_1.fastq	1.0
+grim_original_tweak	order	Purity	ERR1700889_1.fastq	1.0
+grim_original_tweak	order	F1 score	ERR1700889_1.fastq	1.0
+grim_original_tweak	order	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original_tweak	family	True positives	ERR1700889_1.fastq	4.0
+grim_original_tweak	family	False negatives	ERR1700889_1.fastq	0.0
+grim_original_tweak	family	False positives	ERR1700889_1.fastq	0.0
+grim_original_tweak	family	Completeness	ERR1700889_1.fastq	1.0
+grim_original_tweak	family	Purity	ERR1700889_1.fastq	1.0
+grim_original_tweak	family	F1 score	ERR1700889_1.fastq	1.0
+grim_original_tweak	family	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original_tweak	genus	True positives	ERR1700889_1.fastq	3.0
+grim_original_tweak	genus	False negatives	ERR1700889_1.fastq	0.0
+grim_original_tweak	genus	False positives	ERR1700889_1.fastq	0.0
+grim_original_tweak	genus	Completeness	ERR1700889_1.fastq	1.0
+grim_original_tweak	genus	Purity	ERR1700889_1.fastq	1.0
+grim_original_tweak	genus	F1 score	ERR1700889_1.fastq	1.0
+grim_original_tweak	genus	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original_tweak	species	True positives	ERR1700889_1.fastq	5.0
+grim_original_tweak	species	False negatives	ERR1700889_1.fastq	0.0
+grim_original_tweak	species	False positives	ERR1700889_1.fastq	0.0
+grim_original_tweak	species	Completeness	ERR1700889_1.fastq	1.0
+grim_original_tweak	species	Purity	ERR1700889_1.fastq	1.0
+grim_original_tweak	species	F1 score	ERR1700889_1.fastq	1.0
+grim_original_tweak	species	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original_tweak	strain	True positives	ERR1700889_1.fastq	5.0
+grim_original_tweak	strain	False negatives	ERR1700889_1.fastq	0.0
+grim_original_tweak	strain	False positives	ERR1700889_1.fastq	0.0
+grim_original_tweak	strain	Completeness	ERR1700889_1.fastq	1.0
+grim_original_tweak	strain	Purity	ERR1700889_1.fastq	1.0
+grim_original_tweak	strain	F1 score	ERR1700889_1.fastq	1.0
+grim_original_tweak	strain	Jaccard index	ERR1700889_1.fastq	1.0
+grim_original_tweak	superkingdom	L1 norm error	ERR1700889_1.fastq	0.06131780000000002
+grim_original_tweak	phylum	L1 norm error	ERR1700889_1.fastq	0.7711121
+grim_original_tweak	class	L1 norm error	ERR1700889_1.fastq	0.7711121
+grim_original_tweak	order	L1 norm error	ERR1700889_1.fastq	0.7792983000000001
+grim_original_tweak	family	L1 norm error	ERR1700889_1.fastq	0.7792983
+grim_original_tweak	genus	L1 norm error	ERR1700889_1.fastq	0.7711121
+grim_original_tweak	species	L1 norm error	ERR1700889_1.fastq	0.8018005000000001
+grim_original_tweak	strain	L1 norm error	ERR1700889_1.fastq	0.8018005000000001
+grim_original_tweak	na	Weighted UniFrac error	ERR1700889_1.fastq	0.05591528504285715
+grim_original_tweak	na	Unweighted UniFrac error	ERR1700889_1.fastq	8.979606990600046e-09
+grim_original_tweak	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	5.675464835389433
+grim_original_tweak	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.0002640697209341e-07
+grim_original_tweak	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9996772
+grim_original_tweak	phylum	Sum of abundances	ERR1700889_1.fastq	0.9465866
+grim_original_tweak	class	Sum of abundances	ERR1700889_1.fastq	0.9465866
+grim_original_tweak	order	Sum of abundances	ERR1700889_1.fastq	0.9607485
+grim_original_tweak	family	Sum of abundances	ERR1700889_1.fastq	0.9607485
+grim_original_tweak	genus	Sum of abundances	ERR1700889_1.fastq	0.9465866
+grim_original_tweak	species	Sum of abundances	ERR1700889_1.fastq	0.9996772
+grim_original_tweak	strain	Sum of abundances	ERR1700889_1.fastq	0.9996772
+grim_original_tweak	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+grim_original_tweak	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+grim_original_tweak	class	Taxon counts	ERR1700889_1.fastq	3.0
+grim_original_tweak	order	Taxon counts	ERR1700889_1.fastq	4.0
+grim_original_tweak	family	Taxon counts	ERR1700889_1.fastq	4.0
+grim_original_tweak	genus	Taxon counts	ERR1700889_1.fastq	3.0
+grim_original_tweak	species	Taxon counts	ERR1700889_1.fastq	5.0
+grim_original_tweak	strain	Taxon counts	ERR1700889_1.fastq	5.0
+hd	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.0079078360530247
+hd	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.04575610446611608
+hd	class	Bray-Curtis distance	ERR1700889_1.fastq	0.04575610446611608
+hd	order	Bray-Curtis distance	ERR1700889_1.fastq	0.045323846342491425
+hd	family	Bray-Curtis distance	ERR1700889_1.fastq	0.045323846342491425
+hd	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.04575610446611608
+hd	species	Bray-Curtis distance	ERR1700889_1.fastq	0.04570082776289263
+hd	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.04570082776289263
+hd	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.30666330434594496
+hd	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.4424216284025177
+hd	phylum	Shannon diversity	ERR1700889_1.fastq	0.8616720431210296
+hd	phylum	Shannon equitability	ERR1700889_1.fastq	0.7843276941364529
+hd	class	Shannon diversity	ERR1700889_1.fastq	0.8616720431210296
+hd	class	Shannon equitability	ERR1700889_1.fastq	0.7843276941364529
+hd	order	Shannon diversity	ERR1700889_1.fastq	0.9502109996148602
+hd	order	Shannon equitability	ERR1700889_1.fastq	0.6854323484712518
+hd	family	Shannon diversity	ERR1700889_1.fastq	0.9502109996148602
+hd	family	Shannon equitability	ERR1700889_1.fastq	0.6854323484712518
+hd	genus	Shannon diversity	ERR1700889_1.fastq	0.8616720431210296
+hd	genus	Shannon equitability	ERR1700889_1.fastq	0.7843276941364529
+hd	species	Shannon diversity	ERR1700889_1.fastq	1.133101966092245
+hd	species	Shannon equitability	ERR1700889_1.fastq	0.7040358359512926
+hd	strain	Shannon diversity	ERR1700889_1.fastq	1.133101966092245
+hd	strain	Shannon equitability	ERR1700889_1.fastq	0.7040358359512926
+hd	superkingdom	True positives	ERR1700889_1.fastq	2.0
+hd	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+hd	superkingdom	False positives	ERR1700889_1.fastq	0.0
+hd	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+hd	superkingdom	Purity	ERR1700889_1.fastq	1.0
+hd	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+hd	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+hd	phylum	True positives	ERR1700889_1.fastq	3.0
+hd	phylum	False negatives	ERR1700889_1.fastq	0.0
+hd	phylum	False positives	ERR1700889_1.fastq	0.0
+hd	phylum	Completeness	ERR1700889_1.fastq	1.0
+hd	phylum	Purity	ERR1700889_1.fastq	1.0
+hd	phylum	F1 score	ERR1700889_1.fastq	1.0
+hd	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+hd	class	True positives	ERR1700889_1.fastq	3.0
+hd	class	False negatives	ERR1700889_1.fastq	0.0
+hd	class	False positives	ERR1700889_1.fastq	0.0
+hd	class	Completeness	ERR1700889_1.fastq	1.0
+hd	class	Purity	ERR1700889_1.fastq	1.0
+hd	class	F1 score	ERR1700889_1.fastq	1.0
+hd	class	Jaccard index	ERR1700889_1.fastq	1.0
+hd	order	True positives	ERR1700889_1.fastq	4.0
+hd	order	False negatives	ERR1700889_1.fastq	0.0
+hd	order	False positives	ERR1700889_1.fastq	0.0
+hd	order	Completeness	ERR1700889_1.fastq	1.0
+hd	order	Purity	ERR1700889_1.fastq	1.0
+hd	order	F1 score	ERR1700889_1.fastq	1.0
+hd	order	Jaccard index	ERR1700889_1.fastq	1.0
+hd	family	True positives	ERR1700889_1.fastq	4.0
+hd	family	False negatives	ERR1700889_1.fastq	0.0
+hd	family	False positives	ERR1700889_1.fastq	0.0
+hd	family	Completeness	ERR1700889_1.fastq	1.0
+hd	family	Purity	ERR1700889_1.fastq	1.0
+hd	family	F1 score	ERR1700889_1.fastq	1.0
+hd	family	Jaccard index	ERR1700889_1.fastq	1.0
+hd	genus	True positives	ERR1700889_1.fastq	3.0
+hd	genus	False negatives	ERR1700889_1.fastq	0.0
+hd	genus	False positives	ERR1700889_1.fastq	0.0
+hd	genus	Completeness	ERR1700889_1.fastq	1.0
+hd	genus	Purity	ERR1700889_1.fastq	1.0
+hd	genus	F1 score	ERR1700889_1.fastq	1.0
+hd	genus	Jaccard index	ERR1700889_1.fastq	1.0
+hd	species	True positives	ERR1700889_1.fastq	5.0
+hd	species	False negatives	ERR1700889_1.fastq	0.0
+hd	species	False positives	ERR1700889_1.fastq	0.0
+hd	species	Completeness	ERR1700889_1.fastq	1.0
+hd	species	Purity	ERR1700889_1.fastq	1.0
+hd	species	F1 score	ERR1700889_1.fastq	1.0
+hd	species	Jaccard index	ERR1700889_1.fastq	1.0
+hd	strain	True positives	ERR1700889_1.fastq	5.0
+hd	strain	False negatives	ERR1700889_1.fastq	0.0
+hd	strain	False positives	ERR1700889_1.fastq	0.0
+hd	strain	Completeness	ERR1700889_1.fastq	1.0
+hd	strain	Purity	ERR1700889_1.fastq	1.0
+hd	strain	F1 score	ERR1700889_1.fastq	1.0
+hd	strain	Jaccard index	ERR1700889_1.fastq	1.0
+hd	superkingdom	L1 norm error	ERR1700889_1.fastq	0.015811699999999967
+hd	phylum	L1 norm error	ERR1700889_1.fastq	0.08346009999999997
+hd	class	L1 norm error	ERR1700889_1.fastq	0.08346009999999997
+hd	order	L1 norm error	ERR1700889_1.fastq	0.08475619999999996
+hd	family	L1 norm error	ERR1700889_1.fastq	0.08475619999999996
+hd	genus	L1 norm error	ERR1700889_1.fastq	0.08346009999999997
+hd	species	L1 norm error	ERR1700889_1.fastq	0.09137869999999997
+hd	strain	L1 norm error	ERR1700889_1.fastq	0.09137869999999997
+hd	na	Weighted UniFrac error	ERR1700889_1.fastq	0.0064755410999999975
+hd	na	Unweighted UniFrac error	ERR1700889_1.fastq	0.08977237272256626
+hd	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	0.6554927057868336
+hd	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.000000100026407
+hd	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9997617
+hd	phylum	Sum of abundances	ERR1700889_1.fastq	0.908064
+hd	class	Sum of abundances	ERR1700889_1.fastq	0.908064
+hd	order	Sum of abundances	ERR1700889_1.fastq	0.9317081999999999
+hd	family	Sum of abundances	ERR1700889_1.fastq	0.9317081999999999
+hd	genus	Sum of abundances	ERR1700889_1.fastq	0.908064
+hd	species	Sum of abundances	ERR1700889_1.fastq	0.9997615999999999
+hd	strain	Sum of abundances	ERR1700889_1.fastq	0.9997615999999999
+hd	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+hd	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+hd	class	Taxon counts	ERR1700889_1.fastq	3.0
+hd	order	Taxon counts	ERR1700889_1.fastq	4.0
+hd	family	Taxon counts	ERR1700889_1.fastq	4.0
+hd	genus	Taxon counts	ERR1700889_1.fastq	3.0
+hd	species	Taxon counts	ERR1700889_1.fastq	5.0
+hd	strain	Taxon counts	ERR1700889_1.fastq	5.0
+magnet	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.003444139449012703
+magnet	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.03004894894471169
+magnet	class	Bray-Curtis distance	ERR1700889_1.fastq	0.03004894894471169
+magnet	order	Bray-Curtis distance	ERR1700889_1.fastq	0.030805625310164442
+magnet	family	Bray-Curtis distance	ERR1700889_1.fastq	0.030805625310164442
+magnet	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.030048948944711683
+magnet	species	Bray-Curtis distance	ERR1700889_1.fastq	0.029203891905084493
+magnet	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.029203891905084496
+magnet	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.29630626027853313
+magnet	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.4274795722881942
+magnet	phylum	Shannon diversity	ERR1700889_1.fastq	0.9765155110608073
+magnet	phylum	Shannon equitability	ERR1700889_1.fastq	0.8888627235771
+magnet	class	Shannon diversity	ERR1700889_1.fastq	0.9765155110608073
+magnet	class	Shannon equitability	ERR1700889_1.fastq	0.8888627235771
+magnet	order	Shannon diversity	ERR1700889_1.fastq	1.0692645557859264
+magnet	order	Shannon equitability	ERR1700889_1.fastq	0.7713113360153482
+magnet	family	Shannon diversity	ERR1700889_1.fastq	1.0692645557859264
+magnet	family	Shannon equitability	ERR1700889_1.fastq	0.7713113360153482
+magnet	genus	Shannon diversity	ERR1700889_1.fastq	0.9765155110608073
+magnet	genus	Shannon equitability	ERR1700889_1.fastq	0.8888627235771
+magnet	species	Shannon diversity	ERR1700889_1.fastq	1.241719310778736
+magnet	species	Shannon equitability	ERR1700889_1.fastq	0.7715235867041124
+magnet	strain	Shannon diversity	ERR1700889_1.fastq	1.241719310778736
+magnet	strain	Shannon equitability	ERR1700889_1.fastq	0.7715235867041124
+magnet	superkingdom	True positives	ERR1700889_1.fastq	2.0
+magnet	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+magnet	superkingdom	False positives	ERR1700889_1.fastq	0.0
+magnet	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+magnet	superkingdom	Purity	ERR1700889_1.fastq	1.0
+magnet	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+magnet	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+magnet	phylum	True positives	ERR1700889_1.fastq	3.0
+magnet	phylum	False negatives	ERR1700889_1.fastq	0.0
+magnet	phylum	False positives	ERR1700889_1.fastq	0.0
+magnet	phylum	Completeness	ERR1700889_1.fastq	1.0
+magnet	phylum	Purity	ERR1700889_1.fastq	1.0
+magnet	phylum	F1 score	ERR1700889_1.fastq	1.0
+magnet	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+magnet	class	True positives	ERR1700889_1.fastq	3.0
+magnet	class	False negatives	ERR1700889_1.fastq	0.0
+magnet	class	False positives	ERR1700889_1.fastq	0.0
+magnet	class	Completeness	ERR1700889_1.fastq	1.0
+magnet	class	Purity	ERR1700889_1.fastq	1.0
+magnet	class	F1 score	ERR1700889_1.fastq	1.0
+magnet	class	Jaccard index	ERR1700889_1.fastq	1.0
+magnet	order	True positives	ERR1700889_1.fastq	4.0
+magnet	order	False negatives	ERR1700889_1.fastq	0.0
+magnet	order	False positives	ERR1700889_1.fastq	0.0
+magnet	order	Completeness	ERR1700889_1.fastq	1.0
+magnet	order	Purity	ERR1700889_1.fastq	1.0
+magnet	order	F1 score	ERR1700889_1.fastq	1.0
+magnet	order	Jaccard index	ERR1700889_1.fastq	1.0
+magnet	family	True positives	ERR1700889_1.fastq	4.0
+magnet	family	False negatives	ERR1700889_1.fastq	0.0
+magnet	family	False positives	ERR1700889_1.fastq	0.0
+magnet	family	Completeness	ERR1700889_1.fastq	1.0
+magnet	family	Purity	ERR1700889_1.fastq	1.0
+magnet	family	F1 score	ERR1700889_1.fastq	1.0
+magnet	family	Jaccard index	ERR1700889_1.fastq	1.0
+magnet	genus	True positives	ERR1700889_1.fastq	3.0
+magnet	genus	False negatives	ERR1700889_1.fastq	0.0
+magnet	genus	False positives	ERR1700889_1.fastq	0.0
+magnet	genus	Completeness	ERR1700889_1.fastq	1.0
+magnet	genus	Purity	ERR1700889_1.fastq	1.0
+magnet	genus	F1 score	ERR1700889_1.fastq	1.0
+magnet	genus	Jaccard index	ERR1700889_1.fastq	1.0
+magnet	species	True positives	ERR1700889_1.fastq	5.0
+magnet	species	False negatives	ERR1700889_1.fastq	0.0
+magnet	species	False positives	ERR1700889_1.fastq	0.0
+magnet	species	Completeness	ERR1700889_1.fastq	1.0
+magnet	species	Purity	ERR1700889_1.fastq	1.0
+magnet	species	F1 score	ERR1700889_1.fastq	1.0
+magnet	species	Jaccard index	ERR1700889_1.fastq	1.0
+magnet	strain	True positives	ERR1700889_1.fastq	5.0
+magnet	strain	False negatives	ERR1700889_1.fastq	0.0
+magnet	strain	False positives	ERR1700889_1.fastq	0.0
+magnet	strain	Completeness	ERR1700889_1.fastq	1.0
+magnet	strain	Purity	ERR1700889_1.fastq	1.0
+magnet	strain	F1 score	ERR1700889_1.fastq	1.0
+magnet	strain	Jaccard index	ERR1700889_1.fastq	1.0
+magnet	superkingdom	L1 norm error	ERR1700889_1.fastq	0.006886499999999991
+magnet	phylum	L1 norm error	ERR1700889_1.fastq	0.054943800000000015
+magnet	class	L1 norm error	ERR1700889_1.fastq	0.054943800000000015
+magnet	order	L1 norm error	ERR1700889_1.fastq	0.05779200000000001
+magnet	family	L1 norm error	ERR1700889_1.fastq	0.05779200000000001
+magnet	genus	L1 norm error	ERR1700889_1.fastq	0.054943800000000015
+magnet	species	L1 norm error	ERR1700889_1.fastq	0.058392700000000006
+magnet	strain	L1 norm error	ERR1700889_1.fastq	0.058392700000000006
+magnet	na	Weighted UniFrac error	ERR1700889_1.fastq	0.004139104071428567
+magnet	na	Unweighted UniFrac error	ERR1700889_1.fastq	0.1795447364655255
+magnet	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	0.41574327167872527
+magnet	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	2.0000001000264067
+magnet	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9997475
+magnet	phylum	Sum of abundances	ERR1700889_1.fastq	0.9125194999999999
+magnet	class	Sum of abundances	ERR1700889_1.fastq	0.9125194999999999
+magnet	order	Sum of abundances	ERR1700889_1.fastq	0.9377158
+magnet	family	Sum of abundances	ERR1700889_1.fastq	0.9377158
+magnet	genus	Sum of abundances	ERR1700889_1.fastq	0.9125194999999999
+magnet	species	Sum of abundances	ERR1700889_1.fastq	0.9997474
+magnet	strain	Sum of abundances	ERR1700889_1.fastq	0.9997474
+magnet	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+magnet	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+magnet	class	Taxon counts	ERR1700889_1.fastq	3.0
+magnet	order	Taxon counts	ERR1700889_1.fastq	4.0
+magnet	family	Taxon counts	ERR1700889_1.fastq	4.0
+magnet	genus	Taxon counts	ERR1700889_1.fastq	3.0
+magnet	species	Taxon counts	ERR1700889_1.fastq	5.0
+magnet	strain	Taxon counts	ERR1700889_1.fastq	5.0
+qgram	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.030667897961261844
+qgram	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.41401020550551376
+qgram	class	Bray-Curtis distance	ERR1700889_1.fastq	0.41401020550551376
+qgram	order	Bray-Curtis distance	ERR1700889_1.fastq	0.41036138156598734
+qgram	family	Bray-Curtis distance	ERR1700889_1.fastq	0.4103613815659873
+qgram	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.41401020550551376
+qgram	species	Bray-Curtis distance	ERR1700889_1.fastq	0.40101788859762016
+qgram	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.4010178885976201
+qgram	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.20782182067187394
+qgram	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.299823510071828
+qgram	phylum	Shannon diversity	ERR1700889_1.fastq	1.0223922239473229
+qgram	phylum	Shannon equitability	ERR1700889_1.fastq	0.9306215072351034
+qgram	class	Shannon diversity	ERR1700889_1.fastq	1.0223922239473229
+qgram	class	Shannon equitability	ERR1700889_1.fastq	0.9306215072351034
+qgram	order	Shannon diversity	ERR1700889_1.fastq	1.0826822648953658
+qgram	order	Shannon equitability	ERR1700889_1.fastq	0.7809901672114876
+qgram	family	Shannon diversity	ERR1700889_1.fastq	1.0826822648953658
+qgram	family	Shannon equitability	ERR1700889_1.fastq	0.7809901672114876
+qgram	genus	Shannon diversity	ERR1700889_1.fastq	1.0223922239473229
+qgram	genus	Shannon equitability	ERR1700889_1.fastq	0.9306215072351034
+qgram	species	Shannon diversity	ERR1700889_1.fastq	1.2090457403553234
+qgram	species	Shannon equitability	ERR1700889_1.fastq	0.7512223559632524
+qgram	strain	Shannon diversity	ERR1700889_1.fastq	1.2090457403553234
+qgram	strain	Shannon equitability	ERR1700889_1.fastq	0.7512223559632524
+qgram	superkingdom	True positives	ERR1700889_1.fastq	2.0
+qgram	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+qgram	superkingdom	False positives	ERR1700889_1.fastq	0.0
+qgram	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+qgram	superkingdom	Purity	ERR1700889_1.fastq	1.0
+qgram	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+qgram	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+qgram	phylum	True positives	ERR1700889_1.fastq	3.0
+qgram	phylum	False negatives	ERR1700889_1.fastq	0.0
+qgram	phylum	False positives	ERR1700889_1.fastq	0.0
+qgram	phylum	Completeness	ERR1700889_1.fastq	1.0
+qgram	phylum	Purity	ERR1700889_1.fastq	1.0
+qgram	phylum	F1 score	ERR1700889_1.fastq	1.0
+qgram	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+qgram	class	True positives	ERR1700889_1.fastq	3.0
+qgram	class	False negatives	ERR1700889_1.fastq	0.0
+qgram	class	False positives	ERR1700889_1.fastq	0.0
+qgram	class	Completeness	ERR1700889_1.fastq	1.0
+qgram	class	Purity	ERR1700889_1.fastq	1.0
+qgram	class	F1 score	ERR1700889_1.fastq	1.0
+qgram	class	Jaccard index	ERR1700889_1.fastq	1.0
+qgram	order	True positives	ERR1700889_1.fastq	4.0
+qgram	order	False negatives	ERR1700889_1.fastq	0.0
+qgram	order	False positives	ERR1700889_1.fastq	0.0
+qgram	order	Completeness	ERR1700889_1.fastq	1.0
+qgram	order	Purity	ERR1700889_1.fastq	1.0
+qgram	order	F1 score	ERR1700889_1.fastq	1.0
+qgram	order	Jaccard index	ERR1700889_1.fastq	1.0
+qgram	family	True positives	ERR1700889_1.fastq	4.0
+qgram	family	False negatives	ERR1700889_1.fastq	0.0
+qgram	family	False positives	ERR1700889_1.fastq	0.0
+qgram	family	Completeness	ERR1700889_1.fastq	1.0
+qgram	family	Purity	ERR1700889_1.fastq	1.0
+qgram	family	F1 score	ERR1700889_1.fastq	1.0
+qgram	family	Jaccard index	ERR1700889_1.fastq	1.0
+qgram	genus	True positives	ERR1700889_1.fastq	3.0
+qgram	genus	False negatives	ERR1700889_1.fastq	0.0
+qgram	genus	False positives	ERR1700889_1.fastq	0.0
+qgram	genus	Completeness	ERR1700889_1.fastq	1.0
+qgram	genus	Purity	ERR1700889_1.fastq	1.0
+qgram	genus	F1 score	ERR1700889_1.fastq	1.0
+qgram	genus	Jaccard index	ERR1700889_1.fastq	1.0
+qgram	species	True positives	ERR1700889_1.fastq	5.0
+qgram	species	False negatives	ERR1700889_1.fastq	0.0
+qgram	species	False positives	ERR1700889_1.fastq	0.0
+qgram	species	Completeness	ERR1700889_1.fastq	1.0
+qgram	species	Purity	ERR1700889_1.fastq	1.0
+qgram	species	F1 score	ERR1700889_1.fastq	1.0
+qgram	species	Jaccard index	ERR1700889_1.fastq	1.0
+qgram	strain	True positives	ERR1700889_1.fastq	5.0
+qgram	strain	False negatives	ERR1700889_1.fastq	0.0
+qgram	strain	False positives	ERR1700889_1.fastq	0.0
+qgram	strain	Completeness	ERR1700889_1.fastq	1.0
+qgram	strain	Purity	ERR1700889_1.fastq	1.0
+qgram	strain	F1 score	ERR1700889_1.fastq	1.0
+qgram	strain	Jaccard index	ERR1700889_1.fastq	1.0
+qgram	superkingdom	L1 norm error	ERR1700889_1.fastq	0.06131780000000002
+qgram	phylum	L1 norm error	ERR1700889_1.fastq	0.7711121
+qgram	class	L1 norm error	ERR1700889_1.fastq	0.7711121
+qgram	order	L1 norm error	ERR1700889_1.fastq	0.7792983000000001
+qgram	family	L1 norm error	ERR1700889_1.fastq	0.7792983
+qgram	genus	L1 norm error	ERR1700889_1.fastq	0.7711121
+qgram	species	L1 norm error	ERR1700889_1.fastq	0.8018005000000001
+qgram	strain	L1 norm error	ERR1700889_1.fastq	0.8018005000000001
+qgram	na	Weighted UniFrac error	ERR1700889_1.fastq	0.05591528504285715
+qgram	na	Unweighted UniFrac error	ERR1700889_1.fastq	8.979606990600046e-09
+qgram	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	5.675464835389433
+qgram	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.0002640697209341e-07
+qgram	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9996772
+qgram	phylum	Sum of abundances	ERR1700889_1.fastq	0.9465866
+qgram	class	Sum of abundances	ERR1700889_1.fastq	0.9465866
+qgram	order	Sum of abundances	ERR1700889_1.fastq	0.9607485
+qgram	family	Sum of abundances	ERR1700889_1.fastq	0.9607485
+qgram	genus	Sum of abundances	ERR1700889_1.fastq	0.9465866
+qgram	species	Sum of abundances	ERR1700889_1.fastq	0.9996772
+qgram	strain	Sum of abundances	ERR1700889_1.fastq	0.9996772
+qgram	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+qgram	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+qgram	class	Taxon counts	ERR1700889_1.fastq	3.0
+qgram	order	Taxon counts	ERR1700889_1.fastq	4.0
+qgram	family	Taxon counts	ERR1700889_1.fastq	4.0
+qgram	genus	Taxon counts	ERR1700889_1.fastq	3.0
+qgram	species	Taxon counts	ERR1700889_1.fastq	5.0
+qgram	strain	Taxon counts	ERR1700889_1.fastq	5.0
+qgram_hash	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.2099023165366653
+qgram_hash	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.2014202768865479
+qgram_hash	class	Bray-Curtis distance	ERR1700889_1.fastq	0.2014202768865479
+qgram_hash	order	Bray-Curtis distance	ERR1700889_1.fastq	0.21237199187031783
+qgram_hash	family	Bray-Curtis distance	ERR1700889_1.fastq	0.21237199187031783
+qgram_hash	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.2014202768865479
+qgram_hash	species	Bray-Curtis distance	ERR1700889_1.fastq	0.2831708631235312
+qgram_hash	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.2831708631235311
+qgram_hash	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.6090296538686687
+qgram_hash	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.8786440613906502
+qgram_hash	phylum	Shannon diversity	ERR1700889_1.fastq	0.9402899965811213
+qgram_hash	phylum	Shannon equitability	ERR1700889_1.fastq	0.8558888392929513
+qgram_hash	class	Shannon diversity	ERR1700889_1.fastq	0.9402899965811213
+qgram_hash	class	Shannon equitability	ERR1700889_1.fastq	0.8558888392929513
+qgram_hash	order	Shannon diversity	ERR1700889_1.fastq	0.9402899965811213
+qgram_hash	order	Shannon equitability	ERR1700889_1.fastq	0.8558888392929513
+qgram_hash	family	Shannon diversity	ERR1700889_1.fastq	0.9402899965811213
+qgram_hash	family	Shannon equitability	ERR1700889_1.fastq	0.8558888392929513
+qgram_hash	genus	Shannon diversity	ERR1700889_1.fastq	0.9402899965811213
+qgram_hash	genus	Shannon equitability	ERR1700889_1.fastq	0.8558888392929513
+qgram_hash	species	Shannon diversity	ERR1700889_1.fastq	1.2940911783442846
+qgram_hash	species	Shannon equitability	ERR1700889_1.fastq	0.9334894627277273
+qgram_hash	strain	Shannon diversity	ERR1700889_1.fastq	1.2940911783442846
+qgram_hash	strain	Shannon equitability	ERR1700889_1.fastq	0.9334894627277273
+qgram_hash	superkingdom	True positives	ERR1700889_1.fastq	2.0
+qgram_hash	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+qgram_hash	superkingdom	False positives	ERR1700889_1.fastq	0.0
+qgram_hash	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+qgram_hash	superkingdom	Purity	ERR1700889_1.fastq	1.0
+qgram_hash	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+qgram_hash	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+qgram_hash	phylum	True positives	ERR1700889_1.fastq	3.0
+qgram_hash	phylum	False negatives	ERR1700889_1.fastq	0.0
+qgram_hash	phylum	False positives	ERR1700889_1.fastq	0.0
+qgram_hash	phylum	Completeness	ERR1700889_1.fastq	1.0
+qgram_hash	phylum	Purity	ERR1700889_1.fastq	1.0
+qgram_hash	phylum	F1 score	ERR1700889_1.fastq	1.0
+qgram_hash	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+qgram_hash	class	True positives	ERR1700889_1.fastq	3.0
+qgram_hash	class	False negatives	ERR1700889_1.fastq	0.0
+qgram_hash	class	False positives	ERR1700889_1.fastq	0.0
+qgram_hash	class	Completeness	ERR1700889_1.fastq	1.0
+qgram_hash	class	Purity	ERR1700889_1.fastq	1.0
+qgram_hash	class	F1 score	ERR1700889_1.fastq	1.0
+qgram_hash	class	Jaccard index	ERR1700889_1.fastq	1.0
+qgram_hash	order	True positives	ERR1700889_1.fastq	3.0
+qgram_hash	order	False negatives	ERR1700889_1.fastq	1.0
+qgram_hash	order	False positives	ERR1700889_1.fastq	0.0
+qgram_hash	order	Completeness	ERR1700889_1.fastq	0.75
+qgram_hash	order	Purity	ERR1700889_1.fastq	1.0
+qgram_hash	order	F1 score	ERR1700889_1.fastq	0.8571428571428571
+qgram_hash	order	Jaccard index	ERR1700889_1.fastq	0.75
+qgram_hash	family	True positives	ERR1700889_1.fastq	3.0
+qgram_hash	family	False negatives	ERR1700889_1.fastq	1.0
+qgram_hash	family	False positives	ERR1700889_1.fastq	0.0
+qgram_hash	family	Completeness	ERR1700889_1.fastq	0.75
+qgram_hash	family	Purity	ERR1700889_1.fastq	1.0
+qgram_hash	family	F1 score	ERR1700889_1.fastq	0.8571428571428571
+qgram_hash	family	Jaccard index	ERR1700889_1.fastq	0.75
+qgram_hash	genus	True positives	ERR1700889_1.fastq	3.0
+qgram_hash	genus	False negatives	ERR1700889_1.fastq	0.0
+qgram_hash	genus	False positives	ERR1700889_1.fastq	0.0
+qgram_hash	genus	Completeness	ERR1700889_1.fastq	1.0
+qgram_hash	genus	Purity	ERR1700889_1.fastq	1.0
+qgram_hash	genus	F1 score	ERR1700889_1.fastq	1.0
+qgram_hash	genus	Jaccard index	ERR1700889_1.fastq	1.0
+qgram_hash	species	True positives	ERR1700889_1.fastq	4.0
+qgram_hash	species	False negatives	ERR1700889_1.fastq	1.0
+qgram_hash	species	False positives	ERR1700889_1.fastq	0.0
+qgram_hash	species	Completeness	ERR1700889_1.fastq	0.8
+qgram_hash	species	Purity	ERR1700889_1.fastq	1.0
+qgram_hash	species	F1 score	ERR1700889_1.fastq	0.888888888888889
+qgram_hash	species	Jaccard index	ERR1700889_1.fastq	0.8
+qgram_hash	strain	True positives	ERR1700889_1.fastq	4.0
+qgram_hash	strain	False negatives	ERR1700889_1.fastq	1.0
+qgram_hash	strain	False positives	ERR1700889_1.fastq	0.0
+qgram_hash	strain	Completeness	ERR1700889_1.fastq	0.8
+qgram_hash	strain	Purity	ERR1700889_1.fastq	1.0
+qgram_hash	strain	F1 score	ERR1700889_1.fastq	0.888888888888889
+qgram_hash	strain	Jaccard index	ERR1700889_1.fastq	0.8
+qgram_hash	superkingdom	L1 norm error	ERR1700889_1.fastq	0.41181339999999994
+qgram_hash	phylum	L1 norm error	ERR1700889_1.fastq	0.3237299
+qgram_hash	class	L1 norm error	ERR1700889_1.fastq	0.3237299
+qgram_hash	order	L1 norm error	ERR1700889_1.fastq	0.346078
+qgram_hash	family	L1 norm error	ERR1700889_1.fastq	0.34607800000000005
+qgram_hash	genus	L1 norm error	ERR1700889_1.fastq	0.3237299
+qgram_hash	species	L1 norm error	ERR1700889_1.fastq	0.5555611
+qgram_hash	strain	L1 norm error	ERR1700889_1.fastq	0.5555611
+qgram_hash	na	Weighted UniFrac error	ERR1700889_1.fastq	0.04160357635714285
+qgram_hash	na	Unweighted UniFrac error	ERR1700889_1.fastq	0.24398845105036443
+qgram_hash	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	4.246892052722587
+qgram_hash	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	8.999999899973593
+qgram_hash	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9621928
+qgram_hash	phylum	Sum of abundances	ERR1700889_1.fastq	0.6912788000000001
+qgram_hash	class	Sum of abundances	ERR1700889_1.fastq	0.6912788000000001
+qgram_hash	order	Sum of abundances	ERR1700889_1.fastq	0.6912788000000001
+qgram_hash	family	Sum of abundances	ERR1700889_1.fastq	0.6912788000000001
+qgram_hash	genus	Sum of abundances	ERR1700889_1.fastq	0.6912788000000001
+qgram_hash	species	Sum of abundances	ERR1700889_1.fastq	0.9621928000000001
+qgram_hash	strain	Sum of abundances	ERR1700889_1.fastq	0.9621928000000001
+qgram_hash	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+qgram_hash	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+qgram_hash	class	Taxon counts	ERR1700889_1.fastq	3.0
+qgram_hash	order	Taxon counts	ERR1700889_1.fastq	3.0
+qgram_hash	family	Taxon counts	ERR1700889_1.fastq	3.0
+qgram_hash	genus	Taxon counts	ERR1700889_1.fastq	3.0
+qgram_hash	species	Taxon counts	ERR1700889_1.fastq	4.0
+qgram_hash	strain	Taxon counts	ERR1700889_1.fastq	4.0
+shd	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.027231718605090976
+shd	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.373321612332246
+shd	class	Bray-Curtis distance	ERR1700889_1.fastq	0.373321612332246
+shd	order	Bray-Curtis distance	ERR1700889_1.fastq	0.36942835751604436
+shd	family	Bray-Curtis distance	ERR1700889_1.fastq	0.36942835751604436
+shd	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.37332161233224587
+shd	species	Bray-Curtis distance	ERR1700889_1.fastq	0.360752153259469
+shd	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.360752153259469
+shd	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.21760682811865245
+shd	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.31394029179035693
+shd	phylum	Shannon diversity	ERR1700889_1.fastq	1.048060024866715
+shd	phylum	Shannon equitability	ERR1700889_1.fastq	0.9539853464931825
+shd	class	Shannon diversity	ERR1700889_1.fastq	1.048060024866715
+shd	class	Shannon equitability	ERR1700889_1.fastq	0.9539853464931825
+shd	order	Shannon diversity	ERR1700889_1.fastq	1.1128873946579618
+shd	order	Shannon equitability	ERR1700889_1.fastq	0.8027785626704401
+shd	family	Shannon diversity	ERR1700889_1.fastq	1.1128873946579618
+shd	family	Shannon equitability	ERR1700889_1.fastq	0.8027785626704401
+shd	genus	Shannon diversity	ERR1700889_1.fastq	1.048060024866715
+shd	genus	Shannon equitability	ERR1700889_1.fastq	0.9539853464931825
+shd	species	Shannon diversity	ERR1700889_1.fastq	1.2437486067096932
+shd	species	Shannon equitability	ERR1700889_1.fastq	0.7727844591585756
+shd	strain	Shannon diversity	ERR1700889_1.fastq	1.2437486067096932
+shd	strain	Shannon equitability	ERR1700889_1.fastq	0.7727844591585756
+shd	superkingdom	True positives	ERR1700889_1.fastq	2.0
+shd	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+shd	superkingdom	False positives	ERR1700889_1.fastq	0.0
+shd	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+shd	superkingdom	Purity	ERR1700889_1.fastq	1.0
+shd	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+shd	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+shd	phylum	True positives	ERR1700889_1.fastq	3.0
+shd	phylum	False negatives	ERR1700889_1.fastq	0.0
+shd	phylum	False positives	ERR1700889_1.fastq	0.0
+shd	phylum	Completeness	ERR1700889_1.fastq	1.0
+shd	phylum	Purity	ERR1700889_1.fastq	1.0
+shd	phylum	F1 score	ERR1700889_1.fastq	1.0
+shd	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+shd	class	True positives	ERR1700889_1.fastq	3.0
+shd	class	False negatives	ERR1700889_1.fastq	0.0
+shd	class	False positives	ERR1700889_1.fastq	0.0
+shd	class	Completeness	ERR1700889_1.fastq	1.0
+shd	class	Purity	ERR1700889_1.fastq	1.0
+shd	class	F1 score	ERR1700889_1.fastq	1.0
+shd	class	Jaccard index	ERR1700889_1.fastq	1.0
+shd	order	True positives	ERR1700889_1.fastq	4.0
+shd	order	False negatives	ERR1700889_1.fastq	0.0
+shd	order	False positives	ERR1700889_1.fastq	0.0
+shd	order	Completeness	ERR1700889_1.fastq	1.0
+shd	order	Purity	ERR1700889_1.fastq	1.0
+shd	order	F1 score	ERR1700889_1.fastq	1.0
+shd	order	Jaccard index	ERR1700889_1.fastq	1.0
+shd	family	True positives	ERR1700889_1.fastq	4.0
+shd	family	False negatives	ERR1700889_1.fastq	0.0
+shd	family	False positives	ERR1700889_1.fastq	0.0
+shd	family	Completeness	ERR1700889_1.fastq	1.0
+shd	family	Purity	ERR1700889_1.fastq	1.0
+shd	family	F1 score	ERR1700889_1.fastq	1.0
+shd	family	Jaccard index	ERR1700889_1.fastq	1.0
+shd	genus	True positives	ERR1700889_1.fastq	3.0
+shd	genus	False negatives	ERR1700889_1.fastq	0.0
+shd	genus	False positives	ERR1700889_1.fastq	0.0
+shd	genus	Completeness	ERR1700889_1.fastq	1.0
+shd	genus	Purity	ERR1700889_1.fastq	1.0
+shd	genus	F1 score	ERR1700889_1.fastq	1.0
+shd	genus	Jaccard index	ERR1700889_1.fastq	1.0
+shd	species	True positives	ERR1700889_1.fastq	5.0
+shd	species	False negatives	ERR1700889_1.fastq	0.0
+shd	species	False positives	ERR1700889_1.fastq	0.0
+shd	species	Completeness	ERR1700889_1.fastq	1.0
+shd	species	Purity	ERR1700889_1.fastq	1.0
+shd	species	F1 score	ERR1700889_1.fastq	1.0
+shd	species	Jaccard index	ERR1700889_1.fastq	1.0
+shd	strain	True positives	ERR1700889_1.fastq	5.0
+shd	strain	False negatives	ERR1700889_1.fastq	0.0
+shd	strain	False positives	ERR1700889_1.fastq	0.0
+shd	strain	Completeness	ERR1700889_1.fastq	1.0
+shd	strain	Purity	ERR1700889_1.fastq	1.0
+shd	strain	F1 score	ERR1700889_1.fastq	1.0
+shd	strain	Jaccard index	ERR1700889_1.fastq	1.0
+shd	superkingdom	L1 norm error	ERR1700889_1.fastq	0.05444770000000007
+shd	phylum	L1 norm error	ERR1700889_1.fastq	0.6940471000000001
+shd	class	L1 norm error	ERR1700889_1.fastq	0.6940471000000001
+shd	order	L1 norm error	ERR1700889_1.fastq	0.7008193
+shd	family	L1 norm error	ERR1700889_1.fastq	0.7008193
+shd	genus	L1 norm error	ERR1700889_1.fastq	0.6940470999999999
+shd	species	L1 norm error	ERR1700889_1.fastq	0.7212959000000001
+shd	strain	L1 norm error	ERR1700889_1.fastq	0.7212959000000001
+shd	na	Weighted UniFrac error	ERR1700889_1.fastq	0.05028270975714286
+shd	na	Unweighted UniFrac error	ERR1700889_1.fastq	0.0897723637434075
+shd	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	5.10487658432265
+shd	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.000000000004993
+shd	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9996861
+shd	phylum	Sum of abundances	ERR1700889_1.fastq	0.943156
+shd	class	Sum of abundances	ERR1700889_1.fastq	0.943156
+shd	order	Sum of abundances	ERR1700889_1.fastq	0.9587319000000001
+shd	family	Sum of abundances	ERR1700889_1.fastq	0.9587319000000001
+shd	genus	Sum of abundances	ERR1700889_1.fastq	0.943156
+shd	species	Sum of abundances	ERR1700889_1.fastq	0.9996862000000002
+shd	strain	Sum of abundances	ERR1700889_1.fastq	0.9996862000000002
+shd	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+shd	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+shd	class	Taxon counts	ERR1700889_1.fastq	3.0
+shd	order	Taxon counts	ERR1700889_1.fastq	4.0
+shd	family	Taxon counts	ERR1700889_1.fastq	4.0
+shd	genus	Taxon counts	ERR1700889_1.fastq	3.0
+shd	species	Taxon counts	ERR1700889_1.fastq	5.0
+shd	strain	Taxon counts	ERR1700889_1.fastq	5.0
+shouji	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.030315497557391196
+shouji	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.4108203299483309
+shouji	class	Bray-Curtis distance	ERR1700889_1.fastq	0.4108203299483308
+shouji	order	Bray-Curtis distance	ERR1700889_1.fastq	0.4071621373740908
+shouji	family	Bray-Curtis distance	ERR1700889_1.fastq	0.4071621373740908
+shouji	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.4108203299483309
+shouji	species	Bray-Curtis distance	ERR1700889_1.fastq	0.3977956402948135
+shouji	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.3977956402948135
+shouji	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.20883837928278748
+shouji	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.30129009413856594
+shouji	phylum	Shannon diversity	ERR1700889_1.fastq	1.0247015840513554
+shouji	phylum	Shannon equitability	ERR1700889_1.fastq	0.9327235773902008
+shouji	class	Shannon diversity	ERR1700889_1.fastq	1.0247015840513554
+shouji	class	Shannon equitability	ERR1700889_1.fastq	0.9327235773902008
+shouji	order	Shannon diversity	ERR1700889_1.fastq	1.0852991158087715
+shouji	order	Shannon equitability	ERR1700889_1.fastq	0.7828778261292457
+shouji	family	Shannon diversity	ERR1700889_1.fastq	1.0852991158087715
+shouji	family	Shannon equitability	ERR1700889_1.fastq	0.7828778261292457
+shouji	genus	Shannon diversity	ERR1700889_1.fastq	1.0247015840513554
+shouji	genus	Shannon equitability	ERR1700889_1.fastq	0.9327235773902008
+shouji	species	Shannon diversity	ERR1700889_1.fastq	1.2122477064740032
+shouji	species	Shannon equitability	ERR1700889_1.fastq	0.7532118493720643
+shouji	strain	Shannon diversity	ERR1700889_1.fastq	1.2122477064740032
+shouji	strain	Shannon equitability	ERR1700889_1.fastq	0.7532118493720643
+shouji	superkingdom	True positives	ERR1700889_1.fastq	2.0
+shouji	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+shouji	superkingdom	False positives	ERR1700889_1.fastq	0.0
+shouji	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+shouji	superkingdom	Purity	ERR1700889_1.fastq	1.0
+shouji	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+shouji	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+shouji	phylum	True positives	ERR1700889_1.fastq	3.0
+shouji	phylum	False negatives	ERR1700889_1.fastq	0.0
+shouji	phylum	False positives	ERR1700889_1.fastq	0.0
+shouji	phylum	Completeness	ERR1700889_1.fastq	1.0
+shouji	phylum	Purity	ERR1700889_1.fastq	1.0
+shouji	phylum	F1 score	ERR1700889_1.fastq	1.0
+shouji	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+shouji	class	True positives	ERR1700889_1.fastq	3.0
+shouji	class	False negatives	ERR1700889_1.fastq	0.0
+shouji	class	False positives	ERR1700889_1.fastq	0.0
+shouji	class	Completeness	ERR1700889_1.fastq	1.0
+shouji	class	Purity	ERR1700889_1.fastq	1.0
+shouji	class	F1 score	ERR1700889_1.fastq	1.0
+shouji	class	Jaccard index	ERR1700889_1.fastq	1.0
+shouji	order	True positives	ERR1700889_1.fastq	4.0
+shouji	order	False negatives	ERR1700889_1.fastq	0.0
+shouji	order	False positives	ERR1700889_1.fastq	0.0
+shouji	order	Completeness	ERR1700889_1.fastq	1.0
+shouji	order	Purity	ERR1700889_1.fastq	1.0
+shouji	order	F1 score	ERR1700889_1.fastq	1.0
+shouji	order	Jaccard index	ERR1700889_1.fastq	1.0
+shouji	family	True positives	ERR1700889_1.fastq	4.0
+shouji	family	False negatives	ERR1700889_1.fastq	0.0
+shouji	family	False positives	ERR1700889_1.fastq	0.0
+shouji	family	Completeness	ERR1700889_1.fastq	1.0
+shouji	family	Purity	ERR1700889_1.fastq	1.0
+shouji	family	F1 score	ERR1700889_1.fastq	1.0
+shouji	family	Jaccard index	ERR1700889_1.fastq	1.0
+shouji	genus	True positives	ERR1700889_1.fastq	3.0
+shouji	genus	False negatives	ERR1700889_1.fastq	0.0
+shouji	genus	False positives	ERR1700889_1.fastq	0.0
+shouji	genus	Completeness	ERR1700889_1.fastq	1.0
+shouji	genus	Purity	ERR1700889_1.fastq	1.0
+shouji	genus	F1 score	ERR1700889_1.fastq	1.0
+shouji	genus	Jaccard index	ERR1700889_1.fastq	1.0
+shouji	species	True positives	ERR1700889_1.fastq	5.0
+shouji	species	False negatives	ERR1700889_1.fastq	0.0
+shouji	species	False positives	ERR1700889_1.fastq	0.0
+shouji	species	Completeness	ERR1700889_1.fastq	1.0
+shouji	species	Purity	ERR1700889_1.fastq	1.0
+shouji	species	F1 score	ERR1700889_1.fastq	1.0
+shouji	species	Jaccard index	ERR1700889_1.fastq	1.0
+shouji	strain	True positives	ERR1700889_1.fastq	5.0
+shouji	strain	False negatives	ERR1700889_1.fastq	0.0
+shouji	strain	False positives	ERR1700889_1.fastq	0.0
+shouji	strain	Completeness	ERR1700889_1.fastq	1.0
+shouji	strain	Purity	ERR1700889_1.fastq	1.0
+shouji	strain	F1 score	ERR1700889_1.fastq	1.0
+shouji	strain	Jaccard index	ERR1700889_1.fastq	1.0
+shouji	superkingdom	L1 norm error	ERR1700889_1.fastq	0.06061340000000008
+shouji	phylum	L1 norm error	ERR1700889_1.fastq	0.7650274
+shouji	class	L1 norm error	ERR1700889_1.fastq	0.7650273999999999
+shouji	order	L1 norm error	ERR1700889_1.fastq	0.7731191
+shouji	family	L1 norm error	ERR1700889_1.fastq	0.7731191
+shouji	genus	L1 norm error	ERR1700889_1.fastq	0.7650274
+shouji	species	L1 norm error	ERR1700889_1.fastq	0.7953603999999999
+shouji	strain	L1 norm error	ERR1700889_1.fastq	0.7953603999999999
+shouji	na	Weighted UniFrac error	ERR1700889_1.fastq	0.055463494371428564
+shouji	na	Unweighted UniFrac error	ERR1700889_1.fastq	0.08977237272256626
+shouji	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	5.629660321734059
+shouji	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.000000100026407
+shouji	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9996836
+shouji	phylum	Sum of abundances	ERR1700889_1.fastq	0.9462375000000001
+shouji	class	Sum of abundances	ERR1700889_1.fastq	0.9462375000000001
+shouji	order	Sum of abundances	ERR1700889_1.fastq	0.9604939
+shouji	family	Sum of abundances	ERR1700889_1.fastq	0.9604939
+shouji	genus	Sum of abundances	ERR1700889_1.fastq	0.9462375000000001
+shouji	species	Sum of abundances	ERR1700889_1.fastq	0.9996835000000001
+shouji	strain	Sum of abundances	ERR1700889_1.fastq	0.9996835000000001
+shouji	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+shouji	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+shouji	class	Taxon counts	ERR1700889_1.fastq	3.0
+shouji	order	Taxon counts	ERR1700889_1.fastq	4.0
+shouji	family	Taxon counts	ERR1700889_1.fastq	4.0
+shouji	genus	Taxon counts	ERR1700889_1.fastq	3.0
+shouji	species	Taxon counts	ERR1700889_1.fastq	5.0
+shouji	strain	Taxon counts	ERR1700889_1.fastq	5.0
+sneakysnake	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.004197729026246199
+sneakysnake	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.032756304355497784
+sneakysnake	class	Bray-Curtis distance	ERR1700889_1.fastq	0.032756304355497784
+sneakysnake	order	Bray-Curtis distance	ERR1700889_1.fastq	0.03363685786716537
+sneakysnake	family	Bray-Curtis distance	ERR1700889_1.fastq	0.03363685786716537
+sneakysnake	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.032756304355497784
+sneakysnake	species	Bray-Curtis distance	ERR1700889_1.fastq	0.03204473549702273
+sneakysnake	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.03204473549702273
+sneakysnake	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.2980720786166408
+sneakysnake	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.430027109647693
+sneakysnake	phylum	Shannon diversity	ERR1700889_1.fastq	0.9780438656400054
+sneakysnake	phylum	Shannon equitability	ERR1700889_1.fastq	0.890253891867281
+sneakysnake	class	Shannon diversity	ERR1700889_1.fastq	0.9780438656400054
+sneakysnake	class	Shannon equitability	ERR1700889_1.fastq	0.890253891867281
+sneakysnake	order	Shannon diversity	ERR1700889_1.fastq	1.0717901976666742
+sneakysnake	order	Shannon equitability	ERR1700889_1.fastq	0.7731332015235564
+sneakysnake	family	Shannon diversity	ERR1700889_1.fastq	1.0717901976666742
+sneakysnake	family	Shannon equitability	ERR1700889_1.fastq	0.7731332015235564
+sneakysnake	genus	Shannon diversity	ERR1700889_1.fastq	0.9780438656400054
+sneakysnake	genus	Shannon equitability	ERR1700889_1.fastq	0.890253891867281
+sneakysnake	species	Shannon diversity	ERR1700889_1.fastq	1.2449230718037279
+sneakysnake	species	Shannon equitability	ERR1700889_1.fastq	0.7735141953509203
+sneakysnake	strain	Shannon diversity	ERR1700889_1.fastq	1.2449230718037279
+sneakysnake	strain	Shannon equitability	ERR1700889_1.fastq	0.7735141953509203
+sneakysnake	superkingdom	True positives	ERR1700889_1.fastq	2.0
+sneakysnake	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+sneakysnake	superkingdom	False positives	ERR1700889_1.fastq	0.0
+sneakysnake	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+sneakysnake	superkingdom	Purity	ERR1700889_1.fastq	1.0
+sneakysnake	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+sneakysnake	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+sneakysnake	phylum	True positives	ERR1700889_1.fastq	3.0
+sneakysnake	phylum	False negatives	ERR1700889_1.fastq	0.0
+sneakysnake	phylum	False positives	ERR1700889_1.fastq	0.0
+sneakysnake	phylum	Completeness	ERR1700889_1.fastq	1.0
+sneakysnake	phylum	Purity	ERR1700889_1.fastq	1.0
+sneakysnake	phylum	F1 score	ERR1700889_1.fastq	1.0
+sneakysnake	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+sneakysnake	class	True positives	ERR1700889_1.fastq	3.0
+sneakysnake	class	False negatives	ERR1700889_1.fastq	0.0
+sneakysnake	class	False positives	ERR1700889_1.fastq	0.0
+sneakysnake	class	Completeness	ERR1700889_1.fastq	1.0
+sneakysnake	class	Purity	ERR1700889_1.fastq	1.0
+sneakysnake	class	F1 score	ERR1700889_1.fastq	1.0
+sneakysnake	class	Jaccard index	ERR1700889_1.fastq	1.0
+sneakysnake	order	True positives	ERR1700889_1.fastq	4.0
+sneakysnake	order	False negatives	ERR1700889_1.fastq	0.0
+sneakysnake	order	False positives	ERR1700889_1.fastq	0.0
+sneakysnake	order	Completeness	ERR1700889_1.fastq	1.0
+sneakysnake	order	Purity	ERR1700889_1.fastq	1.0
+sneakysnake	order	F1 score	ERR1700889_1.fastq	1.0
+sneakysnake	order	Jaccard index	ERR1700889_1.fastq	1.0
+sneakysnake	family	True positives	ERR1700889_1.fastq	4.0
+sneakysnake	family	False negatives	ERR1700889_1.fastq	0.0
+sneakysnake	family	False positives	ERR1700889_1.fastq	0.0
+sneakysnake	family	Completeness	ERR1700889_1.fastq	1.0
+sneakysnake	family	Purity	ERR1700889_1.fastq	1.0
+sneakysnake	family	F1 score	ERR1700889_1.fastq	1.0
+sneakysnake	family	Jaccard index	ERR1700889_1.fastq	1.0
+sneakysnake	genus	True positives	ERR1700889_1.fastq	3.0
+sneakysnake	genus	False negatives	ERR1700889_1.fastq	0.0
+sneakysnake	genus	False positives	ERR1700889_1.fastq	0.0
+sneakysnake	genus	Completeness	ERR1700889_1.fastq	1.0
+sneakysnake	genus	Purity	ERR1700889_1.fastq	1.0
+sneakysnake	genus	F1 score	ERR1700889_1.fastq	1.0
+sneakysnake	genus	Jaccard index	ERR1700889_1.fastq	1.0
+sneakysnake	species	True positives	ERR1700889_1.fastq	5.0
+sneakysnake	species	False negatives	ERR1700889_1.fastq	0.0
+sneakysnake	species	False positives	ERR1700889_1.fastq	0.0
+sneakysnake	species	Completeness	ERR1700889_1.fastq	1.0
+sneakysnake	species	Purity	ERR1700889_1.fastq	1.0
+sneakysnake	species	F1 score	ERR1700889_1.fastq	1.0
+sneakysnake	species	Jaccard index	ERR1700889_1.fastq	1.0
+sneakysnake	strain	True positives	ERR1700889_1.fastq	5.0
+sneakysnake	strain	False negatives	ERR1700889_1.fastq	0.0
+sneakysnake	strain	False positives	ERR1700889_1.fastq	0.0
+sneakysnake	strain	Completeness	ERR1700889_1.fastq	1.0
+sneakysnake	strain	Purity	ERR1700889_1.fastq	1.0
+sneakysnake	strain	F1 score	ERR1700889_1.fastq	1.0
+sneakysnake	strain	Jaccard index	ERR1700889_1.fastq	1.0
+sneakysnake	superkingdom	L1 norm error	ERR1700889_1.fastq	0.008393300000000003
+sneakysnake	phylum	L1 norm error	ERR1700889_1.fastq	0.0598695
+sneakysnake	class	L1 norm error	ERR1700889_1.fastq	0.0598695
+sneakysnake	order	L1 norm error	ERR1700889_1.fastq	0.0630907
+sneakysnake	family	L1 norm error	ERR1700889_1.fastq	0.0630907
+sneakysnake	genus	L1 norm error	ERR1700889_1.fastq	0.0598695
+sneakysnake	species	L1 norm error	ERR1700889_1.fastq	0.064073
+sneakysnake	strain	L1 norm error	ERR1700889_1.fastq	0.064073
+sneakysnake	na	Weighted UniFrac error	ERR1700889_1.fastq	0.00455264102857143
+sneakysnake	na	Unweighted UniFrac error	ERR1700889_1.fastq	0.08977237272256626
+sneakysnake	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	0.45702210221789574
+sneakysnake	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.000000100026407
+sneakysnake	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9997498999999999
+sneakysnake	phylum	Sum of abundances	ERR1700889_1.fastq	0.9117674
+sneakysnake	class	Sum of abundances	ERR1700889_1.fastq	0.9117674
+sneakysnake	order	Sum of abundances	ERR1700889_1.fastq	0.9373366999999999
+sneakysnake	family	Sum of abundances	ERR1700889_1.fastq	0.9373366999999999
+sneakysnake	genus	Sum of abundances	ERR1700889_1.fastq	0.9117674
+sneakysnake	species	Sum of abundances	ERR1700889_1.fastq	0.9997498999999999
+sneakysnake	strain	Sum of abundances	ERR1700889_1.fastq	0.9997498999999999
+sneakysnake	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+sneakysnake	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+sneakysnake	class	Taxon counts	ERR1700889_1.fastq	3.0
+sneakysnake	order	Taxon counts	ERR1700889_1.fastq	4.0
+sneakysnake	family	Taxon counts	ERR1700889_1.fastq	4.0
+sneakysnake	genus	Taxon counts	ERR1700889_1.fastq	3.0
+sneakysnake	species	Taxon counts	ERR1700889_1.fastq	5.0
+sneakysnake	strain	Taxon counts	ERR1700889_1.fastq	5.0
+ksw2_cigar	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+ksw2_cigar	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+ksw2_cigar	class	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+ksw2_cigar	order	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+ksw2_cigar	family	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+ksw2_cigar	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+ksw2_cigar	species	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+ksw2_cigar	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.0
+ksw2_cigar	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.288143970496774
+ksw2_cigar	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.4157038772977516
+ksw2_cigar	phylum	Shannon diversity	ERR1700889_1.fastq	0.942222757686928
+ksw2_cigar	phylum	Shannon equitability	ERR1700889_1.fastq	0.8576481142671553
+ksw2_cigar	class	Shannon diversity	ERR1700889_1.fastq	0.942222757686928
+ksw2_cigar	class	Shannon equitability	ERR1700889_1.fastq	0.8576481142671553
+ksw2_cigar	order	Shannon diversity	ERR1700889_1.fastq	1.0271681980507141
+ksw2_cigar	order	Shannon equitability	ERR1700889_1.fastq	0.7409452327433089
+ksw2_cigar	family	Shannon diversity	ERR1700889_1.fastq	1.0271681980507141
+ksw2_cigar	family	Shannon equitability	ERR1700889_1.fastq	0.7409452327433089
+ksw2_cigar	genus	Shannon diversity	ERR1700889_1.fastq	0.942222757686928
+ksw2_cigar	genus	Shannon equitability	ERR1700889_1.fastq	0.8576481142671553
+ksw2_cigar	species	Shannon diversity	ERR1700889_1.fastq	1.1985507222020098
+ksw2_cigar	species	Shannon equitability	ERR1700889_1.fastq	0.7447014345457612
+ksw2_cigar	strain	Shannon diversity	ERR1700889_1.fastq	1.1985507222020098
+ksw2_cigar	strain	Shannon equitability	ERR1700889_1.fastq	0.7447014345457612
+ksw2_cigar	superkingdom	True positives	ERR1700889_1.fastq	2.0
+ksw2_cigar	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+ksw2_cigar	superkingdom	False positives	ERR1700889_1.fastq	0.0
+ksw2_cigar	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+ksw2_cigar	superkingdom	Purity	ERR1700889_1.fastq	1.0
+ksw2_cigar	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+ksw2_cigar	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+ksw2_cigar	phylum	True positives	ERR1700889_1.fastq	3.0
+ksw2_cigar	phylum	False negatives	ERR1700889_1.fastq	0.0
+ksw2_cigar	phylum	False positives	ERR1700889_1.fastq	0.0
+ksw2_cigar	phylum	Completeness	ERR1700889_1.fastq	1.0
+ksw2_cigar	phylum	Purity	ERR1700889_1.fastq	1.0
+ksw2_cigar	phylum	F1 score	ERR1700889_1.fastq	1.0
+ksw2_cigar	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+ksw2_cigar	class	True positives	ERR1700889_1.fastq	3.0
+ksw2_cigar	class	False negatives	ERR1700889_1.fastq	0.0
+ksw2_cigar	class	False positives	ERR1700889_1.fastq	0.0
+ksw2_cigar	class	Completeness	ERR1700889_1.fastq	1.0
+ksw2_cigar	class	Purity	ERR1700889_1.fastq	1.0
+ksw2_cigar	class	F1 score	ERR1700889_1.fastq	1.0
+ksw2_cigar	class	Jaccard index	ERR1700889_1.fastq	1.0
+ksw2_cigar	order	True positives	ERR1700889_1.fastq	4.0
+ksw2_cigar	order	False negatives	ERR1700889_1.fastq	0.0
+ksw2_cigar	order	False positives	ERR1700889_1.fastq	0.0
+ksw2_cigar	order	Completeness	ERR1700889_1.fastq	1.0
+ksw2_cigar	order	Purity	ERR1700889_1.fastq	1.0
+ksw2_cigar	order	F1 score	ERR1700889_1.fastq	1.0
+ksw2_cigar	order	Jaccard index	ERR1700889_1.fastq	1.0
+ksw2_cigar	family	True positives	ERR1700889_1.fastq	4.0
+ksw2_cigar	family	False negatives	ERR1700889_1.fastq	0.0
+ksw2_cigar	family	False positives	ERR1700889_1.fastq	0.0
+ksw2_cigar	family	Completeness	ERR1700889_1.fastq	1.0
+ksw2_cigar	family	Purity	ERR1700889_1.fastq	1.0
+ksw2_cigar	family	F1 score	ERR1700889_1.fastq	1.0
+ksw2_cigar	family	Jaccard index	ERR1700889_1.fastq	1.0
+ksw2_cigar	genus	True positives	ERR1700889_1.fastq	3.0
+ksw2_cigar	genus	False negatives	ERR1700889_1.fastq	0.0
+ksw2_cigar	genus	False positives	ERR1700889_1.fastq	0.0
+ksw2_cigar	genus	Completeness	ERR1700889_1.fastq	1.0
+ksw2_cigar	genus	Purity	ERR1700889_1.fastq	1.0
+ksw2_cigar	genus	F1 score	ERR1700889_1.fastq	1.0
+ksw2_cigar	genus	Jaccard index	ERR1700889_1.fastq	1.0
+ksw2_cigar	species	True positives	ERR1700889_1.fastq	5.0
+ksw2_cigar	species	False negatives	ERR1700889_1.fastq	0.0
+ksw2_cigar	species	False positives	ERR1700889_1.fastq	0.0
+ksw2_cigar	species	Completeness	ERR1700889_1.fastq	1.0
+ksw2_cigar	species	Purity	ERR1700889_1.fastq	1.0
+ksw2_cigar	species	F1 score	ERR1700889_1.fastq	1.0
+ksw2_cigar	species	Jaccard index	ERR1700889_1.fastq	1.0
+ksw2_cigar	strain	True positives	ERR1700889_1.fastq	5.0
+ksw2_cigar	strain	False negatives	ERR1700889_1.fastq	0.0
+ksw2_cigar	strain	False positives	ERR1700889_1.fastq	0.0
+ksw2_cigar	strain	Completeness	ERR1700889_1.fastq	1.0
+ksw2_cigar	strain	Purity	ERR1700889_1.fastq	1.0
+ksw2_cigar	strain	F1 score	ERR1700889_1.fastq	1.0
+ksw2_cigar	strain	Jaccard index	ERR1700889_1.fastq	1.0
+ksw2_cigar	superkingdom	L1 norm error	ERR1700889_1.fastq	0.0
+ksw2_cigar	phylum	L1 norm error	ERR1700889_1.fastq	0.0
+ksw2_cigar	class	L1 norm error	ERR1700889_1.fastq	0.0
+ksw2_cigar	order	L1 norm error	ERR1700889_1.fastq	0.0
+ksw2_cigar	family	L1 norm error	ERR1700889_1.fastq	0.0
+ksw2_cigar	genus	L1 norm error	ERR1700889_1.fastq	0.0
+ksw2_cigar	species	L1 norm error	ERR1700889_1.fastq	0.0
+ksw2_cigar	strain	L1 norm error	ERR1700889_1.fastq	0.0
+ksw2_cigar	na	Weighted UniFrac error	ERR1700889_1.fastq	0.0
+ksw2_cigar	na	Unweighted UniFrac error	ERR1700889_1.fastq	0.0
+ksw2_cigar	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	0.0
+ksw2_cigar	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	0.0
+ksw2_cigar	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9997360000000001
+ksw2_cigar	phylum	Sum of abundances	ERR1700889_1.fastq	0.9159571
+ksw2_cigar	class	Sum of abundances	ERR1700889_1.fastq	0.9159571
+ksw2_cigar	order	Sum of abundances	ERR1700889_1.fastq	0.9383052
+ksw2_cigar	family	Sum of abundances	ERR1700889_1.fastq	0.9383052
+ksw2_cigar	genus	Sum of abundances	ERR1700889_1.fastq	0.9159571
+ksw2_cigar	species	Sum of abundances	ERR1700889_1.fastq	0.9997360999999999
+ksw2_cigar	strain	Sum of abundances	ERR1700889_1.fastq	0.9997360999999999
+ksw2_cigar	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+ksw2_cigar	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+ksw2_cigar	class	Taxon counts	ERR1700889_1.fastq	3.0
+ksw2_cigar	order	Taxon counts	ERR1700889_1.fastq	4.0
+ksw2_cigar	family	Taxon counts	ERR1700889_1.fastq	4.0
+ksw2_cigar	genus	Taxon counts	ERR1700889_1.fastq	3.0
+ksw2_cigar	species	Taxon counts	ERR1700889_1.fastq	5.0
+ksw2_cigar	strain	Taxon counts	ERR1700889_1.fastq	5.0
+edlib_cigar	superkingdom	Bray-Curtis distance	ERR1700889_1.fastq	0.00013903516199243704
+edlib_cigar	phylum	Bray-Curtis distance	ERR1700889_1.fastq	0.009914202328077272
+edlib_cigar	class	Bray-Curtis distance	ERR1700889_1.fastq	0.009914202328077272
+edlib_cigar	order	Bray-Curtis distance	ERR1700889_1.fastq	0.00992893820746125
+edlib_cigar	family	Bray-Curtis distance	ERR1700889_1.fastq	0.00992893820746125
+edlib_cigar	genus	Bray-Curtis distance	ERR1700889_1.fastq	0.00991420232807727
+edlib_cigar	species	Bray-Curtis distance	ERR1700889_1.fastq	0.00948324783921617
+edlib_cigar	strain	Bray-Curtis distance	ERR1700889_1.fastq	0.00948324783921617
+edlib_cigar	superkingdom	Shannon diversity	ERR1700889_1.fastq	0.2884825834598117
+edlib_cigar	superkingdom	Shannon equitability	ERR1700889_1.fastq	0.4161923925403069
+edlib_cigar	phylum	Shannon diversity	ERR1700889_1.fastq	0.9466592308392119
+edlib_cigar	phylum	Shannon equitability	ERR1700889_1.fastq	0.8616863661582409
+edlib_cigar	class	Shannon diversity	ERR1700889_1.fastq	0.9466592308392119
+edlib_cigar	class	Shannon equitability	ERR1700889_1.fastq	0.8616863661582409
+edlib_cigar	order	Shannon diversity	ERR1700889_1.fastq	1.0329315302462199
+edlib_cigar	order	Shannon equitability	ERR1700889_1.fastq	0.7451025981320348
+edlib_cigar	family	Shannon diversity	ERR1700889_1.fastq	1.0329315302462199
+edlib_cigar	family	Shannon equitability	ERR1700889_1.fastq	0.7451025981320348
+edlib_cigar	genus	Shannon diversity	ERR1700889_1.fastq	0.9466592308392119
+edlib_cigar	genus	Shannon equitability	ERR1700889_1.fastq	0.8616863661582409
+edlib_cigar	species	Shannon diversity	ERR1700889_1.fastq	1.2037305968443912
+edlib_cigar	species	Shannon equitability	ERR1700889_1.fastq	0.7479198716177123
+edlib_cigar	strain	Shannon diversity	ERR1700889_1.fastq	1.2037305968443912
+edlib_cigar	strain	Shannon equitability	ERR1700889_1.fastq	0.7479198716177123
+edlib_cigar	superkingdom	True positives	ERR1700889_1.fastq	2.0
+edlib_cigar	superkingdom	False negatives	ERR1700889_1.fastq	0.0
+edlib_cigar	superkingdom	False positives	ERR1700889_1.fastq	0.0
+edlib_cigar	superkingdom	Completeness	ERR1700889_1.fastq	1.0
+edlib_cigar	superkingdom	Purity	ERR1700889_1.fastq	1.0
+edlib_cigar	superkingdom	F1 score	ERR1700889_1.fastq	1.0
+edlib_cigar	superkingdom	Jaccard index	ERR1700889_1.fastq	1.0
+edlib_cigar	phylum	True positives	ERR1700889_1.fastq	3.0
+edlib_cigar	phylum	False negatives	ERR1700889_1.fastq	0.0
+edlib_cigar	phylum	False positives	ERR1700889_1.fastq	0.0
+edlib_cigar	phylum	Completeness	ERR1700889_1.fastq	1.0
+edlib_cigar	phylum	Purity	ERR1700889_1.fastq	1.0
+edlib_cigar	phylum	F1 score	ERR1700889_1.fastq	1.0
+edlib_cigar	phylum	Jaccard index	ERR1700889_1.fastq	1.0
+edlib_cigar	class	True positives	ERR1700889_1.fastq	3.0
+edlib_cigar	class	False negatives	ERR1700889_1.fastq	0.0
+edlib_cigar	class	False positives	ERR1700889_1.fastq	0.0
+edlib_cigar	class	Completeness	ERR1700889_1.fastq	1.0
+edlib_cigar	class	Purity	ERR1700889_1.fastq	1.0
+edlib_cigar	class	F1 score	ERR1700889_1.fastq	1.0
+edlib_cigar	class	Jaccard index	ERR1700889_1.fastq	1.0
+edlib_cigar	order	True positives	ERR1700889_1.fastq	4.0
+edlib_cigar	order	False negatives	ERR1700889_1.fastq	0.0
+edlib_cigar	order	False positives	ERR1700889_1.fastq	0.0
+edlib_cigar	order	Completeness	ERR1700889_1.fastq	1.0
+edlib_cigar	order	Purity	ERR1700889_1.fastq	1.0
+edlib_cigar	order	F1 score	ERR1700889_1.fastq	1.0
+edlib_cigar	order	Jaccard index	ERR1700889_1.fastq	1.0
+edlib_cigar	family	True positives	ERR1700889_1.fastq	4.0
+edlib_cigar	family	False negatives	ERR1700889_1.fastq	0.0
+edlib_cigar	family	False positives	ERR1700889_1.fastq	0.0
+edlib_cigar	family	Completeness	ERR1700889_1.fastq	1.0
+edlib_cigar	family	Purity	ERR1700889_1.fastq	1.0
+edlib_cigar	family	F1 score	ERR1700889_1.fastq	1.0
+edlib_cigar	family	Jaccard index	ERR1700889_1.fastq	1.0
+edlib_cigar	genus	True positives	ERR1700889_1.fastq	3.0
+edlib_cigar	genus	False negatives	ERR1700889_1.fastq	0.0
+edlib_cigar	genus	False positives	ERR1700889_1.fastq	0.0
+edlib_cigar	genus	Completeness	ERR1700889_1.fastq	1.0
+edlib_cigar	genus	Purity	ERR1700889_1.fastq	1.0
+edlib_cigar	genus	F1 score	ERR1700889_1.fastq	1.0
+edlib_cigar	genus	Jaccard index	ERR1700889_1.fastq	1.0
+edlib_cigar	species	True positives	ERR1700889_1.fastq	5.0
+edlib_cigar	species	False negatives	ERR1700889_1.fastq	0.0
+edlib_cigar	species	False positives	ERR1700889_1.fastq	0.0
+edlib_cigar	species	Completeness	ERR1700889_1.fastq	1.0
+edlib_cigar	species	Purity	ERR1700889_1.fastq	1.0
+edlib_cigar	species	F1 score	ERR1700889_1.fastq	1.0
+edlib_cigar	species	Jaccard index	ERR1700889_1.fastq	1.0
+edlib_cigar	strain	True positives	ERR1700889_1.fastq	5.0
+edlib_cigar	strain	False negatives	ERR1700889_1.fastq	0.0
+edlib_cigar	strain	False positives	ERR1700889_1.fastq	0.0
+edlib_cigar	strain	Completeness	ERR1700889_1.fastq	1.0
+edlib_cigar	strain	Purity	ERR1700889_1.fastq	1.0
+edlib_cigar	strain	F1 score	ERR1700889_1.fastq	1.0
+edlib_cigar	strain	Jaccard index	ERR1700889_1.fastq	1.0
+edlib_cigar	superkingdom	L1 norm error	ERR1700889_1.fastq	0.0002779999999999383
+edlib_cigar	phylum	L1 norm error	ERR1700889_1.fastq	0.01816070000000005
+edlib_cigar	class	L1 norm error	ERR1700889_1.fastq	0.01816070000000005
+edlib_cigar	order	L1 norm error	ERR1700889_1.fastq	0.018636200000000054
+edlib_cigar	family	L1 norm error	ERR1700889_1.fastq	0.018636200000000054
+edlib_cigar	genus	L1 norm error	ERR1700889_1.fastq	0.01816070000000005
+edlib_cigar	species	L1 norm error	ERR1700889_1.fastq	0.01896170000000005
+edlib_cigar	strain	L1 norm error	ERR1700889_1.fastq	0.01896170000000005
+edlib_cigar	na	Weighted UniFrac error	ERR1700889_1.fastq	0.0012761606714285687
+edlib_cigar	na	Unweighted UniFrac error	ERR1700889_1.fastq	8.979606992594166e-09
+edlib_cigar	na	Weighted UniFrac (CAMI)	ERR1700889_1.fastq	0.133066764818682
+edlib_cigar	na	Unweighted UniFrac (CAMI)	ERR1700889_1.fastq	1.0002640699430648e-07
+edlib_cigar	superkingdom	Sum of abundances	ERR1700889_1.fastq	0.9997582
+edlib_cigar	phylum	Sum of abundances	ERR1700889_1.fastq	0.9158292
+edlib_cigar	class	Sum of abundances	ERR1700889_1.fastq	0.9158292
+edlib_cigar	order	Sum of abundances	ERR1700889_1.fastq	0.9386528
+edlib_cigar	family	Sum of abundances	ERR1700889_1.fastq	0.9386528
+edlib_cigar	genus	Sum of abundances	ERR1700889_1.fastq	0.9158292
+edlib_cigar	species	Sum of abundances	ERR1700889_1.fastq	0.9997582
+edlib_cigar	strain	Sum of abundances	ERR1700889_1.fastq	0.9997582
+edlib_cigar	superkingdom	Taxon counts	ERR1700889_1.fastq	2.0
+edlib_cigar	phylum	Taxon counts	ERR1700889_1.fastq	3.0
+edlib_cigar	class	Taxon counts	ERR1700889_1.fastq	3.0
+edlib_cigar	order	Taxon counts	ERR1700889_1.fastq	4.0
+edlib_cigar	family	Taxon counts	ERR1700889_1.fastq	4.0
+edlib_cigar	genus	Taxon counts	ERR1700889_1.fastq	3.0
+edlib_cigar	species	Taxon counts	ERR1700889_1.fastq	5.0
+edlib_cigar	strain	Taxon counts	ERR1700889_1.fastq	5.0

@@ -1,0 +1,30 @@
+@SampleID:ERR1700889_1.fastq
+@Version:Metalign
+@Ranks: superkingdom|phylum|class|order|family|genus|species|strain
+
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE	_CAMI_genomeID	_CAMI_OTU
+2	superkingdom	2	Bacteria	69.12788
+10239	superkingdom	10239	Viruses	27.0914
+204428	phylum	2|204428	Bacteria|Chlamydiae	38.58305
+201174	phylum	2|201174	Bacteria|Actinobacteria	16.58705
+1224	phylum	2|1224	Bacteria|Proteobacteria	13.95778
+204429	class	2|204428|204429	Bacteria|Chlamydiae|Chlamydiia	38.58305
+1760	class	2|201174|1760	Bacteria|Actinobacteria|Actinobacteria	16.58705
+1236	class	2|1224|1236	Bacteria|Proteobacteria|Gammaproteobacteria	13.95778
+51291	order	2|204428|204429|51291	Bacteria|Chlamydiae|Chlamydiia|Chlamydiales	38.58305
+85007	order	2|201174|1760|85007	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales	16.58705
+135619	order	2|1224|1236|135619	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales	13.95778
+809	family	2|204428|204429|51291|809	Bacteria|Chlamydiae|Chlamydiia|Chlamydiales|Chlamydiaceae	38.58305
+1762	family	2|201174|1760|85007|1762	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae	16.58705
+224372	family	2|1224|1236|135619|224372	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae	13.95778
+810	genus	2|204428|204429|51291|809|810	Bacteria|Chlamydiae|Chlamydiia|Chlamydiales|Chlamydiaceae|Chlamydia	38.58305
+1763	genus	2|201174|1760|85007|1762|1763	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium	16.58705
+59753	genus	2|1224|1236|135619|224372|59753	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae|Alcanivorax	13.95778
+83555	species	2|204428|204429|51291|809|810|83555	Bacteria|Chlamydiae|Chlamydiia|Chlamydiales|Chlamydiaceae|Chlamydia|Chlamydia abortus	38.58305
+239364	species	10239||||||239364	Viruses||||||uncultured human fecal virus	27.0914
+1773	species	2|201174|1760|85007|1762|1763|1773	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium|Mycobacterium tuberculosis	16.58705
+172371	species	2|1224|1236|135619|224372|59753|172371	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae|Alcanivorax|Alcanivorax venustensis	13.95778
+83555.45.1	strain	2|204428|204429|51291|809|810|83555|83555.45.1	Bacteria|Chlamydiae|Chlamydiia|Chlamydiales|Chlamydiaceae|Chlamydia|Chlamydia abortus|	38.58305	83555.45.1	83555
+239364.1.1	strain	10239||||||239364|239364.1.1	Viruses||||||uncultured human fecal virus|	27.0914	239364.1.1	239364
+1773.1307.1	strain	2|201174|1760|85007|1762|1763|1773|1773.1307.1	Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium|Mycobacterium tuberculosis|	16.58705	1773.1307.1	1773
+172371.0	strain	2|1224|1236|135619|224372|59753|172371|172371.0	Bacteria|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Alcanivoracaceae|Alcanivorax|Alcanivorax venustensis|Alcanivorax venustensis unknown strain	13.95778	172371.0	172371
